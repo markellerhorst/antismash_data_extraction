@@ -1,0 +1,47 @@
+ClusterBlast scores for NZ_PHKP01000010.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CWB31_RS20500	207713	208532	+	ammonia-dependent NAD(+) synthetase	
+CWB31_RS20505	208581	209043	-	NUDIX hydrolase	
+CWB31_RS20510	209074	209272	-	DUF4083 domain-containing protein	
+CWB31_RS20515	209379	210540	-	transglutaminase domain-containing protein	
+CWB31_RS20520	210690	211443	-	YwqG family protein	
+CWB31_RS20525	211661	211802	+	YjcZ family sporulation protein	
+CWB31_RS20530	211889	212855	+	patatin-like phospholipase family protein	
+CWB31_RS20535	212967	213135	-	DUF3933 family protein	
+CWB31_RS20540	213147	214590	-	PLP-dependent aminotransferase family protein	
+CWB31_RS20545	214708	215323	+	LysE/ArgO family amino acid transporter	
+CWB31_RS20550	215376	216606	-	MFS transporter	
+CWB31_RS20555	216841	217048	-	alpha/beta-type small acid-soluble spore protein	
+CWB31_RS20560	217171	218014	-	sugar phosphate isomerase/epimerase family protein	
+CWB31_RS20565	218051	219035	-	DUF6005 family protein	
+CWB31_RS20570	219058	219334	-	petrobactin biosynthesis protein AsbD	
+CWB31_RS20575	219330	220569	-	AMP-binding protein	
+CWB31_RS20580	220555	222394	-	IucA/IucC family protein	
+CWB31_RS20585	222454	224263	-	IucA/IucC family protein	
+CWB31_RS20590	224560	225082	-	GNAT family N-acetyltransferase	
+
+
+Significant hits: 
+1. BGC0000942	petrobactin
+
+
+Details:
+
+>>
+1. BGC0000942
+Source: petrobactin
+Type: Other
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4288.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS20560	BA_1986	88	509	100.0	7.11e-185
+CWB31_RS20565	BA_1985	93	632	99.08256880733946	9.16e-232
+CWB31_RS20570	BA_1984	97	164	100.0	1.9e-54
+CWB31_RS20575	BA_1983	93	786	100.0	7.42e-290
+CWB31_RS20580	BA_1982	85	1068	99.83660130718954	0.0
+CWB31_RS20585	BA_1981	92	1129	100.0	0.0
+

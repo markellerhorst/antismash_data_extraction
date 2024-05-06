@@ -1,0 +1,24 @@
+ClusterBlast scores for NZ_CP022475.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CGZ47_RS07690	1479102	1480143	-	bifunctional threonine ammonia-lyase/L-serine ammonia-lyase TdcB	
+CGZ47_RS07695	1480358	1480691	+	hypothetical protein	
+CGZ47_RS07700	1480736	1480934	-	hypothetical protein	
+CGZ47_RS07705	1481034	1481361	-	bacteriocin immunity protein	
+CGZ47_RS07715	1481688	1481877	-	hypothetical protein	
+CGZ47_RS07720	1482081	1483151	-	IS3-like element IS1163 family transposase	
+CGZ47_RS07730	1483357	1483654	-	bacteriocin immunity protein	
+CGZ47_RS07735	1483747	1483933	-	leucocin A/sakacin P family class II bacteriocin	
+CGZ47_RS07740	1484079	1484826	-	response regulator transcription factor	
+CGZ47_RS07745	1484827	1485985	-	GHKL domain-containing protein	
+CGZ47_RS07750	1486192	1486303	-	bacteriocin	
+CGZ47_RS07755	1486475	1486730	-	hypothetical protein	
+CGZ47_RS07760	1486945	1487293	+	bacteriocin immunity protein	
+CGZ47_RS07765	1487501	1487717	-	hypothetical protein	
+CGZ47_RS07770	1487870	1488500	+	glutathione S-transferase N-terminal domain-containing protein	
+
+
+Significant hits: 
+
+
+Details:

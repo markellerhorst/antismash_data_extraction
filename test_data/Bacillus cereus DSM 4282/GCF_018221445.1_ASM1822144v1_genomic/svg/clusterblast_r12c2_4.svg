@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="57,40 167,40 172,35 167,30 57,30 57,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07900&lt;/b&gt;&lt;br&gt;PLP-dependent aminotransferase family protein&lt;br&gt;Location: 371247 - 372696" locus_tag="CWB31_RS07900" class="clusterblast-orf" id="dummy-2_q0_0_all"  />
+<polygon points="172,40 239,40 244,35 239,30 172,30 172,40 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07905&lt;/b&gt;&lt;br&gt;D-alanine--D-alanine ligase&lt;br&gt;Location: 372700 - 373615" locus_tag="CWB31_RS07905" class="clusterblast-orf" id="dummy-2_q1_0_all"  />
+<polygon points="269,40 318,40 323,35 318,30 269,30 269,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07910&lt;/b&gt;&lt;br&gt;thiaminase II&lt;br&gt;Location: 373921 - 374611" locus_tag="CWB31_RS07910" class="clusterblast-orf" id="dummy-2_q2_0_all"  />
+<polygon points="355,40 370,40 375,35 370,30 355,30 355,40 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07915&lt;/b&gt;&lt;br&gt;DUF3937 domain-containing protein&lt;br&gt;Location: 375008 - 375272" locus_tag="CWB31_RS07915" class="clusterblast-orf" id="dummy-2_q3_0_all"  />
+<polygon points="419,40 440,40 445,35 440,30 419,30 419,40 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07920&lt;/b&gt;&lt;br&gt;heterocycloanthracin/sonorensin family bacteriocin&lt;br&gt;Location: 375827 - 376148" locus_tag="CWB31_RS07920" class="clusterblast-orf" id="dummy-2_q4_0_all"  />
+<polygon points="459,40 462,40 467,35 462,30 459,30 459,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07925&lt;/b&gt;&lt;br&gt;site-specific integrase&lt;br&gt;Location: 376324 - 376428" locus_tag="CWB31_RS07925" class="clusterblast-orf" id="dummy-2_q5_0_all"  />
+<polygon points="483,40 517,40 522,35 517,30 483,30 483,40 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07930&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 376637 - 377123" locus_tag="CWB31_RS07930" class="clusterblast-orf" id="dummy-2_q6_0_all"  />
+<polygon points="546,40 597,40 602,35 597,30 546,30 546,40 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07935&lt;/b&gt;&lt;br&gt;DUF3962 domain-containing protein&lt;br&gt;Location: 377434 - 378136" locus_tag="CWB31_RS07935" class="clusterblast-orf" id="dummy-2_q7_0_all"  />
+<polygon points="605,35 610,30 693,30 693,40 610,40 605,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07940&lt;/b&gt;&lt;br&gt;tyrosine-type recombinase/integrase&lt;br&gt;Location: 378174 - 379284" locus_tag="CWB31_RS07940" class="clusterblast-orf" id="dummy-2_q8_0_all"  />
+<polygon points="709,40 718,40 723,35 718,30 709,30 709,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS07945&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 379488 - 379671" locus_tag="CWB31_RS07945" class="clusterblast-orf" id="dummy-2_q9_0_all"  />
+</g>
+<g label="NZ_KB976160" description="NZ_KB976160 (2880446-2890791): Bacillus cereus BAG1X1-1 acfXz-supercont1.1, w... (88% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_KB976160&amp;start=2880446&amp;end=2890791" target="_blank">NZ_KB976160 (2880446-2890791)</a>: Bacillus cereus BAG1X1-1 acfXz-supercont1.1, w... (88% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a2_000"  >
+<polygon points="0,90 109,90 114,85 109,80 0,80 0,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14775&lt;/b&gt;&lt;br&gt;PLP-dependent aminotransferase family protein&lt;br&gt;Location: 2890475 - 2889027&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07900&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 950&lt;br&gt;E-value: 0.0" locus_tag="ICC_RS14775" class="clusterblast-orf" id="dummy-2_h2_4_0"  />
+</g>
+<g id="a2_001"  >
+<polygon points="114,90 182,90 187,85 182,80 114,80 114,90 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14770&lt;/b&gt;&lt;br&gt;D-alanine--D-alanine ligase&lt;br&gt;Location: 2889022 - 2888108&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07905&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 586&lt;br&gt;E-value: 1.53e-212" locus_tag="ICC_RS14770" class="clusterblast-orf" id="dummy-2_h2_4_1"  />
+</g>
+<g id="a2_002"  >
+<polygon points="211,90 260,90 265,85 260,80 211,80 211,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14765&lt;/b&gt;&lt;br&gt;thiaminase II&lt;br&gt;Location: 2887801 - 2887112&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07910&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 470&lt;br&gt;E-value: 3.59e-169" locus_tag="ICC_RS14765" class="clusterblast-orf" id="dummy-2_h2_4_2"  />
+</g>
+<g id="a2_003"  >
+<polygon points="302,90 317,90 322,85 317,80 302,80 302,90 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14760&lt;/b&gt;&lt;br&gt;DUF3937 family protein&lt;br&gt;Location: 2886656 - 2886393&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07915&lt;/b&gt;&lt;br&gt;Percentage identity: 94&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 164&lt;br&gt;E-value: 1.47e-52" locus_tag="ICC_RS14760" class="clusterblast-orf" id="dummy-2_h2_4_3"  />
+</g>
+<g id="a2_004"  >
+<polygon points="370,90 392,90 397,85 392,80 370,80 370,90 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14755&lt;/b&gt;&lt;br&gt;heterocycloanthracin/sonorensin family bacteriocin&lt;br&gt;Location: 2885791 - 2885447&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07920&lt;/b&gt;&lt;br&gt;Percentage identity: 90&lt;br&gt;Percentage coverage: 106&lt;br&gt;BLAST bit score: 108&lt;br&gt;E-value: 8.72e-30" locus_tag="ICC_RS14755" class="clusterblast-orf" id="dummy-2_h2_4_4"  />
+</g>
+<g id="a2_005"  >
+<polygon points="436,90 470,90 475,85 470,80 436,80 436,90 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14750&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2884953 - 2884468&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07930&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 299&lt;br&gt;E-value: 1.01e-103" locus_tag="ICC_RS14750" class="clusterblast-orf" id="dummy-2_h2_4_5"  />
+</g>
+<g id="a2_006"  >
+<polygon points="499,90 547,90 552,85 547,80 499,80 499,90 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14745&lt;/b&gt;&lt;br&gt;DUF3962 domain-containing protein&lt;br&gt;Location: 2884159 - 2883488&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07935&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 457&lt;br&gt;E-value: 5.19e-164" locus_tag="ICC_RS14745" class="clusterblast-orf" id="dummy-2_h2_4_6"  />
+</g>
+<g id="a2_007"  >
+<polygon points="558,85 563,80 645,80 645,90 563,90 558,85 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14740&lt;/b&gt;&lt;br&gt;tyrosine-type recombinase/integrase&lt;br&gt;Location: 2883419 - 2882310&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS07940&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 724&lt;br&gt;E-value: 4.57e-265" locus_tag="ICC_RS14740" class="clusterblast-orf" id="dummy-2_h2_4_7"  />
+</g>
+<g id="a2_008"  >
+<polygon points="688,90 775,90 780,85 775,80 688,80 688,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ICC_RS14735&lt;/b&gt;&lt;br&gt;AimR family lysis-lysogeny pheromone receptor&lt;br&gt;Location: 2881763 - 2880612" locus_tag="ICC_RS14735" class="clusterblast-orf" id="dummy-2_h2_4_8"  />
+</g>
+</svg>

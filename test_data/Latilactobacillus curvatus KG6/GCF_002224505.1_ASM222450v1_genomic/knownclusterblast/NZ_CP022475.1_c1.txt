@@ -1,0 +1,29 @@
+ClusterBlast scores for NZ_CP022475.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CGZ47_RS01655	306428	307826	+	L-cystine transporter	
+CGZ47_RS01660	307851	309186	+	CoA-disulfide reductase	
+CGZ47_RS01665	309392	310652	+	C40 family peptidase	
+CGZ47_RS01670	310752	311388	+	hypothetical protein	
+CGZ47_RS01675	311389	312031	-	SDR family oxidoreductase	
+CGZ47_RS01680	312395	313046	+	L-serine ammonia-lyase, iron-sulfur-dependent subunit beta	
+CGZ47_RS01685	313060	313951	+	L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha	
+CGZ47_RS01690	313975	315918	+	OPT family oligopeptide transporter	
+CGZ47_RS01695	315892	316246	+	PqqD family protein	
+CGZ47_RS01700	316298	317720	+	C69 family dipeptidase	
+CGZ47_RS01705	317797	318649	+	YitT family protein	
+CGZ47_RS01710	318718	319393	-	ABC transporter ATP-binding protein	
+CGZ47_RS01715	319394	320450	-	FtsX-like permease family protein	
+CGZ47_RS01720	320583	321150	+	TetR family transcriptional regulator	
+CGZ47_RS01725	321235	321910	+	helix-turn-helix domain-containing protein	
+CGZ47_RS01730	321906	322800	+	IS3 family transposase	
+CGZ47_RS01735	322887	323103	-	DUF2187 family protein	
+CGZ47_RS01740	323302	324142	+	HAD family hydrolase	
+CGZ47_RS01750	324371	325352	-	polyprenyl synthetase family protein	
+CGZ47_RS01755	325370	325904	-	Gx transporter family protein	
+
+
+Significant hits: 
+
+
+Details:

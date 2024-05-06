@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="108,35 113,30 171,30 171,40 113,40 108,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07690&lt;/b&gt;&lt;br&gt;bifunctional threonine ammonia-lyase/L-serine ammonia-lyase TdcB&lt;br&gt;Location: 1479102 - 1480143" locus_tag="CGZ47_RS07690" class="clusterblast-orf" id="dummy-2_q0_0_all"  />
+<polygon points="183,40 198,40 203,35 198,30 183,30 183,40 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1480358 - 1480691" locus_tag="CGZ47_RS07695" class="clusterblast-orf" id="dummy-2_q1_0_all"  />
+<polygon points="206,35 211,30 218,30 218,40 211,40 206,35 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07700&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1480736 - 1480934" locus_tag="CGZ47_RS07700" class="clusterblast-orf" id="dummy-2_q2_0_all"  />
+<polygon points="224,35 229,30 244,30 244,40 229,40 224,35 " style="fill:#a115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07705&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 1481034 - 1481361" locus_tag="CGZ47_RS07705" class="clusterblast-orf" id="dummy-2_q3_0_all"  />
+<polygon points="263,35 268,30 275,30 275,40 268,40 263,35 " style="fill:#d86915; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07715&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1481688 - 1481877" locus_tag="CGZ47_RS07715" class="clusterblast-orf" id="dummy-2_q4_0_all"  />
+<polygon points="287,35 292,30 351,30 351,40 292,40 287,35 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07720&lt;/b&gt;&lt;br&gt;IS3-like element IS1163 family transposase&lt;br&gt;Location: 1482081 - 1483151" locus_tag="CGZ47_RS07720" class="clusterblast-orf" id="dummy-2_q5_0_all"  />
+<polygon points="363,35 368,30 381,30 381,40 368,40 363,35 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07730&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 1483357 - 1483654" locus_tag="CGZ47_RS07730" class="clusterblast-orf" id="dummy-2_q6_0_all"  />
+<polygon points="387,35 392,30 398,30 398,40 392,40 387,35 " style="fill:#1531d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07735&lt;/b&gt;&lt;br&gt;leucocin A/sakacin P family class II bacteriocin&lt;br&gt;Location: 1483747 - 1483933" locus_tag="CGZ47_RS07735" class="clusterblast-orf" id="dummy-2_q7_0_all"  />
+<polygon points="407,35 412,30 452,30 452,40 412,40 407,35 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07740&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 1484079 - 1484826" locus_tag="CGZ47_RS07740" class="clusterblast-orf" id="dummy-2_q8_0_all"  />
+<polygon points="452,35 457,30 521,30 521,40 457,40 452,35 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07745&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 1484827 - 1485985" locus_tag="CGZ47_RS07745" class="clusterblast-orf" id="dummy-2_q9_0_all"  />
+<polygon points="534,35 539,30 540,30 540,40 539,40 534,35 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07750&lt;/b&gt;&lt;br&gt;bacteriocin&lt;br&gt;Location: 1486192 - 1486303" locus_tag="CGZ47_RS07750" class="clusterblast-orf" id="dummy-2_q10_0_all"  />
+<polygon points="551,35 556,30 566,30 566,40 556,40 551,35 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07755&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1486475 - 1486730" locus_tag="CGZ47_RS07755" class="clusterblast-orf" id="dummy-2_q11_0_all"  />
+<polygon points="579,40 595,40 600,35 595,30 579,30 579,40 " style="fill:#d81569; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07760&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 1486945 - 1487293" locus_tag="CGZ47_RS07760" class="clusterblast-orf" id="dummy-2_q12_0_all"  />
+<polygon points="612,35 617,30 625,30 625,40 617,40 612,35 " style="fill:#a1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07765&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1487501 - 1487717" locus_tag="CGZ47_RS07765" class="clusterblast-orf" id="dummy-2_q13_0_all"  />
+<polygon points="634,40 667,40 672,35 667,30 634,30 634,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CGZ47_RS07770&lt;/b&gt;&lt;br&gt;glutathione S-transferase N-terminal domain-containing protein&lt;br&gt;Location: 1487870 - 1488500" locus_tag="CGZ47_RS07770" class="clusterblast-orf" id="dummy-2_q14_0_all"  />
+</g>
+<g label="NZ_CP031003" description="NZ_CP031003 (1884464-1898025): Latilactobacillus curvatus strain TMW 1.1928 c... (42% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP031003&amp;start=1884464&amp;end=1898025" target="_blank">NZ_CP031003 (1884464-1898025)</a>: Latilactobacillus curvatus strain TMW 1.1928 c... (42% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a2_000"  >
+<polygon points="0,90 17,90 22,85 17,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09900&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1898022 - 1897639" locus_tag="DT351_RS09900" class="clusterblast-orf" id="dummy-2_h2_10_0"  />
+</g>
+<g id="a2_001"  >
+<polygon points="43,85 48,80 118,80 118,90 48,90 43,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09895&lt;/b&gt;&lt;br&gt;IS110 family transposase&lt;br&gt;Location: 1897304 - 1896054" locus_tag="DT351_RS09895" class="clusterblast-orf" id="dummy-2_h2_10_1"  />
+</g>
+<g id="a2_002"  >
+<polygon points="191,90 250,90 255,85 250,80 191,80 191,90 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09890&lt;/b&gt;&lt;br&gt;IS3-like element IS1163 family transposase&lt;br&gt;Location: 1894830 - 1893761&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CGZ47_RS07720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 716&lt;br&gt;E-value: 2.63e-262" locus_tag="DT351_RS09890" class="clusterblast-orf" id="dummy-2_h2_10_2"  />
+</g>
+<g id="a2_003"  >
+<polygon points="274,85 279,80 292,80 292,90 279,90 274,85 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09880&lt;/b&gt;&lt;br&gt;bacteriocin immunity protein&lt;br&gt;Location: 1893449 - 1893156&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CGZ47_RS07700&lt;/b&gt;&lt;br&gt;Percentage identity: 47&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 1.21e-10&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CGZ47_RS07730&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 103&lt;br&gt;BLAST bit score: 89&lt;br&gt;E-value: 1.11e-22" locus_tag="DT351_RS09880" class="clusterblast-orf" id="dummy-2_h2_10_3"  />
+</g>
+<g id="a2_004"  >
+<polygon points="299,85 304,80 311,80 311,90 304,90 299,85 " style="fill:#1531d8; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09875&lt;/b&gt;&lt;br&gt;leucocin A/sakacin P family class II bacteriocin&lt;br&gt;Location: 1893025 - 1892840&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CGZ47_RS07735&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 70&lt;br&gt;E-value: 5.8e-16" locus_tag="DT351_RS09875" class="clusterblast-orf" id="dummy-2_h2_10_4"  />
+</g>
+<g id="a2_005"  >
+<polygon points="319,85 324,80 340,80 340,90 324,90 319,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09870&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1892692 - 1892354" locus_tag="DT351_RS09870" class="clusterblast-orf" id="dummy-2_h2_10_5"  />
+</g>
+<g id="a2_006"  >
+<polygon points="341,85 346,80 352,80 352,90 346,90 341,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09865&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 1892332 - 1892141" locus_tag="DT351_RS09865" class="clusterblast-orf" id="dummy-2_h2_10_6"  />
+</g>
+<g id="a2_007"  >
+<polygon points="353,85 358,80 366,80 366,90 358,90 353,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09860&lt;/b&gt;&lt;br&gt;Blp family class II bacteriocin&lt;br&gt;Location: 1892127 - 1891918" locus_tag="DT351_RS09860" class="clusterblast-orf" id="dummy-2_h2_10_7"  />
+</g>
+<g id="a2_008"  >
+<polygon points="383,90 508,90 513,85 508,80 383,80 383,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09855&lt;/b&gt;&lt;br&gt;peptide cleavage/export ABC transporter&lt;br&gt;Location: 1891636 - 1889465" locus_tag="DT351_RS09855" class="clusterblast-orf" id="dummy-2_h2_10_8"  />
+</g>
+<g id="a2_009"  >
+<polygon points="548,85 553,80 612,80 612,90 553,90 548,85 " style="fill:#15d831; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09845&lt;/b&gt;&lt;br&gt;IS3-like element IS1520 family transposase&lt;br&gt;Location: 1888881 - 1887812&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CGZ47_RS07720&lt;/b&gt;&lt;br&gt;Percentage identity: 43&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 259&lt;br&gt;E-value: 3.67e-82" locus_tag="DT351_RS09845" class="clusterblast-orf" id="dummy-2_h2_10_9"  />
+</g>
+<g id="a2_0010"  >
+<polygon points="619,90 671,90 676,85 671,80 619,80 619,90 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09840&lt;/b&gt;&lt;br&gt;GHKL domain-containing protein&lt;br&gt;Location: 1887704 - 1886754&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CGZ47_RS07745&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 59&lt;br&gt;BLAST bit score: 110&lt;br&gt;E-value: 2.47e-25" locus_tag="DT351_RS09840" class="clusterblast-orf" id="dummy-2_h2_10_10"  />
+</g>
+<g id="a2_0011"  >
+<polygon points="676,90 716,90 721,85 716,80 676,80 676,90 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09835&lt;/b&gt;&lt;br&gt;LytTR family DNA-binding domain-containing protein&lt;br&gt;Location: 1886752 - 1885994&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CGZ47_RS07740&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 118&lt;br&gt;E-value: 3.19e-30" locus_tag="DT351_RS09835" class="clusterblast-orf" id="dummy-2_h2_10_11"  />
+</g>
+<g id="a2_0012"  >
+<polygon points="747,90 750,90 755,85 750,80 747,80 747,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS11450&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1885563 - 1885426" locus_tag="DT351_RS11450" class="clusterblast-orf" id="dummy-2_h2_10_12"  />
+</g>
+<g id="a2_0013"  >
+<polygon points="757,90 775,90 780,85 775,80 757,80 757,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DT351_RS09830&lt;/b&gt;&lt;br&gt;PedC/BrcD family bacteriocin maturation disulfide isomerase&lt;br&gt;Location: 1885409 - 1885026" locus_tag="DT351_RS09830" class="clusterblast-orf" id="dummy-2_h2_10_13"  />
+</g>
+</svg>

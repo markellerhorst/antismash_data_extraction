@@ -1,0 +1,128 @@
+ClusterBlast scores for NZ_PHKP01000002.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CWB31_RS07485	288631	289558	+	class A beta-lactamase Bla1	
+CWB31_RS07490	289818	290661	+	metallophosphoesterase	
+CWB31_RS07495	290876	291128	+	hypothetical protein	
+CWB31_RS07500	291316	292042	+	ABC transporter ATP-binding protein	
+CWB31_RS07505	292038	293058	+	ABC transporter permease	
+CWB31_RS07510	293082	293736	+	TetR/AcrR family transcriptional regulator	
+CWB31_RS07515	293857	294157	-	WGxxGxxG family protein	
+CWB31_RS07520	294390	295359	+	DUF523 and DUF1722 domain-containing protein	
+CWB31_RS07525	295575	296721	+	acyl-CoA dehydrogenase	
+CWB31_RS07530	296736	298074	+	acetyl-CoA carboxylase biotin carboxylase subunit	
+CWB31_RS07535	298100	298316	+	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit	
+CWB31_RS07540	298337	299249	+	hydroxymethylglutaryl-CoA lyase	
+CWB31_RS07545	299253	300042	+	enoyl-CoA hydratase	
+CWB31_RS07550	300044	301586	+	acyl-CoA carboxylase subunit beta	
+CWB31_RS07555	301635	303576	+	AMP-binding protein	
+CWB31_RS07560	303886	304324	-	hypothetical protein	
+CWB31_RS07565	304885	305242	+	hypothetical protein	
+CWB31_RS07570	305347	305881	+	GNAT family protein	
+CWB31_RS07575	305935	306496	+	AAA family ATPase	
+CWB31_RS07580	306488	307265	+	alpha/beta fold hydrolase	
+CWB31_RS07585	307231	307471	+	damage-inducible protein DinB	
+CWB31_RS07590	307830	307968	-	DUF3956 domain-containing protein	
+CWB31_RS07595	308133	308244	+	damage-inducible protein DinB	
+CWB31_RS07600	308306	309323	-	serine hydrolase	
+CWB31_RS07605	309498	310656	-	HAMP domain-containing sensor histidine kinase	
+CWB31_RS07610	310645	311341	-	response regulator transcription factor	
+CWB31_RS07615	311533	312142	+	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) YqeK	
+CWB31_RS07620	312155	312859	+	DUF3885 domain-containing protein	
+
+
+Significant hits: 
+1. BGC0001095	fengycin
+2. BGC0001103	mycosubtilin
+3. BGC0002284	corynecin III/corynecin I/corynecin II
+4. BGC0000407	plipastatin
+
+
+Details:
+
+>>
+1. BGC0001095
+Source: fengycin
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2542.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS07525	RBAM_018390	73	546	99.21259842519686	3.54e-196
+CWB31_RS07530	RBAM_018370	61	539	98.65168539325843	2.63e-191
+CWB31_RS07535	RBAM_018360	57	81	98.59154929577466	5.72e-22
+CWB31_RS07540	RBAM_018350	50	305	98.67986798679867	9.7e-104
+CWB31_RS07545	RBAM_018340	62	280	92.74809160305344	5.77e-95
+CWB31_RS07550	RBAM_018330	79	791	97.46588693957115	1.14e-288
+
+
+
+>>
+2. BGC0001103
+Source: mycosubtilin
+Type: NRP+Polyketide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1233.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAF08794.1	AAF08794.1	1938	3140	+	FenF
+AAF08795.1	AAF08795.1	3161	15076	+	MycA
+AAF08796.1	AAF08796.1	15133	31242	+	MycB
+AAF08797.1	AAF08797.1	31340	39169	+	MycC
+AAF08798.1	AAF08798.1	39339	39731	+	YngL
+AAF08799.1	AAF08799.1	39886	41418	+	YngK
+AAF08800.1	AAF08800.1	41925	43067	+	YngJ
+AAF08801.1	AAF08801.1	43110	44759	+	YngI
+AAF08802.1	AAF08802.1	44769	46103	+	YngH
+AAF08803.1	AAF08803.1	46118	46339	+	YngXX
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS07525	AAF08800.1	75	566	99.21259842519686	4.33e-204
+CWB31_RS07530	AAF08802.1	65	585	99.7752808988764	1.83e-209
+CWB31_RS07535	AAF08803.1	61	82	92.95774647887323	3.07e-22
+
+
+
+>>
+3. BGC0002284
+Source: corynecin III/corynecin I/corynecin II
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 793.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS07525	CPI83_20015	49	359	98.9501312335958	1.9e-122
+CWB31_RS07530	CPI83_20020	52	434	99.5505617977528	1.34e-146
+
+
+
+>>
+4. BGC0000407
+Source: plipastatin
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1156.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AEW31016.1	AEW31016.1	1	1392	+	putative_efflux_transporter
+AEW31017.1	AEW31017.1	1526	2503	+	putative_epimerase
+AEW31018.1	AEW31018.1	2537	4012	+	penicillin-binding_protein
+AEW31019.1	AEW31019.1	4394	12079	+	plipastatin_synthetase
+AEW31020.1	AEW31020.1	12104	19786	+	plipastatin_synthetase
+AEW31021.1	AEW31021.1	19804	27471	+	plipastatin_synthetase
+AEW31022.1	AEW31022.1	27497	38347	+	plipastatin_synthetase
+AEW31015.1	AEW31015.1	38355	42194	+	plipastatin_synthetase
+AEW31023.1	AEW31023.1	42302	42694	+	integral_inner_membrane_protein
+AEW31024.1	AEW31024.1	42830	44362	+	hypothetical_protein
+AEW31025.1	AEW31025.1	44943	46085	+	acyl-CoA_dehydrogenase
+AEW31026.1	AEW31026.1	46130	47779	+	short-chain_acyl-CoA_synthetase
+AEW31027.1	AEW31027.1	47789	49123	+	acetyl-CoA_carboxylase_biotin_carboxylase_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS07525	AEW31025.1	75	570	99.21259842519686	1.85e-205
+CWB31_RS07530	AEW31027.1	66	586	99.7752808988764	9.1e-210
+

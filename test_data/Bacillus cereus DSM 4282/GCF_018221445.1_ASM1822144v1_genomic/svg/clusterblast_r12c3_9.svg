@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="2,40 119,40 124,35 119,30 2,30 2,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08440&lt;/b&gt;&lt;br&gt;glycosyl hydrolase family 8&lt;br&gt;Location: 470484 - 471846" locus_tag="CWB31_RS08440" class="clusterblast-orf" id="dummy-3_q0_0_all"  />
+<polygon points="139,40 217,40 222,35 217,30 139,30 139,40 " style="fill:#5cd815; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08445&lt;/b&gt;&lt;br&gt;nucleoside hydrolase&lt;br&gt;Location: 472008 - 472932" locus_tag="CWB31_RS08445" class="clusterblast-orf" id="dummy-3_q1_0_all"  />
+<polygon points="229,40 266,40 271,35 266,30 229,30 229,40 " style="fill:#15a3d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08450&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 473008 - 473467" locus_tag="CWB31_RS08450" class="clusterblast-orf" id="dummy-3_q2_0_all"  />
+<polygon points="273,40 300,40 305,35 300,30 273,30 273,40 " style="fill:#c715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08455&lt;/b&gt;&lt;br&gt;divalent cation tolerance protein CutA&lt;br&gt;Location: 473497 - 473845" locus_tag="CWB31_RS08455" class="clusterblast-orf" id="dummy-3_q3_0_all"  />
+<polygon points="306,40 341,40 346,35 341,30 306,30 306,40 " style="fill:#d88015; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08460&lt;/b&gt;&lt;br&gt;NUDIX domain-containing protein&lt;br&gt;Location: 473861 - 474308" locus_tag="CWB31_RS08460" class="clusterblast-orf" id="dummy-3_q4_0_all"  />
+<polygon points="364,40 383,40 388,35 383,30 364,30 364,40 " style="fill:#15d839; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08465&lt;/b&gt;&lt;br&gt;heterocycloanthracin/sonorensin family bacteriocin&lt;br&gt;Location: 474507 - 474774" locus_tag="CWB31_RS08465" class="clusterblast-orf" id="dummy-3_q5_0_all"  />
+<polygon points="397,40 484,40 489,35 484,30 397,30 397,40 " style="fill:#1539d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08470&lt;/b&gt;&lt;br&gt;serine hydrolase domain-containing protein&lt;br&gt;Location: 474875 - 475892" locus_tag="CWB31_RS08470" class="clusterblast-orf" id="dummy-3_q6_0_all"  />
+<polygon points="492,40 500,40 505,35 500,30 492,30 492,40 " style="fill:#d81580; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08475&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 475923 - 476067" locus_tag="CWB31_RS08475" class="clusterblast-orf" id="dummy-3_q7_0_all"  />
+<polygon points="530,40 634,40 639,35 634,30 530,30 530,40 " style="fill:#c7d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08480&lt;/b&gt;&lt;br&gt;OFA family MFS transporter&lt;br&gt;Location: 476346 - 477555" locus_tag="CWB31_RS08480" class="clusterblast-orf" id="dummy-3_q8_0_all"  />
+<polygon points="662,40 713,40 718,35 713,30 662,30 662,40 " style="fill:#15d8a3; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08485&lt;/b&gt;&lt;br&gt;cadmium resistance transporter&lt;br&gt;Location: 477805 - 478432" locus_tag="CWB31_RS08485" class="clusterblast-orf" id="dummy-3_q9_0_all"  />
+<polygon points="741,40 774,40 779,35 774,30 741,30 741,40 " style="fill:#5c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CWB31_RS08490&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 478682 - 479108" locus_tag="CWB31_RS08490" class="clusterblast-orf" id="dummy-3_q10_0_all"  />
+</g>
+<g label="NZ_CP016285" description="NZ_CP016285 (2472348-2482618): Bacillus sp. B25(2016b) chromosome (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP016285&amp;start=2472348&amp;end=2482618" target="_blank">NZ_CP016285 (2472348-2482618)</a>: Bacillus sp. B25(2016b) chromosome (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a3_000"  >
+<polygon points="0,90 117,90 122,85 117,80 0,80 0,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12545&lt;/b&gt;&lt;br&gt;glycosyl hydrolase family 8&lt;br&gt;Location: 2473325 - 2474686&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08440&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 912&lt;br&gt;E-value: 0.0" locus_tag="BAQ53_RS12545" class="clusterblast-orf" id="dummy-3_h3_9_0"  />
+</g>
+<g id="a3_001"  >
+<polygon points="137,90 215,90 220,85 215,80 137,80 137,90 " style="fill:#5cd815; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12550&lt;/b&gt;&lt;br&gt;nucleoside hydrolase&lt;br&gt;Location: 2474849 - 2475772&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08445&lt;/b&gt;&lt;br&gt;Percentage identity: 95&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 584&lt;br&gt;E-value: 7.88e-212" locus_tag="BAQ53_RS12550" class="clusterblast-orf" id="dummy-3_h3_9_1"  />
+</g>
+<g id="a3_002"  >
+<polygon points="227,90 263,90 268,85 263,80 227,80 227,90 " style="fill:#15a3d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12555&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 2475850 - 2476308&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08450&lt;/b&gt;&lt;br&gt;Percentage identity: 91&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 279&lt;br&gt;E-value: 3.07e-96" locus_tag="BAQ53_RS12555" class="clusterblast-orf" id="dummy-3_h3_9_2"  />
+</g>
+<g id="a3_003"  >
+<polygon points="271,90 297,90 302,85 297,80 271,80 271,90 " style="fill:#c715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12560&lt;/b&gt;&lt;br&gt;divalent cation tolerance protein CutA&lt;br&gt;Location: 2476339 - 2476686&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08455&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 236&lt;br&gt;E-value: 2.35e-80" locus_tag="BAQ53_RS12560" class="clusterblast-orf" id="dummy-3_h3_9_3"  />
+</g>
+<g id="a3_004"  >
+<polygon points="304,90 339,90 344,85 339,80 304,80 304,90 " style="fill:#d88015; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12565&lt;/b&gt;&lt;br&gt;NUDIX domain-containing protein&lt;br&gt;Location: 2476703 - 2477149&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08460&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 296&lt;br&gt;E-value: 4.42e-103" locus_tag="BAQ53_RS12565" class="clusterblast-orf" id="dummy-3_h3_9_4"  />
+</g>
+<g id="a3_005"  >
+<polygon points="362,90 381,90 386,85 381,80 362,80 362,90 " style="fill:#15d839; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12570&lt;/b&gt;&lt;br&gt;heterocycloanthracin/sonorensin family bacteriocin&lt;br&gt;Location: 2477349 - 2477618&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08465&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 51&lt;br&gt;BLAST bit score: 96&lt;br&gt;E-value: 1.57e-25" locus_tag="BAQ53_RS12570" class="clusterblast-orf" id="dummy-3_h3_9_5"  />
+</g>
+<g id="a3_006"  >
+<polygon points="396,90 482,90 487,85 482,80 396,80 396,90 " style="fill:#1539d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12575&lt;/b&gt;&lt;br&gt;serine hydrolase domain-containing protein&lt;br&gt;Location: 2477719 - 2478735&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08470&lt;/b&gt;&lt;br&gt;Percentage identity: 94&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 643&lt;br&gt;E-value: 4.18e-234" locus_tag="BAQ53_RS12575" class="clusterblast-orf" id="dummy-3_h3_9_6"  />
+</g>
+<g id="a3_007"  >
+<polygon points="490,90 498,90 503,85 498,80 490,80 490,90 " style="fill:#d81580; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12580&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2478767 - 2478910&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08475&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 91&lt;br&gt;E-value: 6.53e-25" locus_tag="BAQ53_RS12580" class="clusterblast-orf" id="dummy-3_h3_9_7"  />
+</g>
+<g id="a3_008"  >
+<polygon points="528,90 632,90 637,85 632,80 528,80 528,90 " style="fill:#c7d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12585&lt;/b&gt;&lt;br&gt;OFA family MFS transporter&lt;br&gt;Location: 2479191 - 2480399&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08480&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 726&lt;br&gt;E-value: 1.46e-264" locus_tag="BAQ53_RS12585" class="clusterblast-orf" id="dummy-3_h3_9_8"  />
+</g>
+<g id="a3_009"  >
+<polygon points="662,90 714,90 719,85 714,80 662,80 662,90 " style="fill:#15d8a3; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12590&lt;/b&gt;&lt;br&gt;cadmium resistance transporter&lt;br&gt;Location: 2480676 - 2481302&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08485&lt;/b&gt;&lt;br&gt;Percentage identity: 95&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 359&lt;br&gt;E-value: 4.08e-126" locus_tag="BAQ53_RS12590" class="clusterblast-orf" id="dummy-3_h3_9_9"  />
+</g>
+<g id="a3_0010"  >
+<polygon points="741,90 775,90 780,85 775,80 741,80 741,90 " style="fill:#5c15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BAQ53_RS12595&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 2481553 - 2481978&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CWB31_RS08490&lt;/b&gt;&lt;br&gt;Percentage identity: 92&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 274&lt;br&gt;E-value: 1.84e-94" locus_tag="BAQ53_RS12595" class="clusterblast-orf" id="dummy-3_h3_9_10"  />
+</g>
+</svg>

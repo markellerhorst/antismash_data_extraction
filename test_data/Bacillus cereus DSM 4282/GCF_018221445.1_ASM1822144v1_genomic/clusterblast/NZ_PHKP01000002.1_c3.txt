@@ -1,0 +1,1271 @@
+ClusterBlast scores for NZ_PHKP01000002.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CWB31_RS08440	470484	471846	+	glycosyl hydrolase family 8	
+CWB31_RS08445	472008	472932	+	nucleoside hydrolase	
+CWB31_RS08450	473008	473467	+	GNAT family N-acetyltransferase	
+CWB31_RS08455	473497	473845	+	divalent cation tolerance protein CutA	
+CWB31_RS08460	473861	474308	+	NUDIX domain-containing protein	
+CWB31_RS08465	474507	474774	+	heterocycloanthracin/sonorensin family bacteriocin	
+CWB31_RS08470	474875	475892	+	serine hydrolase domain-containing protein	
+CWB31_RS08475	475923	476067	+	hypothetical protein	
+CWB31_RS08480	476346	477555	+	OFA family MFS transporter	
+CWB31_RS08485	477805	478432	+	cadmium resistance transporter	
+CWB31_RS08490	478682	479108	+	GNAT family N-acetyltransferase	
+
+
+Significant hits: 
+1. NZ_CM000726	Bacillus cereus BDRD-Cer4 chromosome, whole genome shotgun sequence
+2. NZ_CP026678	Bacillus cereus strain TG1-6 chromosome, complete genome
+3. NZ_KE332536	Bacillus cereus BAG1O-3 supercont1.1, whole genome shotgun sequence
+4. NZ_NUNK01000010	Bacillus thuringiensis strain AFS036350 AFS036350_119_F4_Contig10_140618, whole genome shotgun sequence
+5. NZ_FRBJ01000001	Bacillus sp. bc15, whole genome shotgun sequence
+6. NZ_CP040334	Bacillus cereus strain DLOU-Changhai chromosome, complete genome
+7. NZ_CP110109	Bacillus thuringiensis strain TG-5 chromosome, complete genome
+8. NZ_CP063158	Bacillus cereus strain CF4-51 chromosome, complete genome
+9. NZ_CP016285	Bacillus sp. B25(2016b) chromosome
+10. NZ_NJPZ01000032	Bacillus cereus strain 33-1 33-1_R1_(paired)_contig_32, whole genome shotgun sequence
+11. NZ_NUBM01000011	Bacillus wiedmannii strain AFS023423 AFS023423_73_F2_Contig11_140411, whole genome shotgun sequence
+12. NZ_CP031749	Bacillus sp. E25 chromosome
+13. NZ_WBPC01000018	Bacillus cereus strain CH124a_4D NODE_19_length_455840_cov_35.561756, whole genome shotgun sequence
+14. NZ_CP013274	Bacillus thuringiensis strain CTC chromosome, complete genome
+15. NZ_CP009369	Bacillus cereus strain FM1 chromosome, complete genome
+16. NZ_NUNS01000026	Bacillus cereus strain AFS034791 AFS034791_71_H9_Contig23_140411, whole genome shotgun sequence
+17. NZ_CP009941	Bacillus cereus strain 03BB87 chromosome, complete genome
+18. NZ_CP036073	Bacillus wiedmannii strain JAS08/1 chromosome, complete genome
+19. NZ_NVCJ01000019	Bacillus thuringiensis strain AFS065707 AFS065707_104_B12_Contig19_140523, whole genome shotgun sequence
+20. NZ_NVIU01000017	Bacillus wiedmannii strain AFS066156 AFS066156_106_B1_Contig17_140523, whole genome shotgun sequence
+21. NZ_PYWP01000002	Bacillus wiedmannii strain LLCG23 NODE_2_length_696380_cov_23.2834, whole genome shotgun sequence
+22. NZ_NUUN01000034	Bacillus wiedmannii strain AFS031137 AFS031137_105_B6_Contig34_140523, whole genome shotgun sequence
+23. NZ_NUDV01000011	Bacillus wiedmannii strain AFS009197 AFS009197_99_B2_Contig1_140514, whole genome shotgun sequence
+24. NZ_NVLM01000016	Bacillus thuringiensis strain AFS096463 AFS096463_71_H7_Contig16_140411, whole genome shotgun sequence
+25. NZ_CP036101	Bacillus wiedmannii strain JAS28/2 chromosome, complete genome
+26. NZ_CM000756	Bacillus thuringiensis serovar huazhongensis BGSC 4BD1 chromosome, whole genome shotgun sequence
+27. NZ_LYVD01000007	Bacillus cereus strain UW85 CC_15, whole genome shotgun sequence
+28. NZ_NVDK01000016	Bacillus thuringiensis strain AFS061455 AFS061455_119_F5_Contig16_140618, whole genome shotgun sequence
+29. NZ_NUWL01000002	Bacillus thuringiensis strain AFS083288 AFS083288_95_B4_Contig2_140514, whole genome shotgun sequence
+30. NZ_JAOPQQ010000013	Bacillus tropicus strain BC495A NODE_13_length_96214_cov_66.903535, whole genome shotgun sequence
+31. NZ_NUWO01000015	Bacillus cereus strain AFS083030 AFS083030_115_D6_Contig15_140618, whole genome shotgun sequence
+32. NZ_NUFG01000011	Bacillus wiedmannii strain AFS000414 AFS000414_55_D8_Contig11_140312, whole genome shotgun sequence
+33. NZ_QOSC01000012	Bacillus sp. BB51/4 BB51-4_contig_12, whole genome shotgun sequence
+34. NZ_CP040336	Bacillus luti strain FJ chromosome, complete genome
+35. NZ_FMZR01000001	Bacillus wiedmannii strain KPR-7A, whole genome shotgun sequence
+36. NZ_CP012099	Bacillus thuringiensis strain HS18-1 chromosome, complete genome
+37. NZ_CM000747	Bacillus thuringiensis Bt407 chromosome, whole genome shotgun sequence
+38. NZ_CM000748	Bacillus thuringiensis serovar thuringiensis str. T01001 chromosome, whole genome shotgun sequence
+39. NZ_NVCC01000010	Bacillus thuringiensis strain AFS071454 AFS071454_120_B10_Contig2_140618, whole genome shotgun sequence
+40. NZ_NTYG01000018	Bacillus thuringiensis strain AFS005083 AFS005083_100_B4_Contig21_140514, whole genome shotgun sequence
+41. NZ_CP011151	Bacillus cereus strain CMCC P0021 chromosome, complete genome
+42. NZ_JANIAT010000008	Bacillus cereus strain THSB-6-2 NODE_8_length_259630_cov_81.297273, whole genome shotgun sequence
+43. NZ_JAMXMK010000001	Bacillus thuringiensis strain S38 contig1, whole genome shotgun sequence
+44. NZ_FOST01000003	Bacillus sp. 5mfcol3.1, whole genome shotgun sequence
+45. NZ_CP017060	Bacillus cereus strain FORC_047 chromosome, complete genome
+46. NZ_CP045606	Bacillus cereus strain SB1 chromosome, complete genome
+47. NZ_KB976160	Bacillus cereus BAG1X1-1 acfXz-supercont1.1, whole genome shotgun sequence
+48. NZ_CP095767	Bacillus cereus strain CDHWZ7 chromosome, complete genome
+49. NZ_PVRL01000011	Bacillus thuringiensis strain NMTD81 NODE_11_length_169304_cov_10.5154, whole genome shotgun sequence
+50. NZ_JH792279	Bacillus cereus VD022 supercont1.1, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_CM000726
+Source: Bacillus cereus BDRD-Cer4 chromosome, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BCERE0015_RS13535	99	918	100.0	0.0
+CWB31_RS08445	BCERE0015_RS13530	100	619	100.0	2.14e-225
+CWB31_RS08450	BCERE0015_RS13525	100	304	100.0	3.75e-106
+CWB31_RS08455	BCERE0015_RS13520	100	242	100.0	1.21e-82
+CWB31_RS08460	BCERE0015_RS13515	99	306	100.0	4.78e-107
+CWB31_RS08465	BCERE0015_RS13510	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	BCERE0015_RS13505	100	683	100.0	8.31e-250
+CWB31_RS08475	BCERE0015_RS29950	100	93	100.0	1.13e-25
+CWB31_RS08480	BCERE0015_RS13495	99	728	100.0	1.26e-265
+CWB31_RS08485	BCERE0015_RS13490	100	378	100.0	1.97e-133
+CWB31_RS08490	BCERE0015_RS13485	99	286	100.0	3.43e-99
+
+
+
+>>
+2. NZ_CP026678
+Source: Bacillus cereus strain TG1-6 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4585.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	C2I25_RS26220	100	922	100.0	0.0
+CWB31_RS08445	C2I25_RS26215	97	599	100.0	8.95e-218
+CWB31_RS08450	C2I25_RS26210	95	292	100.0	2.85e-101
+CWB31_RS08455	C2I25_RS26205	99	239	100.0	9.94e-82
+CWB31_RS08460	C2I25_RS26200	97	300	100.0	1.88e-104
+CWB31_RS08465	C2I25_RS26195	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	C2I25_RS26190	96	660	100.0	1.17e-240
+CWB31_RS08475	C2I25_RS28985	100	93	100.0	1.13e-25
+CWB31_RS08480	C2I25_RS26180	100	733	100.0	1.86e-267
+CWB31_RS08485	C2I25_RS26175	98	370	100.0	2.2e-130
+CWB31_RS08490	C2I25_RS26170	90	262	97.87234042553192	8.86e-90
+
+
+
+>>
+3. NZ_KE332536
+Source: Bacillus cereus BAG1O-3 supercont1.1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4561.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	ICA_RS10825	100	922	100.0	0.0
+CWB31_RS08445	ICA_RS10820	96	598	100.0	2.57e-217
+CWB31_RS08450	ICA_RS10815	95	292	100.0	2.85e-101
+CWB31_RS08455	ICA_RS10810	98	223	92.17391304347827	3.83e-75
+CWB31_RS08460	ICA_RS10805	97	300	100.0	1.88e-104
+CWB31_RS08465	ICA_RS10800	93	94	51.13636363636363	8.31e-25
+CWB31_RS08470	ICA_RS10795	96	663	100.0	4.95e-242
+CWB31_RS08475	ICA_RS31255	100	93	100.0	1.13e-25
+CWB31_RS08480	ICA_RS10785	100	732	100.0	5.34e-267
+CWB31_RS08485	ICA_RS10780	99	373	100.0	1.33e-131
+CWB31_RS08490	ICA_RS10775	91	271	100.0	2.14e-93
+
+
+
+>>
+4. NZ_NUNK01000010
+Source: Bacillus thuringiensis strain AFS036350 AFS036350_119_F4_Contig10_140618, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4558.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COD83_RS12135	100	924	100.0	0.0
+CWB31_RS08445	COD83_RS12130	96	598	100.0	2.57e-217
+CWB31_RS08450	COD83_RS12125	95	292	100.0	2.85e-101
+CWB31_RS08455	COD83_RS12120	98	223	92.17391304347827	3.83e-75
+CWB31_RS08460	COD83_RS12115	97	300	100.0	1.88e-104
+CWB31_RS08465	COD83_RS12110	93	94	51.13636363636363	8.31e-25
+CWB31_RS08470	COD83_RS12105	96	663	100.0	4.95e-242
+CWB31_RS08475	COD83_RS31055	100	93	100.0	1.13e-25
+CWB31_RS08480	COD83_RS12095	100	732	100.0	5.34e-267
+CWB31_RS08485	COD83_RS12090	100	375	100.0	1.62e-132
+CWB31_RS08490	COD83_RS12085	91	264	97.87234042553192	1.53e-90
+
+
+
+>>
+5. NZ_FRBJ01000001
+Source: Bacillus sp. bc15, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4556.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BUA87_RS04935	100	924	100.0	0.0
+CWB31_RS08445	BUA87_RS04940	96	598	100.0	2.57e-217
+CWB31_RS08450	BUA87_RS04945	95	292	100.0	2.85e-101
+CWB31_RS08455	BUA87_RS04950	98	223	92.17391304347827	3.83e-75
+CWB31_RS08460	BUA87_RS04955	97	300	100.0	1.88e-104
+CWB31_RS08465	BUA87_RS04960	93	94	51.13636363636363	8.31e-25
+CWB31_RS08470	BUA87_RS04965	96	661	100.0	4.07e-241
+CWB31_RS08475	BUA87_RS31210	100	93	100.0	1.13e-25
+CWB31_RS08480	BUA87_RS04970	99	730	100.0	3.09e-266
+CWB31_RS08485	BUA87_RS04975	100	375	100.0	1.62e-132
+CWB31_RS08490	BUA87_RS04980	91	266	97.87234042553192	2.64e-91
+
+
+
+>>
+6. NZ_CP040334
+Source: Bacillus cereus strain DLOU-Changhai chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4556.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	EUC39_RS18745	100	922	100.0	0.0
+CWB31_RS08445	EUC39_RS18740	97	601	100.0	2.2e-218
+CWB31_RS08450	EUC39_RS18735	95	291	100.0	4.04e-101
+CWB31_RS08455	EUC39_RS18730	96	226	97.3913043478261	1.39e-76
+CWB31_RS08460	EUC39_RS18725	93	285	100.0	8.25e-99
+CWB31_RS08465	EUC39_RS18720	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	EUC39_RS18715	96	660	100.0	1.17e-240
+CWB31_RS08475	EUC39_RS27330	100	93	100.0	1.13e-25
+CWB31_RS08480	EUC39_RS18710	100	733	100.0	1.31e-267
+CWB31_RS08485	EUC39_RS18705	97	368	100.0	1.27e-129
+CWB31_RS08490	EUC39_RS18700	90	262	97.87234042553192	8.86e-90
+
+
+
+>>
+7. NZ_CP110109
+Source: Bacillus thuringiensis strain TG-5 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4550.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	OKV75_RS04000	100	924	100.0	0.0
+CWB31_RS08445	OKV75_RS04005	96	598	100.0	2.57e-217
+CWB31_RS08450	OKV75_RS04010	95	292	100.0	2.85e-101
+CWB31_RS08455	OKV75_RS04015	98	223	92.17391304347827	3.83e-75
+CWB31_RS08460	OKV75_RS04020	97	300	100.0	1.88e-104
+CWB31_RS08465	OKV75_RS04025	93	94	51.13636363636363	8.31e-25
+CWB31_RS08470	OKV75_RS04030	96	658	100.0	6.74e-240
+CWB31_RS08475	OKV75_RS04035	100	93	100.0	1.13e-25
+CWB31_RS08480	OKV75_RS04040	100	732	100.0	5.34e-267
+CWB31_RS08485	OKV75_RS04045	99	370	100.0	3.13e-130
+CWB31_RS08490	OKV75_RS04050	91	266	97.87234042553192	1.31e-91
+
+
+
+>>
+8. NZ_CP063158
+Source: Bacillus cereus strain CF4-51 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4550.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	IMY50_RS13625	100	922	100.0	0.0
+CWB31_RS08445	IMY50_RS13630	96	598	100.0	2.57e-217
+CWB31_RS08450	IMY50_RS13635	95	292	100.0	2.85e-101
+CWB31_RS08455	IMY50_RS13640	98	223	92.17391304347827	3.83e-75
+CWB31_RS08460	IMY50_RS13645	97	300	100.0	1.88e-104
+CWB31_RS08465	IMY50_RS13650	93	94	51.13636363636363	8.31e-25
+CWB31_RS08470	IMY50_RS13655	96	660	100.0	8.2e-241
+CWB31_RS08475	IMY50_RS13660	100	93	100.0	1.13e-25
+CWB31_RS08480	IMY50_RS13665	100	732	100.0	5.34e-267
+CWB31_RS08485	IMY50_RS13670	99	371	100.0	7.69e-131
+CWB31_RS08490	IMY50_RS13675	91	265	97.87234042553192	7.58e-91
+
+
+
+>>
+9. NZ_CP016285
+Source: Bacillus sp. B25(2016b) chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4496.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BAQ53_RS12545	98	912	99.77924944812362	0.0
+CWB31_RS08445	BAQ53_RS12550	95	584	100.0	7.88e-212
+CWB31_RS08450	BAQ53_RS12555	91	279	100.0	3.07e-96
+CWB31_RS08455	BAQ53_RS12560	97	236	100.0	2.35e-80
+CWB31_RS08460	BAQ53_RS12565	97	296	100.0	4.42e-103
+CWB31_RS08465	BAQ53_RS12570	96	96	51.13636363636363	1.57e-25
+CWB31_RS08470	BAQ53_RS12575	94	643	100.0	4.18e-234
+CWB31_RS08475	BAQ53_RS12580	98	91	100.0	6.53e-25
+CWB31_RS08480	BAQ53_RS12585	99	726	100.0	1.46e-264
+CWB31_RS08485	BAQ53_RS12590	95	359	100.0	4.08e-126
+CWB31_RS08490	BAQ53_RS12595	92	274	100.0	1.84e-94
+
+
+
+>>
+10. NZ_NJPZ01000032
+Source: Bacillus cereus strain 33-1 33-1_R1_(paired)_contig_32, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4437.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	CE087_RS27145	98	907	99.77924944812362	0.0
+CWB31_RS08445	CE087_RS27140	94	575	100.0	2.53e-208
+CWB31_RS08450	CE087_RS27135	91	279	100.0	3.07e-96
+CWB31_RS08455	CE087_RS27130	92	222	100.0	6.4e-75
+CWB31_RS08460	CE087_RS27125	95	278	95.27027027027027	7.29e-96
+CWB31_RS08465	CE087_RS27120	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	CE087_RS27115	93	638	100.0	4e-232
+CWB31_RS08475	CE087_RS28515	98	91	100.0	6.53e-25
+CWB31_RS08480	CE087_RS27110	99	724	100.0	4.19e-264
+CWB31_RS08485	CE087_RS27105	94	353	100.0	7.88e-124
+CWB31_RS08490	CE087_RS27100	92	274	100.0	1.84e-94
+
+
+
+>>
+11. NZ_NUBM01000011
+Source: Bacillus wiedmannii strain AFS023423 AFS023423_73_F2_Contig11_140411, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4427.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	CN580_RS16865	97	895	99.77924944812362	0.0
+CWB31_RS08445	CN580_RS16870	95	590	100.0	5.79e-214
+CWB31_RS08450	CN580_RS16875	91	280	100.0	1.52e-96
+CWB31_RS08455	CN580_RS16880	95	225	97.3913043478261	3.98e-76
+CWB31_RS08460	CN580_RS16885	96	297	100.0	2.19e-103
+CWB31_RS08465	CN580_RS16890	98	114	59.09090909090909	1.06e-32
+CWB31_RS08470	CN580_RS16895	92	640	100.0	6.92e-233
+CWB31_RS08475	CN580_RS28880	98	92	100.0	3.23e-25
+CWB31_RS08480	CN580_RS16905	96	708	100.0	1.49e-257
+CWB31_RS08485	CN580_RS16910	86	323	99.03846153846155	1.72e-111
+CWB31_RS08490	CN580_RS16915	93	263	97.87234042553192	2.18e-90
+
+
+
+>>
+12. NZ_CP031749
+Source: Bacillus sp. E25 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4423.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	DPQ26_RS14205	97	904	100.0	0.0
+CWB31_RS08445	DPQ26_RS14210	95	592	100.0	4.96e-215
+CWB31_RS08450	DPQ26_RS14215	91	275	100.0	1.03e-94
+CWB31_RS08455	DPQ26_RS14220	97	236	100.0	2.35e-80
+CWB31_RS08460	DPQ26_RS14225	97	294	100.0	2.56e-102
+CWB31_RS08465	DPQ26_RS14230	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	DPQ26_RS14235	91	627	100.0	1.49e-227
+CWB31_RS08475	DPQ26_RS14240	100	93	100.0	1.13e-25
+CWB31_RS08480	DPQ26_RS14245	98	721	100.0	9.86e-263
+CWB31_RS08485	DPQ26_RS14250	84	315	99.51923076923077	9.51e-109
+CWB31_RS08490	DPQ26_RS14255	92	270	100.0	8.74e-93
+
+
+
+>>
+13. NZ_WBPC01000018
+Source: Bacillus cereus strain CH124a_4D NODE_19_length_455840_cov_35.561756, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4422.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	F8159_RS13645	97	905	100.0	0.0
+CWB31_RS08445	F8159_RS13650	95	590	100.0	2.87e-214
+CWB31_RS08450	F8159_RS13655	91	275	100.0	1.03e-94
+CWB31_RS08455	F8159_RS13660	97	236	100.0	2.35e-80
+CWB31_RS08460	F8159_RS13665	97	294	100.0	2.56e-102
+CWB31_RS08465	F8159_RS13670	96	96	51.13636363636363	1.25e-25
+CWB31_RS08470	F8159_RS13675	91	627	100.0	1.49e-227
+CWB31_RS08475	F8159_RS29795	100	93	100.0	1.13e-25
+CWB31_RS08480	F8159_RS13680	98	721	100.0	9.86e-263
+CWB31_RS08485	F8159_RS13685	84	315	99.51923076923077	9.51e-109
+CWB31_RS08490	F8159_RS13690	92	270	100.0	8.74e-93
+
+
+
+>>
+14. NZ_CP013274
+Source: Bacillus thuringiensis strain CTC chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4388.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	ATN06_RS13410	98	912	100.0	0.0
+CWB31_RS08445	ATN06_RS13415	95	590	100.0	2.87e-214
+CWB31_RS08450	ATN06_RS13420	89	276	100.0	5.09e-95
+CWB31_RS08455	ATN06_RS13425	91	219	97.3913043478261	7.73e-74
+CWB31_RS08460	ATN06_RS13430	86	271	100.0	3.62e-93
+CWB31_RS08465	ATN06_RS13435	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	ATN06_RS13440	91	626	100.0	2.12e-227
+CWB31_RS08475	ATN06_RS13445	98	93	100.0	1.6e-25
+CWB31_RS08480	ATN06_RS13450	96	710	100.0	1.82e-258
+CWB31_RS08485	ATN06_RS13455	83	307	99.51923076923077	1.92e-105
+CWB31_RS08490	ATN06_RS13460	93	269	100.0	1.76e-92
+
+
+
+>>
+15. NZ_CP009369
+Source: Bacillus cereus strain FM1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4381.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BG03_RS14350	98	913	100.0	0.0
+CWB31_RS08445	BG03_RS14345	95	593	100.0	3.49e-215
+CWB31_RS08450	BG03_RS14340	90	279	100.0	4.36e-96
+CWB31_RS08455	BG03_RS14335	90	215	97.3913043478261	5.23e-72
+CWB31_RS08460	BG03_RS14330	86	273	100.0	8.89e-94
+CWB31_RS08465	BG03_RS14325	93	93	51.13636363636363	1.5e-24
+CWB31_RS08470	BG03_RS14320	94	644	100.0	2.94e-234
+CWB31_RS08475	BG03_RS31210	100	93	100.0	1.13e-25
+CWB31_RS08480	BG03_RS14310	96	712	100.0	2.22e-259
+CWB31_RS08485	BG03_RS14305	80	303	99.03846153846155	1e-103
+CWB31_RS08490	BG03_RS14300	91	263	100.0	2.41e-90
+
+
+
+>>
+16. NZ_NUNS01000026
+Source: Bacillus cereus strain AFS034791 AFS034791_71_H9_Contig23_140411, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4381.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COD88_RS18600	98	910	100.0	0.0
+CWB31_RS08445	COD88_RS18605	95	590	100.0	2.87e-214
+CWB31_RS08450	COD88_RS18610	89	276	100.0	5.09e-95
+CWB31_RS08455	COD88_RS18615	91	219	97.3913043478261	7.73e-74
+CWB31_RS08460	COD88_RS18620	86	271	100.0	2.55e-93
+CWB31_RS08465	COD88_RS18625	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	COD88_RS18630	91	623	100.0	3.51e-226
+CWB31_RS08475	COD88_RS31990	98	93	100.0	1.6e-25
+CWB31_RS08480	COD88_RS18640	96	709	100.0	5.21e-258
+CWB31_RS08485	COD88_RS18645	82	303	99.51923076923077	6.62e-104
+CWB31_RS08490	COD88_RS18650	94	272	100.0	7.48e-94
+
+
+
+>>
+17. NZ_CP009941
+Source: Bacillus cereus strain 03BB87 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4379.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	NT98_RS15920	98	912	100.0	0.0
+CWB31_RS08445	NT98_RS15925	95	590	100.0	2.87e-214
+CWB31_RS08450	NT98_RS15930	90	279	100.0	4.36e-96
+CWB31_RS08455	NT98_RS15935	90	215	97.3913043478261	5.23e-72
+CWB31_RS08460	NT98_RS15940	86	273	100.0	8.89e-94
+CWB31_RS08465	NT98_RS15945	93	93	51.13636363636363	1.5e-24
+CWB31_RS08470	NT98_RS15950	94	644	100.0	2.94e-234
+CWB31_RS08475	NT98_RS31800	100	93	100.0	1.13e-25
+CWB31_RS08480	NT98_RS15960	96	712	100.0	2.22e-259
+CWB31_RS08485	NT98_RS15965	80	303	99.03846153846155	1e-103
+CWB31_RS08490	NT98_RS15970	92	265	100.0	5.91e-91
+
+
+
+>>
+18. NZ_CP036073
+Source: Bacillus wiedmannii strain JAS08/1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4354.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	EXW45_RS13625	95	895	100.0	0.0
+CWB31_RS08445	EXW45_RS13630	92	572	100.0	8.44e-207
+CWB31_RS08450	EXW45_RS13635	88	272	100.0	1.7e-93
+CWB31_RS08455	EXW45_RS13640	85	213	97.3913043478261	3.03e-71
+CWB31_RS08460	EXW45_RS13645	87	272	100.0	1.26e-93
+CWB31_RS08465	EXW45_RS13650	94	107	60.22727272727273	2.98e-30
+CWB31_RS08470	EXW45_RS13655	91	628	100.0	3.67e-228
+CWB31_RS08475	EXW45_RS13660	98	92	100.0	3.23e-25
+CWB31_RS08480	EXW45_RS13665	95	703	100.0	1e-255
+CWB31_RS08485	EXW45_RS13670	86	328	99.03846153846155	1.27e-113
+CWB31_RS08490	EXW45_RS13675	96	272	97.87234042553192	6.75e-94
+
+
+
+>>
+19. NZ_NVCJ01000019
+Source: Bacillus thuringiensis strain AFS065707 AFS065707_104_B12_Contig19_140523, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4329.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COK59_RS15610	COK59_RS15610	194878	195872	-	beta-lactamase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COK59_RS15640	100	920	100.0	0.0
+CWB31_RS08445	COK59_RS15635	98	605	100.0	4.63e-220
+CWB31_RS08450	COK59_RS15630	95	288	100.0	6.71e-100
+CWB31_RS08455	COK59_RS15625	96	219	92.17391304347827	6.37e-74
+CWB31_RS08460	COK59_RS15620	95	296	100.0	6.29e-103
+CWB31_RS08465	COK59_RS15615	93	94	51.13636363636363	9.04e-25
+CWB31_RS08470	COK59_RS15610	96	472	71.59763313609467	7.61e-168
+CWB31_RS08475	COK59_RS29720	100	93	100.0	1.13e-25
+CWB31_RS08480	COK59_RS15600	100	733	100.0	1.31e-267
+CWB31_RS08485	COK59_RS15595	99	345	92.78846153846155	7.63e-121
+CWB31_RS08490	COK59_RS15590	91	264	97.87234042553192	1.53e-90
+
+
+
+>>
+20. NZ_NVIU01000017
+Source: Bacillus wiedmannii strain AFS066156 AFS066156_106_B1_Contig17_140523, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4315.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COM34_RS16785	COM34_RS16785	464553	465179	+	cadmium_resistance_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COM34_RS16740	97	902	99.77924944812362	0.0
+CWB31_RS08445	COM34_RS16745	95	590	100.0	5.79e-214
+CWB31_RS08450	COM34_RS16750	91	280	100.0	1.52e-96
+CWB31_RS08455	COM34_RS16755	95	226	97.3913043478261	2.8e-76
+CWB31_RS08460	COM34_RS16760	97	298	100.0	5.38e-104
+CWB31_RS08465	COM34_RS16765	96	111	59.09090909090909	1.23e-31
+CWB31_RS08470	COM34_RS16770	89	616	100.0	2.76e-223
+CWB31_RS08475	COM34_RS29105	98	92	100.0	3.23e-25
+CWB31_RS08480	COM34_RS16780	96	708	100.0	1.49e-257
+CWB31_RS08485	COM34_RS16785	85	222	67.78846153846155	6.64e-73
+CWB31_RS08490	COM34_RS16790	94	270	97.87234042553192	7.89e-93
+
+
+
+>>
+21. NZ_PYWP01000002
+Source: Bacillus wiedmannii strain LLCG23 NODE_2_length_696380_cov_23.2834, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4298.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+C6557_RS07065	C6557_RS07065	428436	428837	-	cadmium_resistance_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	C6557_RS07110	97	906	99.77924944812362	0.0
+CWB31_RS08445	C6557_RS07105	95	590	100.0	5.79e-214
+CWB31_RS08450	C6557_RS07100	91	280	100.0	1.52e-96
+CWB31_RS08455	C6557_RS07095	94	223	97.3913043478261	4.65e-75
+CWB31_RS08460	C6557_RS07090	96	296	100.0	3.11e-103
+CWB31_RS08465	C6557_RS07085	96	111	59.09090909090909	1.23e-31
+CWB31_RS08470	C6557_RS07080	89	616	100.0	2.76e-223
+CWB31_RS08475	C6557_RS30475	98	92	100.0	3.23e-25
+CWB31_RS08480	C6557_RS07070	96	708	100.0	1.49e-257
+CWB31_RS08485	C6557_RS07065	86	206	62.980769230769226	9.05e-67
+CWB31_RS08490	C6557_RS07060	94	270	97.87234042553192	7.89e-93
+
+
+
+>>
+22. NZ_NUUN01000034
+Source: Bacillus wiedmannii strain AFS031137 AFS031137_105_B6_Contig34_140523, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4294.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COI54_RS22730	COI54_RS22730	83688	84089	-	cadmium_resistance_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COI54_RS22775	97	904	99.77924944812362	0.0
+CWB31_RS08445	COI54_RS22770	95	590	100.0	5.79e-214
+CWB31_RS08450	COI54_RS22765	91	280	100.0	1.52e-96
+CWB31_RS08455	COI54_RS22760	94	223	97.3913043478261	4.65e-75
+CWB31_RS08460	COI54_RS22755	96	296	100.0	3.11e-103
+CWB31_RS08465	COI54_RS22750	96	111	59.09090909090909	1.23e-31
+CWB31_RS08470	COI54_RS22745	89	618	100.0	4.78e-224
+CWB31_RS08475	COI54_RS29105	98	92	100.0	3.23e-25
+CWB31_RS08480	COI54_RS22735	95	706	100.0	6.07e-257
+CWB31_RS08485	COI54_RS22730	86	204	62.980769230769226	7.39e-66
+CWB31_RS08490	COI54_RS22725	94	270	97.87234042553192	7.89e-93
+
+
+
+>>
+23. NZ_NUDV01000011
+Source: Bacillus wiedmannii strain AFS009197 AFS009197_99_B2_Contig1_140514, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4291.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CN621_RS08615	CN621_RS08615	265321	265722	+	cadmium_resistance_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	CN621_RS08570	97	901	99.77924944812362	0.0
+CWB31_RS08445	CN621_RS08575	95	590	100.0	5.79e-214
+CWB31_RS08450	CN621_RS08580	91	280	100.0	1.52e-96
+CWB31_RS08455	CN621_RS08585	94	223	97.3913043478261	4.65e-75
+CWB31_RS08460	CN621_RS08590	96	296	100.0	3.11e-103
+CWB31_RS08465	CN621_RS08595	96	111	59.09090909090909	1.23e-31
+CWB31_RS08470	CN621_RS08600	89	617	100.0	6.79e-224
+CWB31_RS08475	CN621_RS29235	98	92	100.0	3.23e-25
+CWB31_RS08480	CN621_RS08610	95	706	100.0	6.07e-257
+CWB31_RS08485	CN621_RS08615	86	205	62.980769230769226	2.59e-66
+CWB31_RS08490	CN621_RS08620	94	270	97.87234042553192	7.89e-93
+
+
+
+>>
+24. NZ_NVLM01000016
+Source: Bacillus thuringiensis strain AFS096463 AFS096463_71_H7_Contig16_140411, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4211.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COM97_RS15585	COM97_RS15585	67037	68054	+	beta-lactamase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COM97_RS15555	100	922	100.0	0.0
+CWB31_RS08445	COM97_RS15560	98	605	100.0	4.63e-220
+CWB31_RS08450	COM97_RS15565	95	292	100.0	2.85e-101
+CWB31_RS08455	COM97_RS15570	96	219	92.17391304347827	6.37e-74
+CWB31_RS08460	COM97_RS15575	95	296	100.0	6.29e-103
+CWB31_RS08465	COM97_RS15580	94	101	54.54545454545454	9.78e-28
+CWB31_RS08470	COM97_RS15585	94	312	47.0414201183432	6.18e-106
+CWB31_RS08475	COM97_RS31170	100	93	100.0	1.13e-25
+CWB31_RS08480	COM97_RS15595	100	732	100.0	5.34e-267
+CWB31_RS08485	COM97_RS15600	100	375	100.0	1.62e-132
+CWB31_RS08490	COM97_RS15605	91	264	97.87234042553192	1.53e-90
+
+
+
+>>
+25. NZ_CP036101
+Source: Bacillus wiedmannii strain JAS28/2 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4204.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EXW48_RS13620	EXW48_RS13620	2734413	2735200	+	nucleoside_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	EXW48_RS13615	95	895	99.77924944812362	0.0
+CWB31_RS08445	EXW48_RS13620	93	398	68.72964169381108	1.55e-139
+CWB31_RS08450	EXW48_RS13625	89	275	100.0	1.46e-94
+CWB31_RS08455	EXW48_RS13630	87	216	97.3913043478261	2.59e-72
+CWB31_RS08460	EXW48_RS13635	87	272	100.0	1.79e-93
+CWB31_RS08465	EXW48_RS13640	94	107	60.22727272727273	2.98e-30
+CWB31_RS08470	EXW48_RS13645	95	650	100.0	1.07e-236
+CWB31_RS08475	EXW48_RS13650	98	92	100.0	3.23e-25
+CWB31_RS08480	EXW48_RS13655	95	703	100.0	1e-255
+CWB31_RS08485	EXW48_RS13660	86	324	99.03846153846155	2.99e-112
+CWB31_RS08490	EXW48_RS13665	96	272	97.87234042553192	6.75e-94
+
+
+
+>>
+26. NZ_CM000756
+Source: Bacillus thuringiensis serovar huazhongensis BGSC 4BD1 chromosome, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4078.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BTHUR0011_RS12200	BTHUR0011_RS12200	2372735	2373725	-	serine_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BTHUR0011_RS12230	98	909	99.77924944812362	0.0
+CWB31_RS08445	BTHUR0011_RS12225	95	584	100.0	7.88e-212
+CWB31_RS08450	BTHUR0011_RS12220	91	278	100.0	1.25e-95
+CWB31_RS08455	BTHUR0011_RS12215	96	234	100.0	9.57e-80
+CWB31_RS08460	BTHUR0011_RS12210	97	296	100.0	4.42e-103
+CWB31_RS08465	BTHUR0011_RS12205	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	BTHUR0011_RS12200	92	228	36.09467455621302	1.92e-73
+CWB31_RS08475	BTHUR0011_RS33915	98	91	100.0	6.53e-25
+CWB31_RS08480	BTHUR0011_RS12190	99	729	100.0	6.23e-266
+CWB31_RS08485	BTHUR0011_RS12185	95	359	100.0	4.08e-126
+CWB31_RS08490	BTHUR0011_RS12180	92	274	100.0	1.84e-94
+
+
+
+>>
+27. NZ_LYVD01000007
+Source: Bacillus cereus strain UW85 CC_15, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4059.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A9L49_RS10160	A9L49_RS10160	338935	339910	+	beta-lactamase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	A9L49_RS10130	100	924	100.0	0.0
+CWB31_RS08445	A9L49_RS10135	96	598	100.0	2.57e-217
+CWB31_RS08450	A9L49_RS10140	95	292	100.0	2.85e-101
+CWB31_RS08455	A9L49_RS10145	99	240	100.0	4.92e-82
+CWB31_RS08460	A9L49_RS10150	97	300	100.0	1.88e-104
+CWB31_RS08465	A9L49_RS10155	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	A9L49_RS10160	94	125	18.93491124260355	4.93e-34
+CWB31_RS08475	A9L49_RS34005	100	93	100.0	1.13e-25
+CWB31_RS08480	A9L49_RS10170	100	733	100.0	1.31e-267
+CWB31_RS08485	A9L49_RS10175	100	375	100.0	1.62e-132
+CWB31_RS08490	A9L49_RS10180	91	264	97.87234042553192	1.53e-90
+
+
+
+>>
+28. NZ_NVDK01000016
+Source: Bacillus thuringiensis strain AFS061455 AFS061455_119_F5_Contig16_140618, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4033.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COK95_RS13250	COK95_RS13250	554800	555775	-	beta-lactamase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COK95_RS13280	99	915	100.0	0.0
+CWB31_RS08445	COK95_RS13275	96	598	100.0	2.57e-217
+CWB31_RS08450	COK95_RS13270	95	292	100.0	2.85e-101
+CWB31_RS08455	COK95_RS13265	98	223	92.17391304347827	3.83e-75
+CWB31_RS08460	COK95_RS13260	97	300	100.0	1.88e-104
+CWB31_RS08465	COK95_RS13255	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	COK95_RS13250	94	125	18.93491124260355	4.93e-34
+CWB31_RS08475	COK95_RS31555	100	93	100.0	1.13e-25
+CWB31_RS08480	COK95_RS13240	100	733	100.0	1.31e-267
+CWB31_RS08485	COK95_RS13235	100	375	100.0	1.62e-132
+CWB31_RS08490	COK95_RS13230	91	264	97.87234042553192	1.53e-90
+
+
+
+>>
+29. NZ_NUWL01000002
+Source: Bacillus thuringiensis strain AFS083288 AFS083288_95_B4_Contig2_140514, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4022.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COJ17_RS03600	COJ17_RS03600	303303	304278	-	beta-lactamase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COJ17_RS03630	99	915	100.0	0.0
+CWB31_RS08445	COJ17_RS03625	96	595	100.0	2.99e-216
+CWB31_RS08450	COJ17_RS03620	95	290	100.0	1.16e-100
+CWB31_RS08455	COJ17_RS03615	97	219	92.17391304347827	9.05e-74
+CWB31_RS08460	COJ17_RS03610	97	298	100.0	7.64e-104
+CWB31_RS08465	COJ17_RS03605	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	COJ17_RS03600	94	125	18.93491124260355	4.93e-34
+CWB31_RS08475	COJ17_RS29995	100	93	100.0	1.13e-25
+CWB31_RS08480	COJ17_RS03590	100	733	100.0	1.31e-267
+CWB31_RS08485	COJ17_RS03585	100	375	100.0	1.62e-132
+CWB31_RS08490	COJ17_RS03580	91	264	97.87234042553192	1.53e-90
+
+
+
+>>
+30. NZ_JAOPQQ010000013
+Source: Bacillus tropicus strain BC495A NODE_13_length_96214_cov_66.903535, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 3920.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+OCD70_RS24870	OCD70_RS24870	59975	60202	+	nucleoside_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	OCD70_RS24865	98	910	100.0	0.0
+CWB31_RS08445	OCD70_RS24870	87	129	24.104234527687296	5.33e-36
+CWB31_RS08450	OCD70_RS24875	86	266	100.0	4.68e-91
+CWB31_RS08455	OCD70_RS24880	90	216	97.3913043478261	1.28e-72
+CWB31_RS08460	OCD70_RS24885	86	271	100.0	2.55e-93
+CWB31_RS08465	OCD70_RS24890	98	114	59.09090909090909	1.06e-32
+CWB31_RS08470	OCD70_RS24895	92	638	100.0	5.68e-232
+CWB31_RS08475	OCD70_RS24900	100	93	100.0	1.13e-25
+CWB31_RS08480	OCD70_RS24905	97	714	100.0	7.74e-260
+CWB31_RS08485	OCD70_RS24910	80	302	99.03846153846155	2.03e-103
+CWB31_RS08490	OCD70_RS24915	92	267	100.0	1.02e-91
+
+
+
+>>
+31. NZ_NUWO01000015
+Source: Bacillus cereus strain AFS083030 AFS083030_115_D6_Contig15_140618, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 3914.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COJ18_RS20120	COJ18_RS20120	112453	112680	+	nucleoside_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COJ18_RS20115	98	910	100.0	0.0
+CWB31_RS08445	COJ18_RS20120	85	128	24.104234527687296	1.49e-35
+CWB31_RS08450	COJ18_RS20125	90	277	100.0	1.77e-95
+CWB31_RS08455	COJ18_RS20130	91	218	97.3913043478261	2.22e-73
+CWB31_RS08460	COJ18_RS20135	87	272	100.0	1.26e-93
+CWB31_RS08465	COJ18_RS20140	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	COJ18_RS20145	90	618	100.0	3.36e-224
+CWB31_RS08475	COJ18_RS31810	98	93	100.0	1.6e-25
+CWB31_RS08480	COJ18_RS20155	96	710	100.0	1.82e-258
+CWB31_RS08485	COJ18_RS20160	82	301	99.51923076923077	3.69e-103
+CWB31_RS08490	COJ18_RS20165	94	272	100.0	7.48e-94
+
+
+
+>>
+32. NZ_NUFG01000011
+Source: Bacillus wiedmannii strain AFS000414 AFS000414_55_D8_Contig11_140312, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 3838.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CN694_RS19480	CN694_RS19480	132835	133329	+	nucleoside_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	CN694_RS19475	95	887	99.77924944812362	0.0
+CWB31_RS08445	CN694_RS19480	88	74	13.680781758957655	3.58e-15
+CWB31_RS08450	CN694_RS19485	89	275	100.0	1.46e-94
+CWB31_RS08455	CN694_RS19490	86	215	97.3913043478261	5.23e-72
+CWB31_RS08460	CN694_RS19495	87	272	100.0	1.26e-93
+CWB31_RS08465	CN694_RS19500	94	107	60.22727272727273	2.98e-30
+CWB31_RS08470	CN694_RS19505	89	611	100.0	2.64e-221
+CWB31_RS08475	CN694_RS30290	98	92	100.0	3.23e-25
+CWB31_RS08480	CN694_RS19515	96	711	100.0	6.35e-259
+CWB31_RS08485	CN694_RS19520	86	327	99.51923076923077	2.56e-113
+CWB31_RS08490	CN694_RS19525	93	267	97.87234042553192	6.49e-92
+
+
+
+>>
+33. NZ_QOSC01000012
+Source: Bacillus sp. BB51/4 BB51-4_contig_12, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 3832.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DN392_RS16090	DN392_RS16090	257957	258415	-	nucleoside_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	DN392_RS16095	95	890	99.77924944812362	0.0
+CWB31_RS08445	DN392_RS16090	85	70	12.703583061889251	1.4e-13
+CWB31_RS08450	DN392_RS16085	89	275	100.0	1.46e-94
+CWB31_RS08455	DN392_RS16080	86	215	97.3913043478261	5.23e-72
+CWB31_RS08460	DN392_RS16075	87	270	100.0	7.31e-93
+CWB31_RS08465	DN392_RS16070	94	107	60.22727272727273	2.98e-30
+CWB31_RS08470	DN392_RS16065	89	611	100.0	2.64e-221
+CWB31_RS08475	DN392_RS30420	98	92	100.0	3.23e-25
+CWB31_RS08480	DN392_RS16060	96	711	100.0	6.35e-259
+CWB31_RS08485	DN392_RS16055	85	324	99.51923076923077	2.99e-112
+CWB31_RS08490	DN392_RS16050	93	267	97.87234042553192	6.49e-92
+
+
+
+>>
+34. NZ_CP040336
+Source: Bacillus luti strain FJ chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 3451.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08445	EUC40_RS13465	93	577	100.0	6.2e-209
+CWB31_RS08450	EUC40_RS13460	85	270	100.0	1.4e-92
+CWB31_RS08455	EUC40_RS13455	90	216	97.3913043478261	2.59e-72
+CWB31_RS08460	EUC40_RS13450	88	275	100.0	1.08e-94
+CWB31_RS08465	EUC40_RS13445	96	107	59.09090909090909	4e-30
+CWB31_RS08470	EUC40_RS13440	89	614	100.0	1.12e-222
+CWB31_RS08475	EUC40_RS26950	98	93	100.0	1.6e-25
+CWB31_RS08480	EUC40_RS13435	97	714	100.0	3.84e-260
+CWB31_RS08485	EUC40_RS13430	87	322	100.0	2.45e-111
+CWB31_RS08490	EUC40_RS13425	93	263	97.87234042553192	4.39e-90
+
+
+
+>>
+35. NZ_FMZR01000001
+Source: Bacillus wiedmannii strain KPR-7A, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 3368.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLS53_RS01340	BLS53_RS01340	280131	280756	+	cadmium_resistance_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08445	BLS53_RS01305	93	585	100.0	2.75e-212
+CWB31_RS08450	BLS53_RS01310	88	272	100.0	2.42e-93
+CWB31_RS08455	BLS53_RS01315	87	216	97.3913043478261	2.59e-72
+CWB31_RS08460	BLS53_RS01320	87	270	100.0	7.31e-93
+CWB31_RS08465	BLS53_RS01325	94	107	60.22727272727273	2.98e-30
+CWB31_RS08470	BLS53_RS01330	89	611	100.0	2.64e-221
+CWB31_RS08475	BLS53_RS31795	98	92	100.0	3.23e-25
+CWB31_RS08480	BLS53_RS01335	97	716	100.0	1.34e-260
+CWB31_RS08485	BLS53_RS01340	86	238	74.51923076923077	4.47e-79
+CWB31_RS08490	BLS53_RS01345	91	261	97.87234042553192	2.54e-89
+
+
+
+>>
+36. NZ_CP012099
+Source: Bacillus thuringiensis strain HS18-1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4315.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	AC241_RS13385	99	915	100.0	0.0
+CWB31_RS08445	AC241_RS13390	95	595	100.0	2.99e-216
+CWB31_RS08450	AC241_RS13395	97	298	100.0	1.47e-103
+CWB31_RS08460	AC241_RS13400	95	296	100.0	4.42e-103
+CWB31_RS08465	AC241_RS13405	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	AC241_RS13410	96	654	100.0	1.59e-238
+CWB31_RS08475	AC241_RS34795	100	93	100.0	1.13e-25
+CWB31_RS08480	AC241_RS13420	100	733	100.0	1.86e-267
+CWB31_RS08485	AC241_RS13425	99	374	100.0	9.37e-132
+CWB31_RS08490	AC241_RS13430	90	261	97.87234042553192	1.79e-89
+
+
+
+>>
+37. NZ_CM000747
+Source: Bacillus thuringiensis Bt407 chromosome, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4255.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BTHUR0002_RS12320	99	922	100.0	0.0
+CWB31_RS08445	BTHUR0002_RS12325	99	609	100.0	9.74e-222
+CWB31_RS08450	BTHUR0002_RS12330	98	300	100.0	1.26e-104
+CWB31_RS08455	BTHUR0002_RS12335	99	240	100.0	4.92e-82
+CWB31_RS08460	BTHUR0002_RS12340	97	300	100.0	1.88e-104
+CWB31_RS08465	BTHUR0002_RS12345	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	BTHUR0002_RS12350	99	680	100.0	1.38e-248
+CWB31_RS08475	BTHUR0002_RS34545	100	93	100.0	1.13e-25
+CWB31_RS08480	BTHUR0002_RS12360	99	726	100.0	1.03e-264
+CWB31_RS08490	BTHUR0002_RS12365	91	270	100.0	6.15e-93
+
+
+
+>>
+38. NZ_CM000748
+Source: Bacillus thuringiensis serovar thuringiensis str. T01001 chromosome, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4255.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BTHUR0003_RS12255	99	922	100.0	0.0
+CWB31_RS08445	BTHUR0003_RS12250	99	609	100.0	9.74e-222
+CWB31_RS08450	BTHUR0003_RS12245	98	300	100.0	1.26e-104
+CWB31_RS08455	BTHUR0003_RS12240	99	240	100.0	4.92e-82
+CWB31_RS08460	BTHUR0003_RS12235	97	300	100.0	1.88e-104
+CWB31_RS08465	BTHUR0003_RS12230	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	BTHUR0003_RS12225	99	680	100.0	1.38e-248
+CWB31_RS08475	BTHUR0003_RS34975	100	93	100.0	1.13e-25
+CWB31_RS08480	BTHUR0003_RS12215	99	726	100.0	1.03e-264
+CWB31_RS08490	BTHUR0003_RS12210	91	270	100.0	6.15e-93
+
+
+
+>>
+39. NZ_NVCC01000010
+Source: Bacillus thuringiensis strain AFS071454 AFS071454_120_B10_Contig2_140618, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4245.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+COK50_RS08750	COK50_RS08750	70111	70554	+	NUDIX_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	COK50_RS08700	100	920	100.0	0.0
+CWB31_RS08445	COK50_RS08705	99	612	100.0	5.87e-223
+CWB31_RS08450	COK50_RS08710	98	300	100.0	1.26e-104
+CWB31_RS08455	COK50_RS08715	100	242	100.0	1.21e-82
+CWB31_RS08460	COK50_RS08720	97	300	100.0	1.88e-104
+CWB31_RS08465	COK50_RS08725	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	COK50_RS08730	97	663	100.0	4.95e-242
+CWB31_RS08475	COK50_RS30590	100	93	100.0	1.13e-25
+CWB31_RS08480	COK50_RS08740	99	726	100.0	7.26e-265
+CWB31_RS08490	COK50_RS08745	92	274	99.29078014184397	1.84e-94
+
+
+
+>>
+40. NZ_NTYG01000018
+Source: Bacillus thuringiensis strain AFS005083 AFS005083_100_B4_Contig21_140514, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4243.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	CN479_RS17175	100	922	100.0	0.0
+CWB31_RS08445	CN479_RS17170	99	613	100.0	2.91e-223
+CWB31_RS08450	CN479_RS17165	94	289	100.0	4.73e-100
+CWB31_RS08455	CN479_RS17160	100	242	100.0	1.21e-82
+CWB31_RS08460	CN479_RS17155	97	300	100.0	1.88e-104
+CWB31_RS08465	CN479_RS17150	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	CN479_RS17145	98	667	100.0	1.48e-243
+CWB31_RS08475	CN479_RS29960	100	93	100.0	1.13e-25
+CWB31_RS08480	CN479_RS17135	99	728	100.0	2.53e-265
+CWB31_RS08490	CN479_RS17130	92	274	99.29078014184397	1.84e-94
+
+
+
+>>
+41. NZ_CP011151
+Source: Bacillus cereus strain CMCC P0021 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4241.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	WR47_RS13530	100	922	100.0	0.0
+CWB31_RS08445	WR47_RS13535	97	602	100.0	5.4e-219
+CWB31_RS08450	WR47_RS13540	98	300	100.0	1.26e-104
+CWB31_RS08455	WR47_RS13545	99	240	100.0	4.92e-82
+CWB31_RS08460	WR47_RS13550	97	300	100.0	1.88e-104
+CWB31_RS08465	WR47_RS13555	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	WR47_RS13560	99	677	100.0	1.13e-247
+CWB31_RS08475	WR47_RS32590	100	93	100.0	1.13e-25
+CWB31_RS08480	WR47_RS13570	99	722	100.0	3.44e-263
+CWB31_RS08490	WR47_RS13575	91	270	100.0	6.15e-93
+
+
+
+>>
+42. NZ_JANIAT010000008
+Source: Bacillus cereus strain THSB-6-2 NODE_8_length_259630_cov_81.297273, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4241.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	NPA38_RS19580	100	920	100.0	0.0
+CWB31_RS08445	NPA38_RS19585	99	612	100.0	5.87e-223
+CWB31_RS08450	NPA38_RS19590	98	300	100.0	1.26e-104
+CWB31_RS08455	NPA38_RS19595	98	239	100.0	2.01e-81
+CWB31_RS08460	NPA38_RS19600	97	300	100.0	1.88e-104
+CWB31_RS08465	NPA38_RS19605	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	NPA38_RS19610	96	662	100.0	9.99e-242
+CWB31_RS08475	NPA38_RS19615	100	93	100.0	1.13e-25
+CWB31_RS08480	NPA38_RS19620	99	726	100.0	7.26e-265
+CWB31_RS08490	NPA38_RS19625	92	274	99.29078014184397	1.84e-94
+
+
+
+>>
+43. NZ_JAMXMK010000001
+Source: Bacillus thuringiensis strain S38 contig1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4239.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+NGM22_RS03940	NGM22_RS03940	776014	776458	-	NUDIX_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	NGM22_RS03990	100	922	100.0	0.0
+CWB31_RS08445	NGM22_RS03985	97	600	100.0	4.44e-218
+CWB31_RS08450	NGM22_RS03980	98	300	100.0	2.54e-104
+CWB31_RS08455	NGM22_RS03975	97	233	100.0	3.9e-79
+CWB31_RS08460	NGM22_RS03970	97	300	100.0	1.88e-104
+CWB31_RS08465	NGM22_RS03965	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	NGM22_RS03960	99	676	100.0	3.25e-247
+CWB31_RS08475	NGM22_RS03955	100	93	100.0	1.13e-25
+CWB31_RS08480	NGM22_RS03950	99	726	100.0	1.46e-264
+CWB31_RS08490	NGM22_RS03945	92	274	99.29078014184397	1.84e-94
+
+
+
+>>
+44. NZ_FOST01000003
+Source: Bacillus sp. 5mfcol3.1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4235.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	BM089_RS20525	99	919	100.0	0.0
+CWB31_RS08445	BM089_RS20520	99	612	100.0	5.87e-223
+CWB31_RS08450	BM089_RS20515	94	289	100.0	4.73e-100
+CWB31_RS08455	BM089_RS20510	100	242	100.0	1.21e-82
+CWB31_RS08460	BM089_RS20505	97	300	100.0	1.88e-104
+CWB31_RS08465	BM089_RS20500	100	115	59.09090909090909	3.69e-33
+CWB31_RS08470	BM089_RS20495	97	663	100.0	4.95e-242
+CWB31_RS08475	BM089_RS31145	100	93	100.0	1.13e-25
+CWB31_RS08480	BM089_RS20485	99	728	100.0	2.53e-265
+CWB31_RS08490	BM089_RS20480	92	274	99.29078014184397	1.84e-94
+
+
+
+>>
+45. NZ_CP017060
+Source: Bacillus cereus strain FORC_047 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4214.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	FORC47_RS13680	99	918	100.0	0.0
+CWB31_RS08445	FORC47_RS13685	97	603	100.0	3.8e-219
+CWB31_RS08450	FORC47_RS13690	95	292	100.0	2.85e-101
+CWB31_RS08455	FORC47_RS13695	93	224	97.3913043478261	1.14e-75
+CWB31_RS08460	FORC47_RS13700	97	298	100.0	5.38e-104
+CWB31_RS08465	FORC47_RS13705	98	113	59.09090909090909	1.64e-32
+CWB31_RS08470	FORC47_RS13710	99	677	100.0	1.13e-247
+CWB31_RS08475	FORC47_RS30890	98	91	100.0	6.53e-25
+CWB31_RS08480	FORC47_RS13720	99	727	100.0	3.6e-265
+CWB31_RS08490	FORC47_RS13725	91	271	100.0	2.14e-93
+
+
+
+>>
+46. NZ_CP045606
+Source: Bacillus cereus strain SB1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4147.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	GE376_RS13545	99	922	100.0	0.0
+CWB31_RS08445	GE376_RS13550	99	612	100.0	1.18e-222
+CWB31_RS08450	GE376_RS13555	98	300	100.0	1.26e-104
+CWB31_RS08455	GE376_RS13560	99	240	100.0	4.92e-82
+CWB31_RS08460	GE376_RS13565	89	275	100.0	1.08e-94
+CWB31_RS08465	GE376_RS13570	93	93	51.13636363636363	1.5e-24
+CWB31_RS08470	GE376_RS13575	91	627	99.70414201183432	7.4e-228
+CWB31_RS08475	GE376_RS31500	89	83	100.0	1.05e-21
+CWB31_RS08480	GE376_RS13580	99	725	100.0	2.95e-264
+CWB31_RS08490	GE376_RS13585	91	270	100.0	6.15e-93
+
+
+
+>>
+47. NZ_KB976160
+Source: Bacillus cereus BAG1X1-1 acfXz-supercont1.1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4124.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ICC_RS14160	ICC_RS14160	2771426	2771852	-	GNAT_family_N-acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	ICC_RS14205	99	914	100.0	0.0
+CWB31_RS08445	ICC_RS14200	97	607	100.0	1.14e-220
+CWB31_RS08450	ICC_RS14195	99	300	100.0	1.78e-104
+CWB31_RS08460	ICC_RS14190	96	297	100.0	2.19e-103
+CWB31_RS08465	ICC_RS14185	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	ICC_RS14180	96	659	100.0	2.35e-240
+CWB31_RS08475	ICC_RS35690	100	93	100.0	1.13e-25
+CWB31_RS08480	ICC_RS14170	99	732	100.0	3.76e-267
+CWB31_RS08485	ICC_RS14165	98	369	100.0	4.45e-130
+CWB31_RS08490	ICC_RS14160	88	57	23.404255319148938	3.71e-10
+
+
+
+>>
+48. NZ_CP095767
+Source: Bacillus cereus strain CDHWZ7 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4122.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	MYW48_RS13855	97	908	100.0	0.0
+CWB31_RS08445	MYW48_RS13860	95	590	100.0	5.79e-214
+CWB31_RS08450	MYW48_RS13865	91	276	100.0	7.23e-95
+CWB31_RS08455	MYW48_RS13870	97	236	100.0	2.35e-80
+CWB31_RS08460	MYW48_RS13875	97	294	100.0	2.56e-102
+CWB31_RS08465	MYW48_RS13880	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	MYW48_RS13885	91	627	100.0	1.05e-227
+CWB31_RS08475	MYW48_RS13890	100	93	100.0	1.13e-25
+CWB31_RS08480	MYW48_RS13895	99	729	100.0	4.38e-266
+CWB31_RS08490	MYW48_RS13900	92	273	100.0	2.61e-94
+
+
+
+>>
+49. NZ_PVRL01000011
+Source: Bacillus thuringiensis strain NMTD81 NODE_11_length_169304_cov_10.5154, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4122.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	C6351_RS21660	97	908	100.0	0.0
+CWB31_RS08445	C6351_RS21665	95	590	100.0	5.79e-214
+CWB31_RS08450	C6351_RS21670	91	276	100.0	7.23e-95
+CWB31_RS08455	C6351_RS21675	97	236	100.0	2.35e-80
+CWB31_RS08460	C6351_RS21680	97	294	100.0	2.56e-102
+CWB31_RS08465	C6351_RS21685	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	C6351_RS21690	91	627	100.0	1.05e-227
+CWB31_RS08475	C6351_RS32555	100	93	100.0	1.13e-25
+CWB31_RS08480	C6351_RS21700	99	729	100.0	4.38e-266
+CWB31_RS08490	C6351_RS21705	92	273	100.0	2.61e-94
+
+
+
+>>
+50. NZ_JH792279
+Source: Bacillus cereus VD022 supercont1.1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4121.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS08440	IC1_RS11465	97	905	100.0	0.0
+CWB31_RS08445	IC1_RS11460	95	590	100.0	2.87e-214
+CWB31_RS08450	IC1_RS11455	91	275	100.0	1.03e-94
+CWB31_RS08455	IC1_RS11450	97	236	100.0	2.35e-80
+CWB31_RS08460	IC1_RS11445	97	294	100.0	2.56e-102
+CWB31_RS08465	IC1_RS11440	96	96	51.13636363636363	1.44e-25
+CWB31_RS08470	IC1_RS11435	91	627	100.0	1.05e-227
+CWB31_RS08475	IC1_RS36720	100	93	100.0	1.13e-25
+CWB31_RS08480	IC1_RS11425	100	732	100.0	5.34e-267
+CWB31_RS08490	IC1_RS11420	92	273	100.0	2.61e-94
+

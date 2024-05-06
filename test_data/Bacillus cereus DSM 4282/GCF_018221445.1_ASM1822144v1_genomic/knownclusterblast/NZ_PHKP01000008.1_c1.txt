@@ -1,0 +1,45 @@
+ClusterBlast scores for NZ_PHKP01000008.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CWB31_RS17705	113282	115436	-	ATP-binding domain-containing protein	
+CWB31_RS17710	116062	116293	-	helix-turn-helix transcriptional regulator	
+CWB31_RS17715	116427	116682	+	transposase	
+CWB31_RS17720	116757	118947	+	DNA topoisomerase III	
+CWB31_RS17725	119572	121309	-	GIY-YIG nuclease family protein	
+CWB31_RS17730	122635	124375	-	ATP-dependent helicase	
+CWB31_RS17735	124359	126423	-	AAA family ATPase	
+CWB31_RS17740	126636	126954	-	toprim domain-containing protein	
+CWB31_RS17745	127348	128158	+	hydroxyethylthiazole kinase	
+CWB31_RS17750	128173	128833	+	thiamine phosphate synthase	
+CWB31_RS17755	128948	130262	-	anaerobic C4-dicarboxylate transporter	
+CWB31_RS17760	130763	132506	+	methyl-accepting chemotaxis protein	
+CWB31_RS17765	132642	136224	+	non-ribosomal peptide synthetase	
+CWB31_RS17770	136479	136800	+	MTH1187 family thiamine-binding protein	
+CWB31_RS17775	136771	137545	+	ABC transporter permease	
+CWB31_RS17780	137541	138540	+	ABC transporter substrate-binding protein	
+CWB31_RS17785	138536	139286	+	ABC transporter ATP-binding protein	
+CWB31_RS17790	139282	139477	+	ABC transporter ATP-binding protein	
+CWB31_RS17795	139920	141945	-	glycosyl hydrolase family 18 protein	
+CWB31_RS17800	142316	142688	+	DUF1992 domain-containing protein	
+CWB31_RS17805	142698	143013	+	thioredoxin family protein	
+CWB31_RS17810	143026	143272	+	hypothetical protein	
+CWB31_RS17815	143397	143541	+	hypothetical protein	
+CWB31_RS17820	143621	144203	+	TetR/AcrR family transcriptional regulator	
+CWB31_RS17825	144269	145502	+	MFS transporter	
+CWB31_RS17830	145558	145810	+	helix-turn-helix transcriptional regulator	
+CWB31_RS17835	145879	147163	-	MFS transporter	
+CWB31_RS17840	147271	148585	-	ectonucleotide pyrophosphatase/phosphodiesterase	
+CWB31_RS17845	148739	149033	+	YesK-like family protein	
+CWB31_RS17850	149380	150811	+	proline--tRNA ligase	
+CWB31_RS17855	150926	151589	-	LPXTG cell wall anchor domain-containing protein	
+CWB31_RS17860	151790	152669	+	ROK family protein	
+CWB31_RS17865	152797	153394	+	TerD family protein	
+CWB31_RS17870	153416	154001	+	TerD family protein	
+CWB31_RS17875	154086	154665	+	TerD family protein	
+CWB31_RS17880	154737	155529	+	TerC family protein	
+
+
+Significant hits: 
+
+
+Details:

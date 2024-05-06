@@ -1,0 +1,29 @@
+ClusterBlast scores for NZ_PHKP01000009.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CWB31_RS18305	7010	7607	-	DUF4878 domain-containing protein	
+CWB31_RS18310	7765	8311	-	hypothetical protein	
+CWB31_RS29775	8392	8641	-	hypothetical protein	
+CWB31_RS18315	8657	9020	-	hypothetical protein	
+CWB31_RS18320	9153	9336	-	DUF3976 domain-containing protein	
+CWB31_RS18325	10164	13032	+	2-oxoglutarate dehydrogenase E1 component	
+CWB31_RS18330	13165	14428	+	2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase	
+CWB31_RS18335	14552	16472	+	putative thiazole-containing bacteriocin maturation protein	
+CWB31_RS18340	16468	18418	+	TOMM precursor leader peptide-binding protein	
+CWB31_RS18345	18433	19975	+	SagB family peptide dehydrogenase	
+CWB31_RS18350	20005	20416	-	DUF3908 family protein	
+CWB31_RS18355	20576	21911	-	CoA-disulfide reductase	
+CWB31_RS18360	22110	22539	+	hypothetical protein	
+CWB31_RS18365	22577	23813	-	YARHG domain-containing protein	
+CWB31_RS18370	23832	24618	-	zinc ribbon domain-containing protein	
+CWB31_RS18375	24814	25648	+	hypothetical protein	
+CWB31_RS18380	25662	26346	-	YukJ family protein	
+CWB31_RS18385	26437	27937	-	L-lactate permease	
+CWB31_RS18390	28051	28411	-	DUF4029 domain-containing protein	
+CWB31_RS18395	28484	29261	-	tryptophan synthase subunit alpha	
+
+
+Significant hits: 
+
+
+Details:

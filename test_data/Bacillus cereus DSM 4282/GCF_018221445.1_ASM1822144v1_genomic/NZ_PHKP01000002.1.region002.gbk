@@ -1,0 +1,854 @@
+LOCUS       NZ_PHKP01000002.1      10321 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  NZ_PHKP01000002.1 Bacillus cereus strain DSM 4282 scaffold2.1, whole
+            genome shotgun sequence.
+ACCESSION   NZ_PHKP01000002
+VERSION     NZ_PHKP01000002.1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+COMMENT     ##antiSMASH-Data-START##
+            Version      :: 7.1.0
+            Run date     :: 2024-04-22 09:37:53
+            NOTE: This is a single region extracted from a larger record!
+            Orig. start  :: 370827
+            Orig. end    :: 381148
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     protocluster    1..10321
+                     /aStool="rule-based-clusters"
+                     /category="RiPP"
+                     /contig_edge="False"
+                     /core_location="[5000:5321]"
+                     /cutoff="20000"
+                     /detection_rule="(strepbact or Antimicrobial14 or
+                     Bacteriocin_IId or BacteriocIIc_cy or Bacteriocin_II or
+                     Bacteriocin_IIi or Lactococcin or Antimicrobial17 or
+                     Lactococcin_972 or Bacteriocin_IIc or LcnG-beta or Cloacin
+                     or Linocin_M18 or TIGR03651 or TIGR03693 or TIGR03601 or
+                     TIGR03795 or TIGR03975 or DUF692 or TIGR01193 or (YcaO or
+                     TIGR03604))"
+                     /neighbourhood="5000"
+                     /product="RiPP-like"
+                     /protocluster_number="1"
+                     /tool="antismash"
+     proto_core      5001..5321
+                     /aStool="rule-based-clusters"
+                     /tool="antismash"
+                     /cutoff="20000"
+                     /detection_rule="(strepbact or Antimicrobial14 or
+                     Bacteriocin_IId or BacteriocIIc_cy or Bacteriocin_II or
+                     Bacteriocin_IIi or Lactococcin or Antimicrobial17 or
+                     Lactococcin_972 or Bacteriocin_IIc or LcnG-beta or Cloacin
+                     or Linocin_M18 or TIGR03651 or TIGR03693 or TIGR03601 or
+                     TIGR03795 or TIGR03975 or DUF692 or TIGR01193 or (YcaO or
+                     TIGR03604))"
+                     /neighbourhood="5000"
+                     /product="RiPP-like"
+                     /protocluster_number="1"
+     cand_cluster    1..10321
+                     /candidate_cluster_number="1"
+                     /contig_edge="False"
+                     /detection_rules="(strepbact or Antimicrobial14 or
+                     Bacteriocin_IId or BacteriocIIc_cy or Bacteriocin_II or
+                     Bacteriocin_IIi or Lactococcin or Antimicrobial17 or
+                     Lactococcin_972 or Bacteriocin_IIc or LcnG-beta or Cloacin
+                     or Linocin_M18 or TIGR03651 or TIGR03693 or TIGR03601 or
+                     TIGR03795 or TIGR03975 or DUF692 or TIGR01193 or (YcaO or
+                     TIGR03604))"
+                     /kind="single"
+                     /product="RiPP-like"
+                     /protoclusters="1"
+                     /tool="antismash"
+     region          1..10321
+                     /candidate_cluster_numbers="1"
+                     /contig_edge="False"
+                     /product="RiPP-like"
+                     /region_number="2"
+                     /rules="(strepbact or Antimicrobial14 or Bacteriocin_IId or
+                     BacteriocIIc_cy or Bacteriocin_II or Bacteriocin_IIi or
+                     Lactococcin or Antimicrobial17 or Lactococcin_972 or
+                     Bacteriocin_IIc or LcnG-beta or Cloacin or Linocin_M18 or
+                     TIGR03651 or TIGR03693 or TIGR03601 or TIGR03795 or
+                     TIGR03975 or DUF692 or TIGR01193 or (YcaO or TIGR03604))"
+                     /tool="antismash"
+     misc_feature    331..345
+                     /note="TFBS match to OsdR, Development and stress
+                     management regulator, confidence: weak, score: 17.35"
+                     /tool="antismash"
+     gene            421..1869
+                     /ID="gene-CWB31_RS07900"
+                     /Name="CWB31_RS07900"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07900"
+                     /old_locus_tag="CWB31_08250"
+                     /source="RefSeq"
+     CDS             421..1869
+                     /Dbxref="GenBank:WP_000471644.1"
+                     /ID="cds-WP_000471644.1"
+                     /NRPS_PKS="Domain: Aminotran_1_2 (145-469). E-value:
+                     5.3e-30. Score: 96.6. Matches aSDomain:
+                     nrpspksdomains_CWB31_RS07900_Aminotran_1_2.1"
+                     /Name="WP_000471644.1"
+                     /Ontology_term="GO:0030170"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07900"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) Aminotran_1_2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1019:aminotransferase (Score: 327.6; E-value:
+                     1.7e-99)"
+                     /gene_kind="biosynthetic-additional"
+                     /go_function="pyridoxal phosphate binding|0030170||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016108507.1"
+                     /locus_tag="CWB31_RS07900"
+                     /phase="0"
+                     /product="PLP-dependent aminotransferase family protein"
+                     /protein_id="WP_000471644.1"
+                     /sec_met_domain="Aminotran_1_2 (E-value: 6.4e-29, bitscore:
+                     96.5, seeds: 48, tool: rule-based-clusters)"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MFKDFKVVKERPVYIQLKDYLKKMIMKGHLLGDQKIPSTRELSEL
+                     LSVSRNTVLAAYADLEQEGLIYAVKGKGNFVAKVDISNTSSVEIDWKNKLNTVTALADE
+                     LDLMKHGVRWEKGMIVFNSIAPDEKLFDVENFKRAFLTRMSIEGDIVLNYGYAKGYRPL
+                     MNYLLHYMEMKGVDISNKDILITNGFTEGLDIVLSSLSKKSGRVICENPTHHAALKLFR
+                     LHGLEVHGIDMHEDGIDTNEVEKSLREKDFDFAYLIPSYHNPTGIVTSSEKRTELMRLF
+                     SKYNVPIIEDGFNEELRYSGSHLAPLLTFAGAGNNVIYISSFSKVLFPGLRVGWIIADK
+                     ELIHYLESVKRARTIHTSTLDQAVLFQYLHEGYFEKYLKKARSVYKKKYELAVGACNQY
+                     IPFKRMTGDGGLHLFIELEEHMNARTLLQKCYEKGVTFSPGDVFYSDGEGANTFRLGFS
+                     RLKEEEIVRGIKIIGDTLKNEIWS"
+     PFAM_domain     463..648
+                     /aSDomain="GntR"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00392.24"
+                     /db_xref="GO:0003700"
+                     /db_xref="GO:0006355"
+                     /description="Bacterial regulatory proteins, gntR family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07900_0030"
+                     /evalue="1.10E-13"
+                     /gene_ontologies="GO:0003700: DNA-binding transcription
+                     factor activity"
+                     /gene_ontologies="GO:0006355: regulation of DNA-templated
+                     transcription"
+                     /label="CWB31_RS07900"
+                     /locus_tag="CWB31_RS07900"
+                     /protein_end="76"
+                     /protein_start="14"
+                     /score="50.7"
+                     /tool="antismash"
+                     /translation="IQLKDYLKKMIMKGHLLGDQKIPSTRELSELLSVSRNTVLAAYAD
+                     LEQEGLIYAVKGKGNFV"
+     aSDomain        856..1827
+                     /aSDomain="Aminotran_1_2"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_CWB31_RS07900_Aminotran_1_2.1"
+                     /evalue="5.30E-30"
+                     /label="CWB31_RS07900_Aminotran_1_2.1"
+                     /locus_tag="CWB31_RS07900"
+                     /protein_end="469"
+                     /protein_start="145"
+                     /score="96.6"
+                     /tool="antismash"
+                     /translation="IEGDIVLNYGYAKGYRPLMNYLLHYMEMKGVDISNKDILITNGFT
+                     EGLDIVLSSLSKKSGRVICENPTHHAALKLFRLHGLEVHGIDMHEDGIDTNEVEKSLRE
+                     KDFDFAYLIPSYHNPTGIVTSSEKRTELMRLFSKYNVPIIEDGFNEELRYSGSHLAPLL
+                     TFAGAGNNVIYISSFSKVLFPGLRVGWIIADKELIHYLESVKRARTIHTSTLDQAVLFQ
+                     YLHEGYFEKYLKKARSVYKKKYELAVGACNQYIPFKRMTGDGGLHLFIELEEHMNARTL
+                     LQKCYEKGVTFSPGDVFYSDGEGANTFRLGFSRLKEEEIVRGI"
+     PFAM_domain     856..1827
+                     /aSDomain="Aminotran_1_2"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00155.24"
+                     /db_xref="GO:0009058"
+                     /db_xref="GO:0030170"
+                     /description="Aminotransferase class I and II"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07900_0031"
+                     /evalue="2.00E-27"
+                     /gene_ontologies="GO:0009058: biosynthetic process"
+                     /gene_ontologies="GO:0030170: pyridoxal phosphate binding"
+                     /label="CWB31_RS07900"
+                     /locus_tag="CWB31_RS07900"
+                     /protein_end="469"
+                     /protein_start="145"
+                     /score="96.5"
+                     /tool="antismash"
+                     /translation="IEGDIVLNYGYAKGYRPLMNYLLHYMEMKGVDISNKDILITNGFT
+                     EGLDIVLSSLSKKSGRVICENPTHHAALKLFRLHGLEVHGIDMHEDGIDTNEVEKSLRE
+                     KDFDFAYLIPSYHNPTGIVTSSEKRTELMRLFSKYNVPIIEDGFNEELRYSGSHLAPLL
+                     TFAGAGNNVIYISSFSKVLFPGLRVGWIIADKELIHYLESVKRARTIHTSTLDQAVLFQ
+                     YLHEGYFEKYLKKARSVYKKKYELAVGACNQYIPFKRMTGDGGLHLFIELEEHMNARTL
+                     LQKCYEKGVTFSPGDVFYSDGEGANTFRLGFSRLKEEEIVRGI"
+     gene            1874..2788
+                     /ID="gene-CWB31_RS07905"
+                     /Name="CWB31_RS07905"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07905"
+                     /old_locus_tag="CWB31_08255"
+                     /source="RefSeq"
+     CDS             1874..2788
+                     /Dbxref="GenBank:WP_002025855.1"
+                     /ID="cds-WP_002025855.1"
+                     /Name="WP_002025855.1"
+                     /Ontology_term="GO:0009252"
+                     /Ontology_term="GO:0005524"
+                     /Ontology_term="GO:0008716"
+                     /Ontology_term="GO:0046872"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07905"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) Dala_Dala_lig_N"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) ATP-grasp_3"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) RimK"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) Dala_Dala_lig_C"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) ATP-grasp"
+                     /gene_kind="biosynthetic-additional"
+                     /go_function="ATP binding|0005524||IEA"
+                     /go_function="D-alanine-D-alanine ligase
+                     activity|0008716||IEA"
+                     /go_function="metal ion binding|0046872||IEA"
+                     /go_process="peptidoglycan biosynthetic
+                     process|0009252||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_002038752.1"
+                     /locus_tag="CWB31_RS07905"
+                     /phase="0"
+                     /product="D-alanine--D-alanine ligase"
+                     /protein_id="WP_002025855.1"
+                     /sec_met_domain="Dala_Dala_lig_N (E-value: 1.5e-22,
+                     bitscore: 75.4, seeds: 508, tool: rule-based-clusters)"
+                     /sec_met_domain="ATP-grasp_3 (E-value: 1.1e-14, bitscore:
+                     50.0, seeds: 15, tool: rule-based-clusters)"
+                     /sec_met_domain="RimK (E-value: 1.4e-09, bitscore: 33.1,
+                     seeds: 4, tool: rule-based-clusters)"
+                     /sec_met_domain="Dala_Dala_lig_C (E-value: 5.4e-54,
+                     bitscore: 178.0, seeds: 12, tool: rule-based-clusters)"
+                     /sec_met_domain="ATP-grasp (E-value: 9.8e-07, bitscore:
+                     23.8, seeds: 20, tool: rule-based-clusters)"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MKIGVIMGGVSSEKQVSIMTGNEMIAHLDKNKYEIVPITLNEKID
+                     LVEKAKDIDFALLALHGKYGEDGTVQGTLESLGIPYSGSNMLSSSICMDKNISKKILRY
+                     EGVETPDWIELTKMEDLNLDELDKLGFPLVVKPNSGGSSVGVKIVYNKNELISMLETVF
+                     EWDSEVVIEKYIKGDEITCSILDGKQLPIVSIRHAAEFFDYNAKYDDTSTVEEVIELPA
+                     EIKERVNKASLACYKALKCSVYARVDMMVKDGIPYVMEINTLPGMTQSSLLPKSAEAAG
+                     ISYSKLLDMIIETSLKVRKEEGF"
+     PFAM_domain     1877..2125
+                     /aSDomain="Dala_Dala_lig_N"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF01820.24"
+                     /description="D-ala D-ala ligase N-terminus"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07905_0032"
+                     /evalue="4.70E-21"
+                     /label="CWB31_RS07905"
+                     /locus_tag="CWB31_RS07905"
+                     /protein_end="84"
+                     /protein_start="1"
+                     /score="75.4"
+                     /tool="antismash"
+                     /translation="KIGVIMGGVSSEKQVSIMTGNEMIAHLDKNKYEIVPITLNEKIDL
+                     VEKAKDIDFALLALHGKYGEDGTVQGTLESLGIPYSGS"
+     aSDomain        1877..2758
+                     /aSDomain="TIGR01205"
+                     /aSTool="tigrfam"
+                     /description="D_ala_D_alaTIGR: D-alanine--D-alanine ligase"
+                     /detection="hmmscan"
+                     /domain_id="TIGRFam_CWB31_RS07905_0003"
+                     /evalue="5.30E-89"
+                     /identifier="TIGR01205"
+                     /label="CWB31_RS07905"
+                     /locus_tag="CWB31_RS07905"
+                     /protein_end="295"
+                     /protein_start="1"
+                     /score="296.3"
+                     /tool="antismash"
+                     /translation="KIGVIMGGVSSEKQVSIMTGNEMIAHLDKNKYEIVPITLNEKIDL
+                     VEKAKDIDFALLALHGKYGEDGTVQGTLESLGIPYSGSNMLSSSICMDKNISKKILRYE
+                     GVETPDWIELTKMEDLNLDELDKLGFPLVVKPNSGGSSVGVKIVYNKNELISMLETVFE
+                     WDSEVVIEKYIKGDEITCSILDGKQLPIVSIRHAAEFFDYNAKYDDTSTVEEVIELPAE
+                     IKERVNKASLACYKALKCSVYARVDMMVKDGIPYVMEINTLPGMTQSSLLPKSAEAAGI
+                     SYSKLLDMIIETS"
+     PFAM_domain     2180..2752
+                     /aSDomain="Dala_Dala_lig_C"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF07478.16"
+                     /db_xref="GO:0008716"
+                     /description="D-ala D-ala ligase C-terminus"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07905_0033"
+                     /evalue="1.70E-52"
+                     /gene_ontologies="GO:0008716: D-alanine-D-alanine ligase
+                     activity"
+                     /label="CWB31_RS07905"
+                     /locus_tag="CWB31_RS07905"
+                     /protein_end="293"
+                     /protein_start="102"
+                     /score="178.0"
+                     /tool="antismash"
+                     /translation="RYEGVETPDWIELTKMEDLNLDELDKLGFPLVVKPNSGGSSVGVK
+                     IVYNKNELISMLETVFEWDSEVVIEKYIKGDEITCSILDGKQLPIVSIRHAAEFFDYNA
+                     KYDDTSTVEEVIELPAEIKERVNKASLACYKALKCSVYARVDMMVKDGIPYVMEINTLP
+                     GMTQSSLLPKSAEAAGISYSKLLDMIIE"
+     gene            3095..3784
+                     /ID="gene-CWB31_RS07910"
+                     /Name="tenA"
+                     /gbkey="Gene"
+                     /gene="tenA"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07910"
+                     /old_locus_tag="CWB31_08260"
+                     /source="RefSeq"
+     CDS             3095..3784
+                     /Dbxref="GenBank:WP_000144518.1"
+                     /ID="cds-WP_000144518.1"
+                     /Name="WP_000144518.1"
+                     /Ontology_term="GO:0006772"
+                     /Ontology_term="GO:0050334"
+                     /gbkey="CDS"
+                     /gene="tenA"
+                     /go_function="thiaminase activity|0050334||IEA"
+                     /go_process="thiamine metabolic process|0006772||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000144490.1"
+                     /locus_tag="CWB31_RS07910"
+                     /phase="0"
+                     /product="thiaminase II"
+                     /protein_id="WP_000144518.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MTFSQSLRKEVDSIWEASFNHPFVKKLGEGTLDLASFRYYVLQDS
+                     YYLSHFARVQTLGAAKALELETTARMAHHAQNTYEAELSLHENFAKKLGITKEEKDNFI
+                     PAPTAYAYTSHMYRAAYEGHLGDTIAAILPCYWLYYEIGERLKECQPEEPIYNEWISAY
+                     GSDWFRTLVEEQITRLDTIAEKVTEADRKRMKQHFIISSQYEYSFWEMAYTLEKWPVDT
+                     DVKDVIG"
+     PFAM_domain     3119..3736
+                     /aSDomain="TENA_THI-4"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF03070.19"
+                     /description="TENA/THI-4/PQQC family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07910_0034"
+                     /evalue="2.30E-57"
+                     /label="CWB31_RS07910"
+                     /locus_tag="CWB31_RS07910"
+                     /protein_end="214"
+                     /protein_start="8"
+                     /score="194.3"
+                     /tool="antismash"
+                     /translation="KEVDSIWEASFNHPFVKKLGEGTLDLASFRYYVLQDSYYLSHFAR
+                     VQTLGAAKALELETTARMAHHAQNTYEAELSLHENFAKKLGITKEEKDNFIPAPTAYAY
+                     TSHMYRAAYEGHLGDTIAAILPCYWLYYEIGERLKECQPEEPIYNEWISAYGSDWFRTL
+                     VEEQITRLDTIAEKVTEADRKRMKQHFIISSQYEYSFWEMAYT"
+     aSDomain        3125..3736
+                     /aSDomain="TIGR04306"
+                     /aSTool="tigrfam"
+                     /description="salvage_TenA: thiaminase II"
+                     /detection="hmmscan"
+                     /domain_id="TIGRFam_CWB31_RS07910_0004"
+                     /evalue="1.40E-75"
+                     /identifier="TIGR04306"
+                     /label="CWB31_RS07910"
+                     /locus_tag="CWB31_RS07910"
+                     /protein_end="214"
+                     /protein_start="10"
+                     /score="251.5"
+                     /tool="antismash"
+                     /translation="VDSIWEASFNHPFVKKLGEGTLDLASFRYYVLQDSYYLSHFARVQ
+                     TLGAAKALELETTARMAHHAQNTYEAELSLHENFAKKLGITKEEKDNFIPAPTAYAYTS
+                     HMYRAAYEGHLGDTIAAILPCYWLYYEIGERLKECQPEEPIYNEWISAYGSDWFRTLVE
+                     EQITRLDTIAEKVTEADRKRMKQHFIISSQYEYSFWEMAYT"
+     gene            4182..4445
+                     /ID="gene-CWB31_RS07915"
+                     /Name="CWB31_RS07915"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07915"
+                     /old_locus_tag="CWB31_08270"
+                     /source="RefSeq"
+     CDS             4182..4445
+                     /Dbxref="GenBank:WP_002082716.1"
+                     /ID="cds-WP_002082716.1"
+                     /Name="WP_002082716.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07915"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_002101034.1"
+                     /locus_tag="CWB31_RS07915"
+                     /phase="0"
+                     /product="DUF3937 domain-containing protein"
+                     /protein_id="WP_002082716.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MNFERCYMFTNKKLIRFGLSLFVFLGIINFTISYFQTYLETAADI
+                     KWVIPEIWKTILLDVPQGILVLLGAIALYDFTKEASQKDASI"
+     PFAM_domain     4203..4418
+                     /aSDomain="DUF3937"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF13073.9"
+                     /description="Protein of unknown function (DUF3937)"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07915_0035"
+                     /evalue="1.20E-51"
+                     /label="CWB31_RS07915"
+                     /locus_tag="CWB31_RS07915"
+                     /protein_end="79"
+                     /protein_start="7"
+                     /score="172.8"
+                     /tool="antismash"
+                     /translation="MFTNKKLIRFGLSLFVFLGIINFTISYFQTYLETAADIKWVIPEI
+                     WKTILLDVPQGILVLLGAIALYDFTKE"
+     aSDomain        5001..5273
+                     /aSDomain="TIGR03601"
+                     /aSTool="tigrfam"
+                     /description="B_an_ocin: bacteriocin,
+                     heterocycloanthracin/sonorensin family"
+                     /detection="hmmscan"
+                     /domain_id="TIGRFam_CWB31_RS07920_0005"
+                     /evalue="3.10E-40"
+                     /identifier="TIGR03601"
+                     /label="CWB31_RS07920"
+                     /locus_tag="CWB31_RS07920"
+                     /protein_end="91"
+                     /protein_start="0"
+                     /score="134.7"
+                     /tool="antismash"
+                     /translation="MNQFQQELQALSLNDYRSGNIVYWDQQNQYPYYYIEDAARRCGGC
+                     GRCGGCGGGRCGGFRCGGFRCIGCFGCFGCGGCGGCGGCGGCSNCF"
+     gene            5001..5321
+                     /ID="gene-CWB31_RS07920"
+                     /Name="CWB31_RS07920"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07920"
+                     /old_locus_tag="CWB31_08275"
+                     /source="RefSeq"
+     CDS             5001..5321
+                     /Dbxref="GenBank:WP_001071364.1"
+                     /ID="cds-WP_001071364.1"
+                     /Name="WP_001071364.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07920"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     RiPP-like: TIGR03601"
+                     /gene_kind="biosynthetic"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001071363.1"
+                     /locus_tag="CWB31_RS07920"
+                     /phase="0"
+                     /product="heterocycloanthracin/sonorensin family
+                     bacteriocin"
+                     /protein_id="WP_001071364.1"
+                     /sec_met_domain="TIGR03601 (E-value: 4.4e-43, bitscore:
+                     140.9, seeds: 6, tool: rule-based-clusters)"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MNQFQQELQALSLNDYRSGNIVYWDQQNQYPYYYIEDAARRCGGC
+                     GRCGGCGGGRCGGFRCGGFRCIGCFGCFGCGGCGGCGGCGGCSNCFDGFTDTTGTIVTY
+                     EY"
+     CDS             5498..5601
+                     /ID="cds-CWB31_RS07925"
+                     /Note="frameshifted; incomplete; partial in the middle of a
+                     contig; missing N-terminus"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07925"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016077325.1"
+                     /locus_tag="CWB31_RS07925"
+                     /partial="true"
+                     /phase="0"
+                     /product="site-specific integrase"
+                     /pseudo="true"
+                     /source="Protein Homology"
+                     /start_range="."
+                     /start_range="376325"
+                     /transl_table=11
+                     /translation="MLMDIFNHSSERVTIRYIDVIKM"
+     gene            5811..6296
+                     /ID="gene-CWB31_RS07930"
+                     /Name="CWB31_RS07930"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07930"
+                     /old_locus_tag="CWB31_08280"
+                     /source="RefSeq"
+     CDS             5811..6296
+                     /Dbxref="GenBank:WP_002025857.1"
+                     /ID="cds-WP_002025857.1"
+                     /Name="WP_002025857.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07930"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016124614.1"
+                     /locus_tag="CWB31_RS07930"
+                     /phase="0"
+                     /product="hypothetical protein"
+                     /protein_id="WP_002025857.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MNMIELKSIIHSYKLKRKIAKDLYGKRDELTLLLNEFNKMKCTVT
+                     SEKKKNNILSRLQLIYQNMKSDKQYPLAVAFDSKLLEQLEKEPLHTIEDGVTCLHLMLD
+                     VNYEKIKQYGSSTSRSFVPLSQSSICLADCICLTGVVVGLLGAISFGGLLLSICSIT"
+     gene            6608..7309
+                     /ID="gene-CWB31_RS07935"
+                     /Name="CWB31_RS07935"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07935"
+                     /old_locus_tag="CWB31_08285"
+                     /source="RefSeq"
+     CDS             6608..7309
+                     /Dbxref="GenBank:WP_063536437.1"
+                     /ID="cds-WP_063536437.1"
+                     /Name="WP_063536437.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07935"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000736205.1"
+                     /locus_tag="CWB31_RS07935"
+                     /phase="0"
+                     /product="DUF3962 domain-containing protein"
+                     /protein_id="WP_063536437.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MKKLRLLTFENIVEPLLNEKVSFIYFPIEWLDIVEIHYKTFLLTS
+                     KLKRLNERLYDMFSDILFIQHNPYVLNENTPWIVSKEPIRQEQLDYIFQSWYEIIHDWK
+                     PNRLVEPPKYEWQSDLISNLPVLHDNETYSKWVPALISHIFCERPIYLKNTNEEEIYFS
+                     PLRSQNICEAMSGPIKDEKTQDFFSYVYRFECITRGGENAPLLNISIGIRRFYQEYKMI
+                     GQTNLDMTTFV"
+     PFAM_domain     6656..7255
+                     /aSDomain="pPIWI_RE_X"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF13111.9"
+                     /description="pPIWI_RE module N-terminal domain"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07935_0036"
+                     /evalue="1.90E-17"
+                     /label="CWB31_RS07935"
+                     /locus_tag="CWB31_RS07935"
+                     /protein_end="216"
+                     /protein_start="16"
+                     /score="63.7"
+                     /tool="antismash"
+                     /translation="LNEKVSFIYFPIEWLDIVEIHYKTFLLTSKLKRLNERLYDMFSDI
+                     LFIQHNPYVLNENTPWIVSKEPIRQEQLDYIFQSWYEIIHDWKPNRLVEPPKYEWQSDL
+                     ISNLPVLHDNETYSKWVPALISHIFCERPIYLKNTNEEEIYFSPLRSQNICEAMSGPIK
+                     DEKTQDFFSYVYRFECITRGGENAPLLNISIGIRRFY"
+     gene            complement(7348..8457)
+                     /ID="gene-CWB31_RS07940"
+                     /Name="CWB31_RS07940"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07940"
+                     /old_locus_tag="CWB31_08290"
+                     /source="RefSeq"
+     CDS             complement(7348..8457)
+                     /Dbxref="GenBank:WP_088054496.1"
+                     /ID="cds-WP_088054496.1"
+                     /Name="WP_088054496.1"
+                     /Ontology_term="GO:0006310"
+                     /Ontology_term="GO:0015074"
+                     /Ontology_term="GO:0003677"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07940"
+                     /gene_functions="other (smcogs) SMCOG1077:phage integrase
+                     family protein (Score: 179.6; E-value: 1.9e-54)"
+                     /gene_kind="other"
+                     /go_function="DNA binding|0003677||IEA"
+                     /go_process="DNA recombination|0006310||IEA"
+                     /go_process="DNA integration|0015074||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000675870.1"
+                     /locus_tag="CWB31_RS07940"
+                     /phase="0"
+                     /product="tyrosine-type recombinase/integrase"
+                     /protein_id="WP_088054496.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MKGHIRKRGNKYCIVIDIGPDPETGKRRQKWFSGYKTKKEAQADV
+                     AKKITELNEGTFIEPSKVTLKDYLNHWLEIKSMSIEKSTFAGYRAFINQHVIPSIGMVA
+                     LHKLNVMHIQKCYKTAIDKGIANNSILLMHRILKSALNLAVKQNIISRNPADFAEIPKK
+                     EKNPIQTWTEEEVKKFLAHSQESRYHIGYLLAITTGMRLGEVLGLRWQDIDFEKHTVTI
+                     NQTSGHDNKIKKTAKTNSSKRTIPVPNETIAALKKHKILINKEKLKFGSAYLDQDLINC
+                     NEFGRIIKRAHFRKSFIRLTHKVGIKEIKFHDLRHTHATLLLKQGVNPKIISERLGHTD
+                     ISMTLSVYSHVLPNMQEEAVKNFGKSIFG"
+     PFAM_domain     complement(7402..7944)
+                     /aSDomain="Phage_integrase"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00589.25"
+                     /db_xref="GO:0003677"
+                     /db_xref="GO:0006310"
+                     /db_xref="GO:0015074"
+                     /description="Phage integrase family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07940_0039"
+                     /evalue="5.70E-31"
+                     /gene_ontologies="GO:0003677: DNA binding"
+                     /gene_ontologies="GO:0006310: DNA recombination"
+                     /gene_ontologies="GO:0015074: DNA integration"
+                     /label="CWB31_RS07940"
+                     /locus_tag="CWB31_RS07940"
+                     /protein_end="352"
+                     /protein_start="171"
+                     /score="107.7"
+                     /tool="antismash"
+                     /translation="TEEEVKKFLAHSQESRYHIGYLLAITTGMRLGEVLGLRWQDIDFE
+                     KHTVTINQTSGHDNKIKKTAKTNSSKRTIPVPNETIAALKKHKILINKEKLKFGSAYLD
+                     QDLINCNEFGRIIKRAHFRKSFIRLTHKVGIKEIKFHDLRHTHATLLLKQGVNPKIISE
+                     RLGHTDISMTLSVYSHVL"
+     PFAM_domain     complement(8104..8268)
+                     /aSDomain="Phage_int_SAM_3"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF14659.9"
+                     /db_xref="GO:0003677"
+                     /db_xref="GO:0015074"
+                     /description="Phage integrase, N-terminal SAM-like domain"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07940_0038"
+                     /evalue="6.70E-10"
+                     /gene_ontologies="GO:0003677: DNA binding"
+                     /gene_ontologies="GO:0015074: DNA integration"
+                     /label="CWB31_RS07940"
+                     /locus_tag="CWB31_RS07940"
+                     /protein_end="118"
+                     /protein_start="63"
+                     /score="39.1"
+                     /tool="antismash"
+                     /translation="TLKDYLNHWLEIKSMSIEKSTFAGYRAFINQHVIPSIGMVALHKL
+                     NVMHIQKCYK"
+     PFAM_domain     complement(8287..8424)
+                     /aSDomain="Arm-DNA-bind_4"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF14657.9"
+                     /description="Arm DNA-binding domain"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS07940_0037"
+                     /evalue="1.40E-10"
+                     /label="CWB31_RS07940"
+                     /locus_tag="CWB31_RS07940"
+                     /protein_end="57"
+                     /protein_start="11"
+                     /score="40.8"
+                     /tool="antismash"
+                     /translation="YCIVIDIGPDPETGKRRQKWFSGYKTKKEAQADVAKKITELNEGT
+                     F"
+     gene            8662..8844
+                     /ID="gene-CWB31_RS07945"
+                     /Name="CWB31_RS07945"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS07945"
+                     /old_locus_tag="CWB31_08295"
+                     /source="RefSeq"
+     CDS             8662..8844
+                     /Dbxref="GenBank:WP_088054495.1"
+                     /ID="cds-WP_088054495.1"
+                     /Name="WP_088054495.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS07945"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016124617.1"
+                     /locus_tag="CWB31_RS07945"
+                     /phase="0"
+                     /product="hypothetical protein"
+                     /protein_id="WP_088054495.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MRRFTNDPGGHKVTNPGVGWHNEPGGGGWKHNQEPGTGWKMISDP
+                     GGGGWDISLDPGTGI"
+ORIGIN
+        1 ggaaacagag aaaacactta ctgatataca tataaaagga atcgagcacg ttacaaaaca
+       61 gcaaattcga aatgctaagg aacaacataa aattattaaa ttaatagcat caacatataa
+      121 ggatgaggga ggcaatgtga atttaaatgt tgaaccgtgc caaatagaaa aagatcatcc
+      181 attagcaaaa gtaaatggaa ccgaaaaagg aattacgttc tttacagata cgatgggaca
+      241 agttactaca attggtggag cttctaatcc aagaggcgct gcagctgcag ctttaaaaga
+      301 tgtaataaac ttatatcgaa aagatttgta agaccgtacc gccctttata aaaaatacat
+      361 atgccgtgga ccttttgaga atgaaataaa tatgcaaaaa tgattgcagg gggtaagaaa
+      421 ttgtttaagg attttaaagt tgttaaagaa cgtcccgttt atattcaatt gaaagattat
+      481 ttgaagaaaa tgattatgaa agggcatttg ctcggggatc aaaaaatccc atcaacaagg
+      541 gaactaagtg aattactaag tgtgagtaga aacactgtac tcgctgctta tgcagattta
+      601 gagcaagaag gactcattta tgcagttaaa ggaaaaggga actttgttgc gaaggtggat
+      661 atatctaaca cttcgtctgt tgaaatagat tggaaaaata aacttaatac agtgaccgca
+      721 ttagcggacg aattagattt aatgaaacat ggtgttcgtt gggaaaaggg aatgattgtt
+      781 tttaatagta tagccccgga tgagaagcta tttgatgttg aaaatttcaa aagagctttt
+      841 cttactcgta tgtccattga aggggacatc gtattgaact acggatatgc aaagggatat
+      901 agaccgttaa tgaattattt acttcattac atggaaatga aaggtgtaga catttcgaat
+      961 aaagatattc taattacaaa tggatttaca gaaggattgg atattgtact ctcttcttta
+     1021 tcaaaaaaat ccggtcgtgt catttgtgag aatccaactc accatgctgc acttaagctt
+     1081 ttccgtttac atggacttga agttcatggg attgatatgc atgaggatgg tattgatacg
+     1141 aatgaagttg aaaaaagttt gcgtgaaaaa gattttgatt ttgcttattt aattccttct
+     1201 tatcataatc caaccggtat tgttacgagt tcagagaaaa gaacggaatt gatgaggtta
+     1261 ttttcaaaat acaacgttcc tattatagag gacggattta atgaagaatt acgttattca
+     1321 ggttcacatt tagctccatt attaactttt gcgggagctg gcaataatgt gatttatatt
+     1381 agtagctttt caaaggtact tttccctggt ttacgtgtag gctggattat tgcagataaa
+     1441 gagctgattc attatttaga aagcgtaaaa agagcaagaa cgattcacac atctacgcta
+     1501 gatcaagctg ttctgtttca atatttacat gagggatatt ttgaaaaata tttaaaaaag
+     1561 gcaagatctg tttataagaa aaaatatgag ttagctgtcg gggcatgtaa ccagtacatt
+     1621 ccttttaaaa gaatgactgg agatggtggg ctgcatttat ttatagagct agaagagcat
+     1681 atgaatgccc gcacactttt acaaaagtgt tatgagaaag gcgttacgtt ttcacctgga
+     1741 gatgtttttt actctgatgg agaaggagcg aacactttcc gattaggttt ttcgcgcttg
+     1801 aaagaagaag aaatagttcg gggaattaaa ataattggtg atacattaaa aaatgaaatt
+     1861 tggagttgag aaaatgaaaa tcggtgttat tatgggcggg gtatcgtctg aaaaacaagt
+     1921 ttcaattatg acggggaatg aaatgattgc tcatttagat aaaaataagt atgaaatagt
+     1981 tccaattaca ttaaatgaaa aaatagattt agttgaaaaa gcgaaagaca ttgactttgc
+     2041 gttgctcgca ttacacggaa aatacggaga agatgggaca gttcaaggaa cactggagag
+     2101 tttagggatt ccttatagcg gaagtaatat gttatctagc agtatatgta tggataaaaa
+     2161 tatttcgaaa aagattttac gttatgaagg tgtagaaaca ccagattgga ttgaacttac
+     2221 aaaaatggag gatctaaatc ttgatgagtt agataagtta ggatttccat tagtagtaaa
+     2281 accaaactct ggcggatcga gtgtcggagt gaaaatcgtt tataataaaa atgaattgat
+     2341 ctcaatgcta gaaactgtat tcgaatggga ttctgaagta gtaattgaaa agtatataaa
+     2401 aggtgatgaa attacatgtt caattctgga tggaaaacag ttacctatag tttcaattcg
+     2461 acatgcagcc gagttctttg actacaatgc aaaatatgat gatactagta cagttgagga
+     2521 agttatcgaa cttccagcag aaattaagga acgtgtaaat aaagcgtcac ttgcttgtta
+     2581 taaagcatta aaatgtagtg tttatgcaag agttgatatg atggtgaagg acggaattcc
+     2641 atatgtaatg gaaattaata cattaccagg gatgacacaa tcaagtttat tgccaaaaag
+     2701 tgcagaagca gcggggatta gttatagcaa actattagat atgattattg aaacatcatt
+     2761 aaaagttaga aaagaagaag ggttttaagg gaattatata acgaattttt ttgacagttt
+     2821 cacgaagtat gctatgatga atacattatt aaaaacaaaa tatttatcca ctaggggggc
+     2881 cttttatagg ctgagatcaa atgtgatttt gagactctta gtacctgatc tggttaatgc
+     2941 cagcgtaggg aagtgggaaa gacgttgcta tttaatgagt aaataaatac tgtcaatttc
+     3001 actttcttta cgcctgtaaa gaaagttttt tattttacag ctttaataat tgtggataaa
+     3061 tacttatatt ttatacatta ttggagggat ttaaatgact ttttcacaat cattacgtaa
+     3121 agaagtagat tcaatttggg aagcgagttt taaccatcct tttgtaaaaa aacttggtga
+     3181 aggaacatta gatttagcta gttttcgcta ttatgtgctt caagattcat attatttgag
+     3241 tcattttgct agagtacaaa ctttaggagc tgcaaaagct cttgaattag agacgacagc
+     3301 tcgtatggca catcatgctc aaaatacata tgaggccgag ttatctttac atgagaattt
+     3361 tgctaaaaaa ctagggataa cgaaagaaga aaaagataat tttattcctg cgccaactgc
+     3421 atatgcgtat acttcacata tgtatcgtgc tgcgtatgaa gggcatttag gagataccat
+     3481 tgcagcaatt ttaccttgct attggttgta ttatgaaatt ggcgaacgct taaaagagtg
+     3541 ccagccggaa gagccaattt ataacgaatg gatttctgct tatggatctg attggttccg
+     3601 tacgctagtt gaagaacaaa ttacacgttt agatactatc gctgaaaaag taacagaggc
+     3661 agatcgcaaa cgtatgaaac agcattttat tattagcagt caatatgaat attcattttg
+     3721 ggaaatggct tatacattag aaaagtggcc agtggataca gacgtaaaag acgtaattgg
+     3781 ataaagaata gaagtaatgt tatagatagg tatggatcat acctatctat atattttttc
+     3841 ttgtcaaatt tgcgtaaagt cattagtgct acggaaatgg cgaaatagaa tatcgataat
+     3901 ttagctcatt tacttgtcta cgcattaact ggataaactt ctgtcacatt tattttacaa
+     3961 tcaaagaacg taaatgttgg tggtatgaag ttaaataaga aaagaaaccc gagctgttag
+     4021 ctgtaacgga gttgtttttt ctttgcagga atttctatat tatcatggag tgttgttaat
+     4081 acgatatgca aatatgcata tcgtattttt ttgagttctt tatgtgttaa aattagatat
+     4141 aaagatatga aaatataaag aagcaaaagc aggaatatcc aatgaatttt gagaggtgtt
+     4201 atatgtttac aaataagaaa ttaattcgat ttggtttatc gttgtttgta tttttaggaa
+     4261 tcattaattt tacaatcagc tatttccaaa catatcttga aacagcagca gatatcaaat
+     4321 gggtaattcc agaaatttgg aaaactattt tgctagatgt tcctcaaggt atacttgttc
+     4381 ttttaggcgc aattgcttta tatgatttca caaaagaggc atcacaaaaa gacgcatcaa
+     4441 tctaagtgtg tcttttttca attagcaatt tcatagagag ttttgctgga gaaatagaat
+     4501 gaaaagccct aattagggct ttttttgttg gaatttcata tccgtcatag aaaccggtca
+     4561 cttggaggtg ttatagcgaa agccatttac agtacagaaa aatctaagca gcagacggaa
+     4621 atatatagga catggcatca taattattga gaaattaatt gaacttagta agtatgaaga
+     4681 tatgacgcta gaattcatat tttttaattt ttatttaccc cgctatttgc cgggcagtaa
+     4741 gccccccacc tcaaaattca gcggaagcaa agaagttagg taggggatga acaaaacccc
+     4801 actgattaaa gtttcacttt ataaaaatga gcccatagta aaaataggta tatgaacaag
+     4861 gtgcatcatc tagtgataag tcatactttg ttggtgtacg tattgaactt agtttatagc
+     4921 gctatttcta cttagatgta acgaacagga atatagggaa gtatcgatga ggttgtattt
+     4981 tataaacgga ggttatgaaa atgaatcagt ttcaacaaga actacaagcg ttaagcctta
+     5041 atgattaccg gtctggaaat attgtctatt gggaccagca aaaccaatat ccatattact
+     5101 atattgaaga tgctgctcgt cgctgtggcg gttgtggtcg ttgtggcggt tgtggtggag
+     5161 gtcgttgtgg cggcttccgt tgtggtggct tccgttgtat tggttgcttc ggttgttttg
+     5221 gttgcggagg ctgtggcggt tgtggcggct gtggtggttg ctctaactgt tttgatggtt
+     5281 ttactgatac tactggtact attgtaacgt atgaatattg ataacatcta tcttgctagt
+     5341 tgcgggcagt aacatccccc ccaaaattca gcgagagcaa agagaagtta ggtagcggac
+     5401 tgcccataaa agcccgattg gtgagagctg attaaagttt cactttatca ataaaaaaac
+     5461 attagttata tgtacgtgcc gacaaagaat atagccatta ttaatggata tattcaatca
+     5521 ttcaagtgaa agagtaacaa taagatatat agatgtaatc aagatgtgat ggataaagca
+     5581 atgactagat ttaaaatcta atcattgttt ttttcttatg gttttgtcat taaatatctg
+     5641 tctagtttgg gcattgcttc cttctagcta acgaatttat tacaactttg taaggttaat
+     5701 gtaatgttaa tcgatagtaa atgaagatgc ttgagtgtaa tttaaataag attaaaaagt
+     5761 actgtttatc tataaaataa tcgggtaaat actatgtaat taggaagtgt atgaatatga
+     5821 ttgaactaaa atctattatc cattcgtata aactaaagag aaaaatagct aaagatttat
+     5881 acggaaaaag agatgaattg acactgttat taaatgaatt taataaaatg aaatgtacag
+     5941 taacatctga aaagaagaaa aataatatat tatctcgttt gcaactaatt tatcaaaata
+     6001 tgaaatcgga taagcagtac cctctagcag ttgcttttga tagtaaatta ttggagcaat
+     6061 tagaaaaaga acctctacat actattgagg atggtgtaac atgtttacat ctaatgttag
+     6121 atgtgaatta tgagaaaata aaacaatatg gttcgagtac aagtaggtca tttgttccat
+     6181 tatcgcagtc ttctatttgt cttgctgatt gtatttgttt aacaggagtt gtagtaggtt
+     6241 tactaggagc aatttcattt ggggggttac tgttatctat atgttcaatt acataaaggt
+     6301 tgatatttgt aaaaagggca ccgaattaag gtgttctttt ttggtttttt tgtaaagata
+     6361 ttgtaaatga taagtacaat gcattaagta taatgtataa ttcgaatgta ttgaaattca
+     6421 aatataatag aggtgttata catgataatt actttgaatt tttaaaagag tcggtttgat
+     6481 aataatttat gtagataaac agtttttacg tttcttttaa atacttggtt taaatggatt
+     6541 agattaagta actattgttc tagctttttg ataatcaaga caactgaaga aaggaaggaa
+     6601 tcattttatg aaaaaattaa ggctgctaac atttgaaaat atagtagaac cccttttaaa
+     6661 tgaaaaggta tcatttatat actttcctat tgaatggctg gacatcgtag agatacatta
+     6721 taagacattt ttattaacga gtaagttgaa acgtttgaat gaaagattgt atgatatgtt
+     6781 ttcggatata ttgtttattc agcataaccc atacgtatta aatgaaaata caccatggat
+     6841 tgtatcgaaa gaacctatta gacaagagca gctcgattat atttttcaaa gttggtatga
+     6901 gattattcat gattggaaac caaatagatt agtagaacca ccaaaatatg aatggcaatc
+     6961 cgatttgatt tctaatttgc cagtactaca tgataatgaa acgtattcta agtgggtgcc
+     7021 cgctttaatc tcacatattt tttgtgagcg tcctatatat ttaaaaaata caaatgaaga
+     7081 agaaatctat ttttcccctc ttagatcaca aaatatttgt gaggcgatgt cagggccgat
+     7141 aaaagatgaa aaaacacaag attttttctc ctatgtatat cgattcgaat gcataacccg
+     7201 cggtggtgag aacgctccat tattaaatat ttcaataggg attcggagat tttatcaaga
+     7261 atataagatg ataggtcaaa caaaccttga tatgacaaca tttgtttgac tttttttgat
+     7321 aaaatgcaaa cattttgcaa acataggtta tccaaagata cttttaccga agtttttaac
+     7381 tgcttcttcc tgcatattcg gtaaaacatg agaatagaca cttaatgtca ttgaaatatc
+     7441 tgtatgacct aatcgctcac tgatgatttt agggttaact ccttgtttca atagtagagt
+     7501 tgcatgtgta tgtcttaaat catggaattt aatttctttt atacctactt tgtgtgttaa
+     7561 cctaatgaaa ctctttctga aatgagctct ctttatgatt cttccaaact cattacaatt
+     7621 aattaaatct tgatctagat aagcagaacc aaactttaac ttctctttat tgattaaaat
+     7681 tttatgtttt tttaaagctg ctattgtttc attaggtaca ggaattgtgc gttttgatga
+     7741 atttgttttt gcagtttttt tgattttatt gtcatgacca gatgtttgat ttattgtaac
+     7801 agtatgtttt tcgaaatcaa tgtcctgcca tcgtaaacct agaacttctc ctagacgcat
+     7861 acctgtagtt attgcaagta gatacccaat gtgatatcgt gattcttgtg aatgagctaa
+     7921 aaactttttt acttcttcct ctgtccaagt ctggataggg tttttttctt ttttaggtat
+     7981 ctcagcaaaa tctgcgggat ttcgagaaat aatattttgt tttacggcta ggtttaaagc
+     8041 gctctttaaa attctatgca taagcagaat agaattgttt gcaatccctt tatctatcgc
+     8101 agtcttataa catttttgaa tgtgcataac atttaattta tggagcgcga ccattcctat
+     8161 actaggtata acatgttggt tgataaatgc cctatagcca gcaaaggtac tcttttctat
+     8221 gctcatactt ttaatttcta gccaatgatt aagatagtct tttaatgtaa ctttagatgg
+     8281 ctctataaaa gttccttcat tcaactctgt aatcttcttt gctacatctg cctgtgcttc
+     8341 tttttttgtc ttatatccag aaaaccactt ctgtcttctt ttccctgtct ctggatcagg
+     8401 accgatatca ataacgatgc aatatttatt tcctcttttt cgaatatgtc ctttcactta
+     8461 aaacactcct tcattttgtt ttgaatcatg ttgtataagt ctagttgtaa ttttgctgct
+     8521 atgaaaatta catgtttgga catatcagcg atggatatat tctaccatat ataaacaaat
+     8581 tcagttatag gatatgattg tcatccaatg ttaaataata gtaaaatatg aatagaatta
+     8641 gataaagggg gatgtaagac tatgagaaga ttcacaaatg atccaggcgg acataaagta
+     8701 actaatcctg gtgtagggtg gcataatgaa ccgggtggtg gtggttggaa acacaatcaa
+     8761 gaacctggta cagggtggaa aatgatttct gatccaggcg gcggtggatg ggatataagt
+     8821 ttagacccag gcacgggtat ataacaaggg ggagaatacc taaatgacaa attatataaa
+     8881 ggacccaggg ggatggaaaa taagtttaaa tccaagaacg gagtgtaata cataggagcc
+     8941 taatggctct ttttttattg cagaaaaaaa gtgagtatca tatgcatatg gtactttaaa
+     9001 atacgaaatg caaaattgca tattttattc cattgaatgc gaagaacgtt gatatatagc
+     9061 gttttttgaa ctttctcaat aattatcaga ttactgtatg accgaatttt gggaaatttg
+     9121 tgttattatg aaaataataa aataaatgga cgtaaaaaag acccatgact gtgtaagtag
+     9181 tgttggctgc actcttacac cgtcctccct aatgcgagta gggaaaacat ctgtcataag
+     9241 tctcatccat aattataaca tataacctag atataatgac acgttttcct gtaaaggtaa
+     9301 gaaatctagg gtaacgtgtc tttttgtcca acaaggggga caaaatagtg gataatattc
+     9361 tagtaagtag ggaaaaagac caggtaatga cagatttatt aagaaaaata aatgacgatt
+     9421 tatttgcatt aaaaattaca aacaatgaat tagcttctta tttagggatt gctaaaagta
+     9481 cagtatctag tattttgagc gggaaaactg aaattagttt taattatttg attaaaataa
+     9541 ttatgaagat ttacaagaaa ccgtatgtta cattaagaga tgacataata tcagattact
+     9601 taatgtatgc aaaacccgag aacagaagag aagctttaga atacgctgca ttccgaagag
+     9661 aattcgattc tttgaaagta ttaattgata ttgagaaaag ttctaatact gaaattaatc
+     9721 gggaattcgc gaaaatatac gaaattgtct ttaaacactg taaggatgta gaagaatata
+     9781 gccctgagga tttttatgac gaattagaag agtgcaaaag tcatgtttta tcatgggaaa
+     9841 tgaaagtact aattgatatt cttttatgcc aaacgttata tcaaacgaaa gaatataaaa
+     9901 aattatttaa gcgtattagt atcgctaaaa aaaacgtaaa agaaataaag aataaattta
+     9961 tttataatag ttttttagtc agaataaaag aagtgttgat tgtcacttat atgatgcaga
+    10021 acgaagtgag gaaagctaga ttaacttgta ttgaattaat ggacatgtgt gacggaaaca
+    10081 gcaatttttt tatgcaaaaa gctaactcct attacaacat gggagaatca tatatatttg
+    10141 aagattattc aaaggcgaaa atgtttttag aaaaaagctt atcagttcta agtgatgaaa
+    10201 tgtttactgg ggataaagat atcgaaagaa aaacgagacg aattaagagt accataatct
+    10261 ttttgaaaat tcatcattac caggacataa aagaagtgta ttctggatta gataaggatg
+    10321 g
+//

@@ -1,0 +1,1021 @@
+ClusterBlast scores for NZ_CP022475.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CGZ47_RS07690	1479102	1480143	-	bifunctional threonine ammonia-lyase/L-serine ammonia-lyase TdcB	
+CGZ47_RS07695	1480358	1480691	+	hypothetical protein	
+CGZ47_RS07700	1480736	1480934	-	hypothetical protein	
+CGZ47_RS07705	1481034	1481361	-	bacteriocin immunity protein	
+CGZ47_RS07715	1481688	1481877	-	hypothetical protein	
+CGZ47_RS07720	1482081	1483151	-	IS3-like element IS1163 family transposase	
+CGZ47_RS07730	1483357	1483654	-	bacteriocin immunity protein	
+CGZ47_RS07735	1483747	1483933	-	leucocin A/sakacin P family class II bacteriocin	
+CGZ47_RS07740	1484079	1484826	-	response regulator transcription factor	
+CGZ47_RS07745	1484827	1485985	-	GHKL domain-containing protein	
+CGZ47_RS07750	1486192	1486303	-	bacteriocin	
+CGZ47_RS07755	1486475	1486730	-	hypothetical protein	
+CGZ47_RS07760	1486945	1487293	+	bacteriocin immunity protein	
+CGZ47_RS07765	1487501	1487717	-	hypothetical protein	
+CGZ47_RS07770	1487870	1488500	+	glutathione S-transferase N-terminal domain-containing protein	
+
+
+Significant hits: 
+1. NZ_CP022475	Latilactobacillus curvatus strain KG6 chromosome, complete genome
+2. NZ_CP016470	Latilactobacillus curvatus strain TMW 1.595 chromosome, complete genome
+3. NZ_CP016221	Latilactobacillus curvatus strain TMW 1.421 chromosome, complete genome
+4. NZ_CP016468	Latilactobacillus curvatus strain TMW 1.27 plasmid pL127-1, complete sequence
+5. NZ_CP017566	Latilactobacillus sakei strain TMW 1.114 chromosome, complete genome
+6. NZ_CP015493	Latilactobacillus curvatus strain TMW 1.1381 chromosome, complete genome
+7. NZ_CP117683	Latilactobacillus curvatus strain CACC879 chromosome, complete genome
+8. NZ_CP031003	Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+9. NZ_LT960790	Latilactobacillus sakei strain J54 chromosome 1, complete sequence
+10. NZ_LT907930	Latilactobacillus sakei strain J18 chromosome LSAJ18, whole genome shotgun sequence
+11. NZ_CP031003	Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+12. NZ_KB946310	Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+13. NZ_CP058617	Leuconostoc gasicomitatum strain CBA3613 chromosome, complete genome
+14. NZ_JQBV01000002	Carnobacterium maltaromaticum strain DSM 20730 Scaffold2, whole genome shotgun sequence
+15. NZ_LHUF01000011	Carnobacterium maltaromaticum strain UAL307 UAL307_S2_L001_R1_001_contig_11, whole genome shotgun sequence
+16. NZ_GL397179	Streptococcus mitis ATCC 6249 SCAFFOLD1, whole genome shotgun sequence
+17. NZ_JALDUI010000004	Streptococcus sp. oral taxon 431 strain S46 NODE_4_length_147478_cov_72.914940, whole genome shotgun sequence
+18. NZ_CP013688	Streptococcus gallolyticus strain ICDDRB-NRC-S1 chromosome, complete genome
+19. NZ_VBTH01000007	Pediococcus stilesii strain FAM 18815 FAM18815_scf0007, whole genome shotgun sequence
+20. NZ_KB946310	Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+21. NZ_CP074377	Lacticaseibacillus casei strain FBL6 chromosome, complete genome
+22. NZ_LS991421	Lacticaseibacillus zeae isolate CECT 9104 chromosome 1
+23. NZ_CP074378	Lacticaseibacillus chiayiensis strain FBL7 chromosome, complete genome
+24. NZ_CP107523	Lacticaseibacillus chiayiensis strain AACE 3 chromosome, complete genome
+25. NZ_NGLG01000002	Enterococcus sp. 3H8_DIV0648 scaffold00002, whole genome shotgun sequence
+26. NZ_CP014699	Streptococcus pantholopis strain TA 26 chromosome, complete genome
+27. NZ_CP065994	Streptococcus infantarius strain FDAARGOS_1019 chromosome, complete genome
+28. NZ_KB904096	Streptococcus caballi DSM 19004 A3GSDRAFT_scaffold_4.5, whole genome shotgun sequence
+29. NZ_CP039457	Streptococcus pasteurianus strain WUSP067 chromosome, complete genome
+30. NZ_CP050959	Streptococcus gallolyticus strain FDAARGOS_666 chromosome
+31. NZ_CP116958	Streptococcus pasteurianus strain WUSP074 chromosome, complete genome
+32. NZ_GL397128	Streptococcus equinus ATCC 700338 SCAFFOLD1, whole genome shotgun sequence
+33. NZ_JAQDTP010000001	Streptococcus infantarius strain AM110-33 GF3HA21002B.Scaf1, whole genome shotgun sequence
+34. NZ_JAQDUM010000001	Streptococcus infantarius strain AM110-80 MF3HA21011B.Scaf1, whole genome shotgun sequence
+35. NZ_CP040736	Companilactobacillus futsaii strain Y97 chromosome, complete genome
+36. NZ_JADOFZ010000001	Pediococcus pentosaceus strain LMG 13560 LMG13560-i1-1_scf1, whole genome shotgun sequence
+37. NZ_CP028254	Pediococcus pentosaceus strain SRCM102734 chromosome, complete genome
+38. NZ_CP039378	Pediococcus pentosaceus strain SL001 chromosome, complete genome
+39. NZ_CP085178	Pediococcus pentosaceus strain MGB0941 chromosome, complete genome
+40. NZ_JADOFW010000001	Pediococcus pentosaceus strain FAM 18528 FAM18528-i1-1_scf1, whole genome shotgun sequence
+41. NZ_VBTG01000001	Pediococcus pentosaceus strain FAM 19144 FAM19144_scf0001, whole genome shotgun sequence
+42. NC_008525	Pediococcus pentosaceus ATCC 25745, complete sequence
+43. NZ_CP046938	Pediococcus pentosaceus strain GDIAS001 chromosome, complete genome
+44. NZ_WEOQ01000001	Pediococcus pentosaceus strain FAM18813 FAM18813_scf0001, whole genome shotgun sequence
+45. NZ_JAHDAS010000010	Pediococcus pentosaceus strain ST75/87BZ NODE_10_length_70809_cov_48.788017, whole genome shotgun sequence
+46. NZ_JADOFR010000001	Pediococcus pentosaceus strain FAM 22491 FAM22491-i1-1_scf1, whole genome shotgun sequence
+47. NZ_CP066043	Pediococcus pentosaceus strain FDAARGOS_1009 chromosome, complete genome
+48. NZ_JAMRWS010000002	Pediococcus pentosaceus strain DRD-185 Scaffold_2, whole genome shotgun sequence
+49. NZ_JAMRWU010000001	Pediococcus pentosaceus strain DRD-61 Scaffold_1, whole genome shotgun sequence
+50. NZ_CP102284	Ligilactobacillus ruminis strain ATCC 25644 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NZ_CP022475
+Source: Latilactobacillus curvatus strain KG6 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 4752.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07690	CGZ47_RS07690	100	675	100.0	1.74e-246
+CGZ47_RS07695	CGZ47_RS07695	100	216	100.0	1.98e-72
+CGZ47_RS07700	CGZ47_RS07700	100	128	100.0	3.41e-39
+CGZ47_RS07700	CGZ47_RS07730	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	CGZ47_RS07705	100	224	100.0	1.07e-75
+CGZ47_RS07715	CGZ47_RS07715	100	116	100.0	1.5e-34
+CGZ47_RS07720	CGZ47_RS07720	100	716	100.0	2.63e-262
+CGZ47_RS07730	CGZ47_RS07730	100	197	100.0	1.73e-65
+CGZ47_RS07730	CGZ47_RS07700	54	64	57.14285714285714	7.06e-13
+CGZ47_RS07735	CGZ47_RS07735	100	130	100.0	6.33e-40
+CGZ47_RS07740	CGZ47_RS07740	100	476	100.0	5.65e-171
+CGZ47_RS07745	CGZ47_RS07745	100	703	100.0	3.83e-256
+CGZ47_RS07750	CGZ47_RS07750	100	76	100.0	4.17e-19
+CGZ47_RS07755	CGZ47_RS07755	100	157	100.0	6.61e-50
+CGZ47_RS07760	CGZ47_RS07760	100	233	100.0	3.9e-79
+CGZ47_RS07765	CGZ47_RS07765	100	143	100.0	5.77e-45
+CGZ47_RS07770	CGZ47_RS07770	100	434	100.0	1.17e-155
+
+
+
+>>
+2. NZ_CP016470
+Source: Latilactobacillus curvatus strain TMW 1.595 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 15
+Cumulative BLAST score: 4720.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07690	A4W80_RS07805	100	675	100.0	1.74e-246
+CGZ47_RS07695	A4W80_RS07810	100	216	100.0	1.98e-72
+CGZ47_RS07700	A4W80_RS07815	99	127	100.0	1.39e-38
+CGZ47_RS07700	A4W80_RS07835	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	A4W80_RS07820	100	224	100.0	1.07e-75
+CGZ47_RS07715	A4W80_RS07825	100	116	100.0	1.5e-34
+CGZ47_RS07720	A4W80_RS07830	100	692	96.62921348314607	3.33e-253
+CGZ47_RS07730	A4W80_RS07835	100	197	100.0	1.73e-65
+CGZ47_RS07730	A4W80_RS07815	55	65	57.14285714285714	2.48e-13
+CGZ47_RS07735	A4W80_RS07840	100	130	100.0	6.33e-40
+CGZ47_RS07740	A4W80_RS07845	100	476	100.0	5.65e-171
+CGZ47_RS07745	A4W80_RS07850	100	703	100.0	3.83e-256
+CGZ47_RS07750	A4W80_RS07855	100	76	100.0	4.17e-19
+CGZ47_RS07755	A4W80_RS07860	100	157	100.0	6.61e-50
+CGZ47_RS07760	A4W80_RS07865	99	231	100.0	2.26e-78
+CGZ47_RS07765	A4W80_RS07870	100	143	100.0	5.77e-45
+CGZ47_RS07770	A4W80_RS07875	99	428	100.0	3.22e-153
+
+
+
+>>
+3. NZ_CP016221
+Source: Latilactobacillus curvatus strain TMW 1.421 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 4058.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A4W79_RS02550	A4W79_RS02550	488299	489193	+	cysteine_peptidase_family_C39_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07695	A4W79_RS02575	100	216	100.0	1.98e-72
+CGZ47_RS07700	A4W79_RS02570	99	127	100.0	1.39e-38
+CGZ47_RS07700	A4W79_RS02545	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	A4W79_RS02565	100	224	100.0	1.07e-75
+CGZ47_RS07715	A4W79_RS02560	100	116	100.0	1.5e-34
+CGZ47_RS07720	A4W79_RS02555	100	716	100.0	2.63e-262
+CGZ47_RS07730	A4W79_RS02545	100	197	100.0	1.73e-65
+CGZ47_RS07730	A4W79_RS02570	55	65	57.14285714285714	2.48e-13
+CGZ47_RS07735	A4W79_RS02540	98	128	100.0	3.67e-39
+CGZ47_RS07740	A4W79_RS02535	100	476	100.0	5.65e-171
+CGZ47_RS07745	A4W79_RS02530	100	703	100.0	3.83e-256
+CGZ47_RS07750	A4W79_RS02525	100	76	100.0	4.17e-19
+CGZ47_RS07755	A4W79_RS02520	100	157	100.0	6.61e-50
+CGZ47_RS07760	A4W79_RS02515	99	231	100.0	2.26e-78
+CGZ47_RS07765	A4W79_RS02510	100	143	100.0	5.77e-45
+CGZ47_RS07770	A4W79_RS02505	97	419	100.0	1.03e-149
+
+
+
+>>
+4. NZ_CP016468
+Source: Latilactobacillus curvatus strain TMW 1.27 plasmid pL127-1, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 14
+Cumulative BLAST score: 3531.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07695	A4W75_RS09595	100	216	100.0	1.98e-72
+CGZ47_RS07700	A4W75_RS09600	99	127	100.0	1.39e-38
+CGZ47_RS07700	A4W75_RS09635	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	A4W75_RS09605	100	224	100.0	1.07e-75
+CGZ47_RS07715	A4W75_RS09610	93	110	108.06451612903226	4.74e-32
+CGZ47_RS07720	A4W75_RS09630	43	258	100.0	7.33e-82
+CGZ47_RS07730	A4W75_RS09635	100	197	100.0	1.73e-65
+CGZ47_RS07730	A4W75_RS09600	55	65	57.14285714285714	2.48e-13
+CGZ47_RS07735	A4W75_RS09640	98	128	100.0	3.67e-39
+CGZ47_RS07740	A4W75_RS09645	100	476	100.0	5.65e-171
+CGZ47_RS07745	A4W75_RS09650	100	703	100.0	4.28e-256
+CGZ47_RS07750	A4W75_RS09655	100	76	100.0	4.17e-19
+CGZ47_RS07755	A4W75_RS09660	100	157	100.0	6.61e-50
+CGZ47_RS07760	A4W75_RS09665	96	223	100.0	3.61e-75
+CGZ47_RS07765	A4W75_RS09670	63	97	100.0	4.78e-26
+CGZ47_RS07770	A4W75_RS09675	95	410	100.0	3.32e-146
+
+
+
+>>
+5. NZ_CP017566
+Source: Latilactobacillus sakei strain TMW 1.114 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 12
+Cumulative BLAST score: 3965.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07690	A4W83_RS03140	100	675	100.0	1.74e-246
+CGZ47_RS07695	A4W83_RS03135	100	216	100.0	1.98e-72
+CGZ47_RS07700	A4W83_RS03130	99	127	100.0	1.39e-38
+CGZ47_RS07700	A4W83_RS03100	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	A4W83_RS03125	100	224	100.0	1.07e-75
+CGZ47_RS07715	A4W83_RS03120	93	110	108.06451612903226	4.74e-32
+CGZ47_RS07720	A4W83_RS03105	100	716	100.0	2.63e-262
+CGZ47_RS07730	A4W83_RS03100	100	197	100.0	1.73e-65
+CGZ47_RS07730	A4W83_RS03130	55	65	57.14285714285714	2.48e-13
+CGZ47_RS07735	A4W83_RS03095	98	128	100.0	3.67e-39
+CGZ47_RS07740	A4W83_RS03090	100	476	100.0	5.65e-171
+CGZ47_RS07745	A4W83_RS03085	100	701	100.0	3.52e-255
+CGZ47_RS07750	A4W83_RS03080	97	74	100.0	1.73e-18
+CGZ47_RS07760	A4W83_RS03075	82	192	99.1304347826087	8.16e-63
+
+
+
+>>
+6. NZ_CP015493
+Source: Latilactobacillus curvatus strain TMW 1.1381 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 12
+Cumulative BLAST score: 3460.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07695	A4W73_RS07530	100	216	100.0	1.98e-72
+CGZ47_RS07700	A4W73_RS07535	97	120	100.0	5.33e-36
+CGZ47_RS07700	A4W73_RS07560	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	A4W73_RS07540	100	224	100.0	1.07e-75
+CGZ47_RS07715	A4W73_RS07545	93	110	108.06451612903226	4.74e-32
+CGZ47_RS07720	A4W73_RS07555	99	710	100.0	7.23e-260
+CGZ47_RS07730	A4W73_RS07560	100	197	100.0	1.73e-65
+CGZ47_RS07730	A4W73_RS07535	55	60	57.14285714285714	2.26e-11
+CGZ47_RS07735	A4W73_RS07565	100	130	100.0	6.33e-40
+CGZ47_RS07740	A4W73_RS07570	100	476	100.0	5.65e-171
+CGZ47_RS07745	A4W73_RS07575	100	703	100.0	3.83e-256
+CGZ47_RS07750	A4W73_RS07580	100	76	100.0	4.17e-19
+CGZ47_RS07760	A4W73_RS07590	99	231	100.0	2.26e-78
+CGZ47_RS07765	A4W73_RS07595	100	143	100.0	5.77e-45
+
+
+
+>>
+7. NZ_CP117683
+Source: Latilactobacillus curvatus strain CACC879 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 12
+Cumulative BLAST score: 3425.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+PSR33_RS02750	PSR33_RS02750	557488	558666	-	peptide_cleavage/export_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07690	PSR33_RS02720	100	675	100.0	1.74e-246
+CGZ47_RS07695	PSR33_RS02725	100	216	100.0	1.98e-72
+CGZ47_RS07700	PSR33_RS02730	99	127	100.0	1.39e-38
+CGZ47_RS07700	PSR33_RS02760	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	PSR33_RS02735	100	224	100.0	1.07e-75
+CGZ47_RS07715	PSR33_RS02740	93	110	108.06451612903226	4.74e-32
+CGZ47_RS07730	PSR33_RS02760	100	197	100.0	1.73e-65
+CGZ47_RS07730	PSR33_RS02730	55	65	57.14285714285714	2.48e-13
+CGZ47_RS07735	PSR33_RS02765	93	112	90.1639344262295	4.04e-33
+CGZ47_RS07740	PSR33_RS02775	100	476	100.0	5.65e-171
+CGZ47_RS07745	PSR33_RS02780	100	703	100.0	3.83e-256
+CGZ47_RS07750	PSR33_RS02785	100	76	100.0	4.17e-19
+CGZ47_RS07755	PSR33_RS02790	100	157	100.0	6.61e-50
+CGZ47_RS07760	PSR33_RS02795	96	223	100.0	3.61e-75
+
+
+
+>>
+8. NZ_CP031003
+Source: Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4488.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07690	DT351_RS07835	100	673	100.0	1.43e-245
+CGZ47_RS07695	DT351_RS07840	100	216	100.0	1.98e-72
+CGZ47_RS07700	DT351_RS07845	99	127	100.0	1.39e-38
+CGZ47_RS07700	DT351_RS07880	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07705	DT351_RS07850	100	224	100.0	1.07e-75
+CGZ47_RS07715	DT351_RS07860	93	110	108.06451612903226	4.74e-32
+CGZ47_RS07720	DT351_RS07875	100	716	100.0	2.63e-262
+CGZ47_RS07720	DT351_RS07890	100	716	100.0	2.63e-262
+CGZ47_RS07730	DT351_RS07880	100	197	100.0	1.73e-65
+CGZ47_RS07730	DT351_RS07845	55	65	57.14285714285714	2.48e-13
+CGZ47_RS07735	DT351_RS07885	100	130	100.0	6.33e-40
+CGZ47_RS07740	DT351_RS07895	99	471	100.0	5.62e-169
+CGZ47_RS07745	DT351_RS07900	100	703	100.0	4.28e-256
+CGZ47_RS07750	DT351_RS07905	100	76	100.0	4.24e-19
+
+
+
+>>
+9. NZ_LT960790
+Source: Latilactobacillus sakei strain J54 chromosome 1, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 2256.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+LSAJ54_RS02985	LSAJ54_RS02985	602740	603810	-	IS3-like_element_IS1520_family_transposase
+LSAJ54_RS10295	LSAJ54_RS10295	603874	604152	+	peptide_ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	LSAJ54_RS02970	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07715	LSAJ54_RS03000	93	110	108.06451612903226	4.74e-32
+CGZ47_RS07720	LSAJ54_RS02980	43	260	100.0	1.84e-82
+CGZ47_RS07720	LSAJ54_RS02985	39	52	23.876404494382022	8.88e-07
+CGZ47_RS07730	LSAJ54_RS02970	100	197	100.0	1.73e-65
+CGZ47_RS07735	LSAJ54_RS02965	98	128	100.0	3.67e-39
+CGZ47_RS07740	LSAJ54_RS02960	100	476	100.0	5.65e-171
+CGZ47_RS07745	LSAJ54_RS02955	100	701	100.0	3.14e-255
+CGZ47_RS07750	LSAJ54_RS02950	100	76	100.0	4.24e-19
+CGZ47_RS07760	LSAJ54_RS02945	82	192	99.1304347826087	8.16e-63
+
+
+
+>>
+10. NZ_LT907930
+Source: Latilactobacillus sakei strain J18 chromosome LSAJ18, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1826.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	LSAJ18_RS02190	54	64	86.15384615384616	4.68e-13
+CGZ47_RS07730	LSAJ18_RS02190	100	197	100.0	1.73e-65
+CGZ47_RS07735	LSAJ18_RS02185	98	128	100.0	3.67e-39
+CGZ47_RS07740	LSAJ18_RS02180	100	476	100.0	5.65e-171
+CGZ47_RS07745	LSAJ18_RS02175	100	493	69.87012987012987	9.08e-175
+CGZ47_RS07745	LSAJ18_RS08990	95	200	30.129870129870127	8.13e-61
+CGZ47_RS07750	LSAJ18_RS02170	100	76	100.0	4.17e-19
+CGZ47_RS07760	LSAJ18_RS02165	82	192	99.1304347826087	8.16e-63
+
+
+
+>>
+11. NZ_CP031003
+Source: Latilactobacillus curvatus strain TMW 1.1928 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1419.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	DT351_RS09880	47	57	84.61538461538461	1.21e-10
+CGZ47_RS07720	DT351_RS09890	100	716	100.0	2.63e-262
+CGZ47_RS07720	DT351_RS09845	43	259	100.0	3.67e-82
+CGZ47_RS07730	DT351_RS09880	50	89	103.0612244897959	1.11e-22
+CGZ47_RS07735	DT351_RS09875	58	70	96.72131147540983	5.8e-16
+CGZ47_RS07740	DT351_RS09835	34	118	96.7741935483871	3.19e-30
+CGZ47_RS07745	DT351_RS09840	31	110	58.96103896103896	2.47e-25
+
+
+
+>>
+12. NZ_KB946310
+Source: Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 583.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	UAU_RS17140	54	63	86.15384615384616	9.41e-13
+CGZ47_RS07705	UAU_RS17125	62	140	93.51851851851852	1.75e-42
+CGZ47_RS07730	UAU_RS17140	50	100	100.0	3.14e-27
+CGZ47_RS07735	UAU_RS17135	56	49	55.73770491803278	1.36e-07
+CGZ47_RS07740	UAU_RS17150	36	123	96.7741935483871	3.59e-32
+CGZ47_RS07745	UAU_RS17155	33	108	47.53246753246753	6.08e-24
+
+
+
+>>
+13. NZ_CP058617
+Source: Leuconostoc gasicomitatum strain CBA3613 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 549.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	LeuG3613_RS05105	49	62	87.6923076923077	2.95e-12
+CGZ47_RS07720	LeuG3613_RS05135	47	176	49.157303370786515	3.74e-52
+CGZ47_RS07720	LeuG3613_RS05140	55	77	17.415730337078653	1.01e-15
+CGZ47_RS07720	LeuG3613_RS05085	40	58	16.292134831460675	7.25e-09
+CGZ47_RS07730	LeuG3613_RS05105	45	94	96.93877551020408	1.35e-24
+CGZ47_RS07735	LeuG3613_RS05100	66	82	91.80327868852459	1.23e-20
+
+
+
+>>
+14. NZ_JQBV01000002
+Source: Carnobacterium maltaromaticum strain DSM 20730 Scaffold2, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 347.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	IV76_RS03940	46	59	86.15384615384616	4.36e-11
+CGZ47_RS07730	IV76_RS03940	55	108	100.0	2.84e-30
+CGZ47_RS07735	IV76_RS03945	69	84	100.0	1.35e-21
+CGZ47_RS07745	IV76_RS03955	33	96	53.5064935064935	2.04e-19
+
+
+
+>>
+15. NZ_LHUF01000011
+Source: Carnobacterium maltaromaticum strain UAL307 UAL307_S2_L001_R1_001_contig_11, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 344.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	AKL22_RS13190	46	57	86.15384615384616	1.24e-10
+CGZ47_RS07730	AKL22_RS13190	55	107	100.0	5.73e-30
+CGZ47_RS07735	AKL22_RS13195	69	84	100.0	1.35e-21
+CGZ47_RS07745	AKL22_RS13205	33	96	53.5064935064935	2.04e-19
+
+
+
+>>
+16. NZ_GL397179
+Source: Streptococcus mitis ATCC 6249 SCAFFOLD1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 295.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	HMPREF8571_RS09970	45	54	86.15384615384616	2.01e-09
+CGZ47_RS07730	HMPREF8571_RS09970	43	83	100.0	3.05e-20
+CGZ47_RS07735	HMPREF8571_RS09975	42	47	104.91803278688525	7.38e-07
+CGZ47_RS07740	HMPREF8571_RS10000	32	111	95.96774193548387	1.69e-27
+
+
+
+>>
+17. NZ_JALDUI010000004
+Source: Streptococcus sp. oral taxon 431 strain S46 NODE_4_length_147478_cov_72.914940, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 295.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+M1R56_RS04105	M1R56_RS04105	109546	110060	+	IS200/IS605_family_transposase
+M1R56_RS04135	M1R56_RS04135	112695	113210	-	IS200/IS605_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	M1R56_RS04125	45	54	86.15384615384616	2.01e-09
+CGZ47_RS07730	M1R56_RS04125	43	83	100.0	4.33e-20
+CGZ47_RS07735	M1R56_RS04130	42	47	104.91803278688525	7.38e-07
+CGZ47_RS07740	M1R56_RS04180	32	111	95.96774193548387	1.21e-27
+
+
+
+>>
+18. NZ_CP013688
+Source: Streptococcus gallolyticus strain ICDDRB-NRC-S1 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 394.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AU077_RS00560	AU077_RS00560	119078	121221	-	peptide_cleavage/export_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	AU077_RS00650	47	58	84.61538461538461	6.18e-11
+CGZ47_RS07700	AU077_RS00590	46	57	84.61538461538461	2.49e-10
+CGZ47_RS07730	AU077_RS00650	43	86	100.0	2.65e-21
+CGZ47_RS07730	AU077_RS00590	44	85	100.0	7.55e-21
+CGZ47_RS07735	AU077_RS00585	48	56	103.27868852459017	3.36e-10
+CGZ47_RS07735	AU077_RS00645	40	52	101.63934426229508	1.09e-08
+
+
+
+>>
+19. NZ_VBTH01000007
+Source: Pediococcus stilesii strain FAM 18815 FAM18815_scf0007, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 394.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	FEZ51_RS05090	52	51	88.52459016393442	1.04e-08
+CGZ47_RS07740	FEZ51_RS05080	34	131	97.58064516129032	2.71e-35
+CGZ47_RS07745	FEZ51_RS05085	33	110	54.8051948051948	1.22e-25
+CGZ47_RS07760	FEZ51_RS05105	52	102	89.56521739130436	2.6e-27
+
+
+
+>>
+20. NZ_KB946310
+Source: Enterococcus pallens ATCC BAA-351 acvKb-supercont1.6, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 269.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	UAU_RS18290	50	64	86.15384615384616	2.16e-13
+CGZ47_RS07730	UAU_RS18290	56	108	96.93877551020408	3.7e-30
+CGZ47_RS07735	UAU_RS18295	75	97	100.0	6.16e-27
+
+
+
+>>
+21. NZ_CP074377
+Source: Lacticaseibacillus casei strain FBL6 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 241.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KGS74_RS09120	KGS74_RS09120	1941914	1942165	-	cysteine_peptidase_family_C39_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	KGS74_RS09135	41	50	86.15384615384616	1.3e-07
+CGZ47_RS07730	KGS74_RS09135	55	115	100.0	5.17e-33
+CGZ47_RS07735	KGS74_RS09140	60	76	103.27868852459017	1.82e-18
+
+
+
+>>
+22. NZ_LS991421
+Source: Lacticaseibacillus zeae isolate CECT 9104 chromosome 1
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 240.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	DYY97_RS14630	43	51	86.15384615384616	4.6e-08
+CGZ47_RS07730	DYY97_RS14630	54	112	100.0	8.54e-32
+CGZ47_RS07735	DYY97_RS14625	60	77	103.27868852459017	1.28e-18
+
+
+
+>>
+23. NZ_CP074378
+Source: Lacticaseibacillus chiayiensis strain FBL7 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 237.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KG086_RS00605	KG086_RS00605	135131	136160	-	cysteine_peptidase_family_C39_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	KG086_RS00620	43	51	86.15384615384616	4.6e-08
+CGZ47_RS07730	KG086_RS00620	55	114	100.0	1.48e-32
+CGZ47_RS07735	KG086_RS00625	57	72	91.80327868852459	6.07e-17
+
+
+
+>>
+24. NZ_CP107523
+Source: Lacticaseibacillus chiayiensis strain AACE 3 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 237.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+OFW50_RS00610	OFW50_RS00610	135140	136169	-	cysteine_peptidase_family_C39_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	OFW50_RS00625	43	51	86.15384615384616	4.6e-08
+CGZ47_RS07730	OFW50_RS00625	55	114	100.0	1.48e-32
+CGZ47_RS07735	OFW50_RS00630	57	72	91.80327868852459	6.07e-17
+
+
+
+>>
+25. NZ_NGLG01000002
+Source: Enterococcus sp. 3H8_DIV0648 scaffold00002, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 228.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	A5875_RS17040	46	57	84.61538461538461	1.21e-10
+CGZ47_RS07730	A5875_RS17040	50	97	100.0	1.01e-25
+CGZ47_RS07735	A5875_RS17035	63	74	96.72131147540983	8.58e-18
+
+
+
+>>
+26. NZ_CP014699
+Source: Streptococcus pantholopis strain TA 26 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 199.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A0O21_RS10835	A0O21_RS10835	449855	450034	+	IS3_family_transposase
+A0O21_RS02165	A0O21_RS02165	451087	451815	+	cysteine_peptidase_family_C39_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	A0O21_RS02125	50	58	86.15384615384616	6.18e-11
+CGZ47_RS07730	A0O21_RS02125	42	81	100.0	1.75e-19
+CGZ47_RS07735	A0O21_RS02130	44	60	103.27868852459017	6.96e-12
+
+
+
+>>
+27. NZ_CP065994
+Source: Streptococcus infantarius strain FDAARGOS_1019 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 197.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	I6H76_RS07035	47	59	84.61538461538461	3.08e-11
+CGZ47_RS07730	I6H76_RS07035	44	86	100.0	1.86e-21
+CGZ47_RS07735	I6H76_RS07030	40	52	101.63934426229508	1.09e-08
+
+
+
+>>
+28. NZ_KB904096
+Source: Streptococcus caballi DSM 19004 A3GSDRAFT_scaffold_4.5, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 197.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A3GS_RS12430	A3GS_RS12430	64406	64609	+	garvicin_Q_family_class_II_bacteriocin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	A3GS_RS0108385	47	59	84.61538461538461	3.08e-11
+CGZ47_RS07730	A3GS_RS0108385	44	86	100.0	1.86e-21
+CGZ47_RS07735	A3GS_RS0108380	44	52	103.27868852459017	7.84e-09
+
+
+
+>>
+29. NZ_CP039457
+Source: Streptococcus pasteurianus strain WUSP067 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 196.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E8M05_RS10200	E8M05_RS10200	1950383	1952161	+	peptide_cleavage/export_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	E8M05_RS10175	47	58	84.61538461538461	6.18e-11
+CGZ47_RS07730	E8M05_RS10175	43	86	100.0	2.65e-21
+CGZ47_RS07735	E8M05_RS10180	40	52	101.63934426229508	7.66e-09
+
+
+
+>>
+30. NZ_CP050959
+Source: Streptococcus gallolyticus strain FDAARGOS_666 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 196.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FOB74_RS01180	FOB74_RS01180	235784	237562	+	peptide_cleavage/export_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	FOB74_RS01155	47	58	84.61538461538461	6.18e-11
+CGZ47_RS07730	FOB74_RS01155	43	86	100.0	2.65e-21
+CGZ47_RS07735	FOB74_RS01160	40	52	101.63934426229508	7.66e-09
+
+
+
+>>
+31. NZ_CP116958
+Source: Streptococcus pasteurianus strain WUSP074 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 196.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+M0P28_RS11130	M0P28_RS11130	2187229	2189007	+	peptide_cleavage/export_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	M0P28_RS11095	47	58	84.61538461538461	6.18e-11
+CGZ47_RS07730	M0P28_RS11095	43	86	100.0	2.65e-21
+CGZ47_RS07735	M0P28_RS11100	40	52	101.63934426229508	7.66e-09
+
+
+
+>>
+32. NZ_GL397128
+Source: Streptococcus equinus ATCC 700338 SCAFFOLD1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 196.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HMPREF9319_RS08835	HMPREF9319_RS08835	1836589	1838367	+	peptide_cleavage/export_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	HMPREF9319_RS08805	47	58	84.61538461538461	6.18e-11
+CGZ47_RS07730	HMPREF9319_RS08805	43	86	100.0	2.65e-21
+CGZ47_RS07735	HMPREF9319_RS08810	40	52	101.63934426229508	7.66e-09
+
+
+
+>>
+33. NZ_JAQDTP010000001
+Source: Streptococcus infantarius strain AM110-33 GF3HA21002B.Scaf1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 196.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	PGU70_RS02225	47	58	84.61538461538461	6.18e-11
+CGZ47_RS07730	PGU70_RS02225	43	86	100.0	2.65e-21
+CGZ47_RS07735	PGU70_RS02230	40	52	101.63934426229508	1.09e-08
+
+
+
+>>
+34. NZ_JAQDUM010000001
+Source: Streptococcus infantarius strain AM110-80 MF3HA21011B.Scaf1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 191.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+PGU71_RS00805	PGU71_RS00805	158937	159176	+	garvicin_Q_family_class_II_bacteriocin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	PGU71_RS00820	47	59	84.61538461538461	3.08e-11
+CGZ47_RS07730	PGU71_RS00820	43	82	100.0	6.14e-20
+CGZ47_RS07735	PGU71_RS00815	49	50	86.88524590163934	4.54e-08
+
+
+
+>>
+35. NZ_CP040736
+Source: Companilactobacillus futsaii strain Y97 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 313.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07700	FG051_RS11360	46	56	84.61538461538461	3.45e-10
+CGZ47_RS07705	FG051_RS11390	56	120	90.74074074074075	1.02e-34
+CGZ47_RS07730	FG051_RS11360	46	88	100.0	4.48e-22
+CGZ47_RS07735	FG051_RS11395	44	49	88.52459016393442	1.1e-07
+
+
+
+>>
+36. NZ_JADOFZ010000001
+Source: Pediococcus pentosaceus strain LMG 13560 LMG13560-i1-1_scf1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 293.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	ITR00_RS01895	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	ITR00_RS01905	31	124	97.58064516129032	2.49e-32
+CGZ47_RS07745	ITR00_RS01900	31	112	54.285714285714285	3.62e-25
+
+
+
+>>
+37. NZ_CP028254
+Source: Pediococcus pentosaceus strain SRCM102734 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 291.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	C7M44_RS04540	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	C7M44_RS04530	31	124	97.58064516129032	2.49e-32
+CGZ47_RS07745	C7M44_RS04535	31	110	54.285714285714285	9.26e-25
+
+
+
+>>
+38. NZ_CP039378
+Source: Pediococcus pentosaceus strain SL001 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 291.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	PSL001_RS04445	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	PSL001_RS04435	31	122	97.58064516129032	9.72e-32
+CGZ47_RS07745	PSL001_RS04440	31	112	54.285714285714285	3.62e-25
+
+
+
+>>
+39. NZ_CP085178
+Source: Pediococcus pentosaceus strain MGB0941 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 291.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	Ped0941_RS00440	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	Ped0941_RS00450	31	122	97.58064516129032	9.72e-32
+CGZ47_RS07745	Ped0941_RS00445	31	112	54.285714285714285	2.02e-26
+
+
+
+>>
+40. NZ_JADOFW010000001
+Source: Pediococcus pentosaceus strain FAM 18528 FAM18528-i1-1_scf1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 291.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	ITQ94_RS00330	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	ITQ94_RS00320	31	122	97.58064516129032	9.72e-32
+CGZ47_RS07745	ITQ94_RS10325	31	112	54.285714285714285	2.02e-26
+
+
+
+>>
+41. NZ_VBTG01000001
+Source: Pediococcus pentosaceus strain FAM 19144 FAM19144_scf0001, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 291.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	FEZ50_RS00195	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	FEZ50_RS00185	31	122	97.58064516129032	9.72e-32
+CGZ47_RS07745	FEZ50_RS00190	31	112	54.285714285714285	3.62e-25
+
+
+
+>>
+42. NC_008525
+Source: Pediococcus pentosaceus ATCC 25745, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 290.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	PEPE_RS00410	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	PEPE_RS00420	31	122	97.58064516129032	9.72e-32
+CGZ47_RS07745	PEPE_RS00415	31	111	54.285714285714285	4.95e-25
+
+
+
+>>
+43. NZ_CP046938
+Source: Pediococcus pentosaceus strain GDIAS001 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 289.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	GQS62_RS00345	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	GQS62_RS00355	31	122	97.58064516129032	9.72e-32
+CGZ47_RS07745	GQS62_RS09280	31	110	54.285714285714285	5.39e-26
+
+
+
+>>
+44. NZ_WEOQ01000001
+Source: Pediococcus pentosaceus strain FAM18813 FAM18813_scf0001, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 289.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	GBP22_RS00115	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	GBP22_RS00105	31	122	97.58064516129032	9.72e-32
+CGZ47_RS07745	GBP22_RS00110	32	110	51.94805194805194	9.26e-25
+
+
+
+>>
+45. NZ_JAHDAS010000010
+Source: Pediococcus pentosaceus strain ST75/87BZ NODE_10_length_70809_cov_48.788017, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 287.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	KJR33_RS08630	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	KJR33_RS08620	31	120	97.58064516129032	5.32e-31
+CGZ47_RS07745	KJR33_RS08625	31	110	54.285714285714285	9.26e-25
+
+
+
+>>
+46. NZ_JADOFR010000001
+Source: Pediococcus pentosaceus strain FAM 22491 FAM22491-i1-1_scf1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 287.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	ITR02_RS01945	53	54	73.77049180327869	1e-09
+CGZ47_RS07740	ITR02_RS01955	31	124	97.58064516129032	2.49e-32
+CGZ47_RS07745	ITR02_RS09785	31	109	54.285714285714285	1.44e-25
+
+
+
+>>
+47. NZ_CP066043
+Source: Pediococcus pentosaceus strain FDAARGOS_1009 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 284.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	I6H66_RS03725	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	I6H66_RS03715	31	119	97.58064516129032	1.05e-30
+CGZ47_RS07745	I6H66_RS03720	31	108	54.285714285714285	8.22e-24
+
+
+
+>>
+48. NZ_JAMRWS010000002
+Source: Pediococcus pentosaceus strain DRD-185 Scaffold_2, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 278.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	NE292_RS00215	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	NE292_RS00205	31	112	88.30645161290323	5.26e-28
+CGZ47_RS07745	NE292_RS00210	31	109	54.285714285714285	1.99e-25
+
+
+
+>>
+49. NZ_JAMRWU010000001
+Source: Pediococcus pentosaceus strain DRD-61 Scaffold_1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 278.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	NE288_RS07170	56	57	73.77049180327869	8.62e-11
+CGZ47_RS07740	NE288_RS07180	31	112	88.30645161290323	5.26e-28
+CGZ47_RS07745	NE288_RS07175	31	109	54.285714285714285	1.99e-25
+
+
+
+>>
+50. NZ_CP102284
+Source: Ligilactobacillus ruminis strain ATCC 25644 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 234.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+NQ504_RS09640	NQ504_RS09640	1924089	1924971	+	PTS_transporter_subunit_EIIC
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CGZ47_RS07735	NQ504_RS09630	47	47	90.1639344262295	3.55e-07
+CGZ47_RS07740	NQ504_RS09615	31	99	87.09677419354838	6.85e-23
+CGZ47_RS07745	NQ504_RS09620	33	88	54.285714285714285	7.79e-17
+

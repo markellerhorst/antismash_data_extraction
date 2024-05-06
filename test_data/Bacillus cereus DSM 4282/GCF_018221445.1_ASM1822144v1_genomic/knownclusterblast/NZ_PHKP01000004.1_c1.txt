@@ -1,0 +1,65 @@
+ClusterBlast scores for NZ_PHKP01000004.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CWB31_RS12565	139619	140417	+	formate dehydrogenase accessory sulfurtransferase FdhD	
+CWB31_RS12570	140433	141450	+	GTP 3',8-cyclase MoaA	
+CWB31_RS12575	141641	142421	+	formate/nitrite transporter family protein	
+CWB31_RS12580	142445	143462	+	molybdopterin-synthase adenylyltransferase MoeB	
+CWB31_RS12585	143479	144787	+	molybdopterin molybdotransferase MoeA	
+CWB31_RS12590	144767	145232	+	molybdopterin synthase catalytic subunit MoaE	
+CWB31_RS12595	145236	145473	+	molybdopterin converting factor subunit 1	
+CWB31_RS12600	145545	146595	+	P-loop NTPase	
+CWB31_RS12605	146610	146835	+	hypothetical protein	
+CWB31_RS12610	146877	147276	+	hypothetical protein	
+CWB31_RS12615	147459	147708	+	DUF1294 domain-containing protein	
+CWB31_RS12620	147800	148742	+	EamA family transporter RarD	
+CWB31_RS12625	148821	149247	+	divergent PAP2 family protein	
+CWB31_RS12630	149346	151200	+	prenyltransferase/squalene oxidase repeat-containing protein	
+CWB31_RS12635	151273	151423	-	YfhD family protein	
+CWB31_RS12640	151555	152296	+	3-oxoacyl-ACP reductase FabG	
+CWB31_RS12645	152346	153831	-	aldehyde dehydrogenase DhaS	
+CWB31_RS12650	154104	154383	+	YhdT family protein	
+CWB31_RS12655	154386	155820	+	sodium/pantothenate symporter	
+CWB31_RS12660	155943	156876	+	nucleoside hydrolase	
+CWB31_RS12665	156993	158103	+	serine hydrolase	
+CWB31_RS12670	158204	159713	+	argininosuccinate lyase	
+CWB31_RS12675	159779	160613	+	GNAT family N-acetyltransferase	
+
+
+Significant hits: 
+1. BGC0000916	molybdenum cofactor
+
+
+Details:
+
+>>
+1. BGC0000916
+Source: molybdenum cofactor
+Type: Other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 927.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAF25546.1	AAF25546.1	1	158	-	NarQ-like_protein
+AAF25547.1	AAF25547.1	304	1302	+	GalR
+AAF25548.1	AAF25548.1	1392	2558	+	GalK
+AAF25549.1	AAF25549.1	2579	3568	+	GalE
+AAF25550.1	AAF25550.1	3586	5082	+	GalT
+AAC83133.1	AAC83133.1	5242	6027	+	ModA
+AAC83134.1	AAC83134.1	6039	6710	+	ModB
+AAC83135.1	AAC83135.1	6711	7319	+	ModC
+AAC83136.1	AAC83136.1	7471	8472	+	MoeB
+AAC83137.1	AAC83137.1	8504	9016	+	MoaB
+AAC83138.1	AAC83138.1	9200	9685	-	MoaC
+AAC83139.1	AAC83139.1	9750	11009	+	MoeA
+AAC83140.1	AAC83140.1	11006	11488	+	MobB
+AAC83141.1	AAC83141.1	11485	11937	+	MoaE
+AAC83142.1	AAC83142.1	11937	12170	+	MoaD
+AAC83143.1	AAC83143.1	12175	12765	+	MobA
+AAC83144.1	AAC83144.1	12824	13846	+	MoaA
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CWB31_RS12570	AAC83144.1	53	364	100.59171597633136	8.84e-126
+CWB31_RS12585	AAC83139.1	51	399	94.48275862068965	1.4e-136
+CWB31_RS12590	AAC83141.1	61	164	87.01298701298701	2.07e-52
+

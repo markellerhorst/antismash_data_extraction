@@ -1,0 +1,20 @@
+ClusterBlast scores for NZ_PHKP01000002.1
+
+Table of genes, locations, strands and annotations of query cluster:
+CWB31_RS08440	470484	471846	+	glycosyl hydrolase family 8	
+CWB31_RS08445	472008	472932	+	nucleoside hydrolase	
+CWB31_RS08450	473008	473467	+	GNAT family N-acetyltransferase	
+CWB31_RS08455	473497	473845	+	divalent cation tolerance protein CutA	
+CWB31_RS08460	473861	474308	+	NUDIX domain-containing protein	
+CWB31_RS08465	474507	474774	+	heterocycloanthracin/sonorensin family bacteriocin	
+CWB31_RS08470	474875	475892	+	serine hydrolase domain-containing protein	
+CWB31_RS08475	475923	476067	+	hypothetical protein	
+CWB31_RS08480	476346	477555	+	OFA family MFS transporter	
+CWB31_RS08485	477805	478432	+	cadmium resistance transporter	
+CWB31_RS08490	478682	479108	+	GNAT family N-acetyltransferase	
+
+
+Significant hits: 
+
+
+Details:

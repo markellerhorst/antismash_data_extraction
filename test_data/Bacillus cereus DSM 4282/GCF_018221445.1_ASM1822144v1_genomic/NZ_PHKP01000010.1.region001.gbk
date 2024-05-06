@@ -1,0 +1,1514 @@
+LOCUS       NZ_PHKP01000010.1      18753 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  NZ_PHKP01000010.1 Bacillus cereus strain DSM 4282 scaffold10.1,
+            whole genome shotgun sequence.
+ACCESSION   NZ_PHKP01000010
+VERSION     NZ_PHKP01000010.1
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+COMMENT     ##antiSMASH-Data-START##
+            Version      :: 7.1.0
+            Run date     :: 2024-04-22 09:37:53
+            NOTE: This is a single region extracted from a larger record!
+            Orig. start  :: 206555
+            Orig. end    :: 225308
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     protocluster    1..18753
+                     /aStool="rule-based-clusters"
+                     /category="other"
+                     /contig_edge="True"
+                     /core_location="[14000:17708]"
+                     /cutoff="20000"
+                     /detection_rule="IucA_IucC"
+                     /neighbourhood="14000"
+                     /product="NI-siderophore"
+                     /protocluster_number="1"
+                     /tool="antismash"
+     proto_core      14001..17708
+                     /aStool="rule-based-clusters"
+                     /tool="antismash"
+                     /cutoff="20000"
+                     /detection_rule="IucA_IucC"
+                     /neighbourhood="14000"
+                     /product="NI-siderophore"
+                     /protocluster_number="1"
+     cand_cluster    1..18753
+                     /candidate_cluster_number="1"
+                     /contig_edge="True"
+                     /detection_rules="IucA_IucC"
+                     /kind="single"
+                     /product="NI-siderophore"
+                     /protoclusters="1"
+                     /tool="antismash"
+     region          1..18753
+                     /candidate_cluster_numbers="1"
+                     /contig_edge="True"
+                     /product="NI-siderophore"
+                     /region_number="1"
+                     /rules="IucA_IucC"
+                     /tool="antismash"
+     gene            1159..1977
+                     /ID="gene-CWB31_RS20500"
+                     /Name="nadE"
+                     /gbkey="Gene"
+                     /gene="nadE"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20500"
+                     /old_locus_tag="CWB31_21340"
+                     /source="RefSeq"
+     CDS             1159..1977
+                     /Dbxref="GenBank:WP_000174904.1"
+                     /ID="cds-WP_000174904.1"
+                     /Name="WP_000174904.1"
+                     /gbkey="CDS"
+                     /gene="nadE"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:NP_388195.1"
+                     /locus_tag="CWB31_RS20500"
+                     /phase="0"
+                     /product="ammonia-dependent NAD(+) synthetase"
+                     /protein_id="WP_000174904.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MTLQEQIMKALHVQPVIDPKVEIRKRVDFLKDYVKKTGAKGFVLG
+                     ISGGQDSTLAGRLAQLAVEEIRNEGGNVTFIAVRLPYKVQKDEDDAQLALQFIQADQSV
+                     AFDIASTVDAFSNQYENLLGESLTDFNKGNVKARIRMVTQYAIGGQKGLLVIGTDHAAE
+                     AVTGFFTKFGDGGADLLPLTGLTKRQGRALLQELGADERLYLKMPTADLLDEKPGQADE
+                     TELGITYDQLDDYLEGKAVPADVAEKIEKRYTVSEHKRQVPASMFDDWWK"
+     aSDomain        1210..1974
+                     /aSDomain="TIGR00552"
+                     /aSTool="tigrfam"
+                     /description="nadE: NAD+ synthetase"
+                     /detection="hmmscan"
+                     /domain_id="TIGRFam_CWB31_RS20500_0001"
+                     /evalue="2.50E-81"
+                     /identifier="TIGR00552"
+                     /label="CWB31_RS20500"
+                     /locus_tag="CWB31_RS20500"
+                     /protein_end="272"
+                     /protein_start="17"
+                     /score="270.5"
+                     /tool="antismash"
+                     /translation="DPKVEIRKRVDFLKDYVKKTGAKGFVLGISGGQDSTLAGRLAQLA
+                     VEEIRNEGGNVTFIAVRLPYKVQKDEDDAQLALQFIQADQSVAFDIASTVDAFSNQYEN
+                     LLGESLTDFNKGNVKARIRMVTQYAIGGQKGLLVIGTDHAAEAVTGFFTKFGDGGADLL
+                     PLTGLTKRQGRALLQELGADERLYLKMPTADLLDEKPGQADETELGITYDQLDDYLEGK
+                     AVPADVAEKIEKRYTVSEHKRQVPASMFDDWWK"
+     PFAM_domain     1225..1947
+                     /aSDomain="NAD_synthase"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF02540.20"
+                     /description="NAD synthase"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20500_0001"
+                     /evalue="2.60E-76"
+                     /label="CWB31_RS20500"
+                     /locus_tag="CWB31_RS20500"
+                     /protein_end="263"
+                     /protein_start="22"
+                     /score="256.1"
+                     /tool="antismash"
+                     /translation="IRKRVDFLKDYVKKTGAKGFVLGISGGQDSTLAGRLAQLAVEEIR
+                     NEGGNVTFIAVRLPYKVQKDEDDAQLALQFIQADQSVAFDIASTVDAFSNQYENLLGES
+                     LTDFNKGNVKARIRMVTQYAIGGQKGLLVIGTDHAAEAVTGFFTKFGDGGADLLPLTGL
+                     TKRQGRALLQELGADERLYLKMPTADLLDEKPGQADETELGITYDQLDDYLEGKAVPAD
+                     VAEKIEKRYTVSEHKRQVP"
+     gene            complement(2027..2488)
+                     /ID="gene-CWB31_RS20505"
+                     /Name="CWB31_RS20505"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20505"
+                     /old_locus_tag="CWB31_21345"
+                     /source="RefSeq"
+     CDS             complement(2027..2488)
+                     /Dbxref="GenBank:WP_000024992.1"
+                     /ID="cds-WP_000024992.1"
+                     /Name="WP_000024992.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20505"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000035009.1"
+                     /locus_tag="CWB31_RS20505"
+                     /phase="0"
+                     /product="NUDIX hydrolase"
+                     /protein_id="WP_000024992.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MANYIKELREKVGHDYVFLNFAGGCVFNKDGEVLLQKRGDFNAWG
+                     FPGGAMEIGESAAETAIREIKEETGYDVEINELIGVYTKYFQSYPNGDKAQSIVMFFSF
+                     SIVGGDKKVDGDETLDLKFFPLDDMPPLFCKQHEDCLQDLLEKRVGVYR"
+     PFAM_domain     complement(2066..2425)
+                     /aSDomain="NUDIX"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00293.31"
+                     /description="NUDIX domain"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20505_0002"
+                     /evalue="2.30E-22"
+                     /label="CWB31_RS20505"
+                     /locus_tag="CWB31_RS20505"
+                     /protein_end="141"
+                     /protein_start="21"
+                     /score="79.6"
+                     /tool="antismash"
+                     /translation="AGGCVFNKDGEVLLQKRGDFNAWGFPGGAMEIGESAAETAIREIK
+                     EETGYDVEINELIGVYTKYFQSYPNGDKAQSIVMFFSFSIVGGDKKVDGDETLDLKFFP
+                     LDDMPPLFCKQHEDCL"
+     gene            complement(2520..2717)
+                     /ID="gene-CWB31_RS20510"
+                     /Name="CWB31_RS20510"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20510"
+                     /old_locus_tag="CWB31_21350"
+                     /source="RefSeq"
+     CDS             complement(2520..2717)
+                     /Dbxref="GenBank:WP_001048104.1"
+                     /ID="cds-WP_001048104.1"
+                     /Name="WP_001048104.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20510"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001979610.1"
+                     /locus_tag="CWB31_RS20510"
+                     /phase="0"
+                     /product="DUF4083 domain-containing protein"
+                     /protein_id="WP_001048104.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MNLFESNIFTLIYTCLVIGLIVLFFISFTLFIRRVLQSSVAKKHH
+                     VINMNQKLDRIIELLEKDKK"
+     PFAM_domain     complement(2529..2699)
+                     /aSDomain="DUF4083"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF13314.9"
+                     /description="Domain of unknown function (DUF4083)"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20510_0003"
+                     /evalue="4.90E-29"
+                     /label="CWB31_RS20510"
+                     /locus_tag="CWB31_RS20510"
+                     /protein_end="63"
+                     /protein_start="6"
+                     /score="100.2"
+                     /tool="antismash"
+                     /translation="NIFTLIYTCLVIGLIVLFFISFTLFIRRVLQSSVAKKHHVINMNQ
+                     KLDRIIELLEKD"
+     gene            complement(2825..3985)
+                     /ID="gene-CWB31_RS20515"
+                     /Name="CWB31_RS20515"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20515"
+                     /old_locus_tag="CWB31_21355"
+                     /source="RefSeq"
+     CDS             complement(2825..3985)
+                     /Dbxref="GenBank:WP_212126975.1"
+                     /ID="cds-WP_212126975.1"
+                     /Name="WP_212126975.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20515"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000520874.1"
+                     /locus_tag="CWB31_RS20515"
+                     /phase="0"
+                     /product="transglutaminase domain-containing protein"
+                     /protein_id="WP_212126975.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MGKTSKYVTAAALCSTIVMGGLQASSVSYAATNPTTVTVQSDVKL
+                     LDDFRKELKKQIDNREENITITYKTKDRNARNIMDQLYGEFNKIVDADEYVKYNVASTR
+                     YSIKGMPGDYTFTLQVKYRESKEQTQYVKAQVKSIVGSIVKPGMDEHEKVKAIHDYVVK
+                     HVSYDTSYQAYTAYEALANRSAVCQGYTLLTYELLKEAGIQNHIVTGTGNGQAHAWNLV
+                     NIENKWYHLDTTFDDPVPDKAGRVTYSYFNMSDEQLSKDHDWDRSKYLAATTSYFGELT
+                     NKIKAGSSKTVVYEQMLKETNLQYLSAEYGAENYNEFKQKLQQQFAAKPEKVEVRYKQS
+                     MDGTMQDIKKVLNEINWPKGAKRVSYQVAPYSALAGYSLATITFTY"
+     PFAM_domain     complement(3290..3571)
+                     /aSDomain="Transglut_core"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF01841.22"
+                     /description="Transglutaminase-like superfamily"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20515_0004"
+                     /evalue="5.40E-14"
+                     /label="CWB31_RS20515"
+                     /locus_tag="CWB31_RS20515"
+                     /protein_end="232"
+                     /protein_start="138"
+                     /score="52.7"
+                     /tool="antismash"
+                     /translation="IVGSIVKPGMDEHEKVKAIHDYVVKHVSYDTSYQAYTAYEALANR
+                     SAVCQGYTLLTYELLKEAGIQNHIVTGTGNGQAHAWNLVNIENKWYHLD"
+     gene            complement(4136..4888)
+                     /ID="gene-CWB31_RS20520"
+                     /Name="CWB31_RS20520"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20520"
+                     /old_locus_tag="CWB31_21360"
+                     /source="RefSeq"
+     CDS             complement(4136..4888)
+                     /Dbxref="GenBank:WP_001034843.1"
+                     /ID="cds-WP_001034843.1"
+                     /Name="WP_001034843.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20520"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001041258.1"
+                     /locus_tag="CWB31_RS20520"
+                     /phase="0"
+                     /product="YwqG family protein"
+                     /protein_id="WP_001034843.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MNKKIEVLIDKYELTHLKEELINTVFPCIKVVPKQQGTVAIGSSK
+                     MGGVPDLPALFEYPKHKGNPLQFIAQFNLSDLQNVGMDHNLPKTGMLYFFCIENYFEEN
+                     VNLTEAGRVLYYDVPVEQLRRENEIQAKYNQCAITFELTYKLPELFIEDEADSDRFLQL
+                     LEELIPDNYDNHQMFGEPFSVQEEVLYETGEYMGVDPQQMTLLFQIDSDHKNCNMVWGE
+                     LGMLYFCINNEDLKNQRFENTCCVLQTC"
+     PFAM_domain     complement(4145..4759)
+                     /aSDomain="DUF1963"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF09234.13"
+                     /description="Domain of unknown function (DUF1963)"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20520_0005"
+                     /evalue="1.90E-38"
+                     /label="CWB31_RS20520"
+                     /locus_tag="CWB31_RS20520"
+                     /protein_end="248"
+                     /protein_start="43"
+                     /score="133.2"
+                     /tool="antismash"
+                     /translation="SKMGGVPDLPALFEYPKHKGNPLQFIAQFNLSDLQNVGMDHNLPK
+                     TGMLYFFCIENYFEENVNLTEAGRVLYYDVPVEQLRRENEIQAKYNQCAITFELTYKLP
+                     ELFIEDEADSDRFLQLLEELIPDNYDNHQMFGEPFSVQEEVLYETGEYMGVDPQQMTLL
+                     FQIDSDHKNCNMVWGELGMLYFCINNEDLKNQRFENTCCVLQ"
+     gene            5107..5247
+                     /ID="gene-CWB31_RS20525"
+                     /Name="CWB31_RS20525"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20525"
+                     /old_locus_tag="CWB31_21365"
+                     /source="RefSeq"
+     CDS             5107..5247
+                     /Dbxref="GenBank:WP_088054363.1"
+                     /ID="cds-WP_088054363.1"
+                     /Name="WP_088054363.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20525"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000540425.1"
+                     /locus_tag="CWB31_RS20525"
+                     /phase="0"
+                     /product="YjcZ family sporulation protein"
+                     /protein_id="WP_088054363.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MGYGYSCCGYGYGGGGCGYGGFALLIVLFILLIIIGASCWGGFIG
+                     C"
+     aSDomain        5152..5220
+                     /aSDomain="TIGR01732"
+                     /aSTool="tigrfam"
+                     /description="tiny_TM_bacill: conserved hypothetical
+                     protein"
+                     /detection="hmmscan"
+                     /domain_id="TIGRFam_CWB31_RS20525_0002"
+                     /evalue="8.80E-10"
+                     /identifier="TIGR01732"
+                     /label="CWB31_RS20525"
+                     /locus_tag="CWB31_RS20525"
+                     /protein_end="38"
+                     /protein_start="15"
+                     /score="36.1"
+                     /tool="antismash"
+                     /translation="GCGYGGFALLIVLFILLIIIGAS"
+     PFAM_domain     5158..5226
+                     /aSDomain="YjcZ_2"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF09680.13"
+                     /description="Family of unknown function"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20525_0006"
+                     /evalue="1.80E-08"
+                     /label="CWB31_RS20525"
+                     /locus_tag="CWB31_RS20525"
+                     /protein_end="40"
+                     /protein_start="17"
+                     /score="33.9"
+                     /tool="antismash"
+                     /translation="GYGGFALLIVLFILLIIIGASCW"
+     gene            5335..6300
+                     /ID="gene-CWB31_RS20530"
+                     /Name="CWB31_RS20530"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20530"
+                     /old_locus_tag="CWB31_21370"
+                     /source="RefSeq"
+     CDS             5335..6300
+                     /Dbxref="GenBank:WP_000686807.1"
+                     /ID="cds-WP_000686807.1"
+                     /Name="WP_000686807.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20530"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000686793.1"
+                     /locus_tag="CWB31_RS20530"
+                     /phase="0"
+                     /product="patatin-like phospholipase family protein"
+                     /protein_id="WP_000686807.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MKIDGVFEGGGVRGIAHVGAICALAEKGYEWERVAGTSAGSIIAA
+                     LLAAGYSCSELKTIITDIDYNKFTKRTFIDRIPFIGKGLSAWTTLGIYSNVFIEEWIEE
+                     LLRKKGVHLFTDLPDLNKLKIIASDISNGKMVVFPDDLPNYGFLNYRFSIAKAVRMSST
+                     IPFFFEPVKWRTPKWKQPCYMVDGGILSNYPIWIFDSPTAPRWPTFGFHFVKDEIQADP
+                     AHYNEPISMFKGLFKTMMQAHDLRHLDKESKARTITIPTGTITSTNFELTKEEKEWLYN
+                     SGYNSANKFLQAWNFRQYIDEYRKGNQDRKTNRFFRQLDS"
+     PFAM_domain     5350..5928
+                     /aSDomain="Patatin"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF01734.25"
+                     /db_xref="GO:0006629"
+                     /description="Patatin-like phospholipase"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20530_0007"
+                     /evalue="1.80E-31"
+                     /gene_ontologies="GO:0006629: lipid metabolic process"
+                     /label="CWB31_RS20530"
+                     /locus_tag="CWB31_RS20530"
+                     /protein_end="198"
+                     /protein_start="5"
+                     /score="110.0"
+                     /tool="antismash"
+                     /translation="VFEGGGVRGIAHVGAICALAEKGYEWERVAGTSAGSIIAALLAAG
+                     YSCSELKTIITDIDYNKFTKRTFIDRIPFIGKGLSAWTTLGIYSNVFIEEWIEELLRKK
+                     GVHLFTDLPDLNKLKIIASDISNGKMVVFPDDLPNYGFLNYRFSIAKAVRMSSTIPFFF
+                     EPVKWRTPKWKQPCYMVDGGILSNYPIWIF"
+     misc_feature    5356..5365
+                     /note="TFBS match to AbrC3, Antibiotic production
+                     activator, confidence: strong, score: 15.13"
+                     /tool="antismash"
+     gene            complement(6413..6580)
+                     /ID="gene-CWB31_RS20535"
+                     /Name="CWB31_RS20535"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20535"
+                     /old_locus_tag="CWB31_21375"
+                     /source="RefSeq"
+     CDS             complement(6413..6580)
+                     /Dbxref="GenBank:WP_078404651.1"
+                     /ID="cds-WP_078404651.1"
+                     /Name="WP_078404651.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20535"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014893816.1"
+                     /locus_tag="CWB31_RS20535"
+                     /phase="0"
+                     /product="DUF3933 family protein"
+                     /protein_id="WP_078404651.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MNQYVICQMINGEKYLAAYAETKQEAIEKAELLGLRTGNRYIVIT
+                     AEEAEGLTYP"
+     PFAM_domain     complement(6425..6580)
+                     /aSDomain="DUF3933"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF13069.9"
+                     /description="Protein of unknown function (DUF3933)"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20535_0008"
+                     /evalue="3.50E-39"
+                     /label="CWB31_RS20535"
+                     /locus_tag="CWB31_RS20535"
+                     /protein_end="52"
+                     /protein_start="0"
+                     /score="132.6"
+                     /tool="antismash"
+                     /translation="MNQYVICQMINGEKYLAAYAETKQEAIEKAELLGLRTGNRYIVIT
+                     AEEAEGL"
+     gene            complement(6593..8035)
+                     /ID="gene-CWB31_RS20540"
+                     /Name="CWB31_RS20540"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20540"
+                     /old_locus_tag="CWB31_21380"
+                     /source="RefSeq"
+     CDS             complement(6593..8035)
+                     /Dbxref="GenBank:WP_000439412.1"
+                     /ID="cds-WP_000439412.1"
+                     /NRPS_PKS="Domain: Aminotran_1_2 (121-473). E-value:
+                     1.2e-32. Score: 105.3. Matches aSDomain:
+                     nrpspksdomains_CWB31_RS20540_Aminotran_1_2.1"
+                     /Name="WP_000439412.1"
+                     /Ontology_term="GO:0030170"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20540"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) Aminotran_1_2"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1019:aminotransferase (Score: 305.6; E-value:
+                     8.6e-93)"
+                     /gene_kind="biosynthetic-additional"
+                     /go_function="pyridoxal phosphate binding|0030170||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000439422.1"
+                     /locus_tag="CWB31_RS20540"
+                     /phase="0"
+                     /product="PLP-dependent aminotransferase family protein"
+                     /protein_id="WP_000439412.1"
+                     /sec_met_domain="Aminotran_1_2 (E-value: 5.1e-32, bitscore:
+                     105.3, seeds: 48, tool: rule-based-clusters)"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MERFVWKPNMSLATPLYKQIETYIKERIVNGEWTVGTKLPSQRDL
+                     AHTFGVNRSTIVMAFDELVAKGYIEGNGRKGTIVVNNNENASTYAPPPNWQSYVETGLH
+                     YPNLPAIQEINQAEFYPHVIRLGTGELAPSLLPEKKMKEIMNKLLKSNVKLGYEEPKGN
+                     FYLREKISEYLKGHGICVSPDSILIVSGAIQALQLISMGLLPKGASILLEKPSYLYSLN
+                     VFQSAGMRFIGIPMDENGLNTSYITKYKKQFNASILYTIPSFHNPTNFSMNAKKRIEVM
+                     EICNEIGLPIIEDAVYQDLWFDSPCSKPLKAYDKNGIVLHIGSMSKVISPGLRIGWIVG
+                     PEPVIQRLSDIKMQTDYGSSTISQKIAAEWFTNGLYDEHLRFVRSELKKRRDFMLLMLD
+                     KYLREIATWHEPTGGFYIWVHIKVPISYRSLFDKALQEKVLLNPGTLYDRSANQFLRLS
+                     YSYATLEEIEIGIKKLAQLMKK"
+     aSDomain        complement(6617..7672)
+                     /aSDomain="Aminotran_1_2"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_CWB31_RS20540_Aminotran_1_2.1"
+                     /evalue="1.20E-32"
+                     /label="CWB31_RS20540_Aminotran_1_2.1"
+                     /locus_tag="CWB31_RS20540"
+                     /protein_end="473"
+                     /protein_start="121"
+                     /score="105.3"
+                     /tool="antismash"
+                     /translation="HVIRLGTGELAPSLLPEKKMKEIMNKLLKSNVKLGYEEPKGNFYL
+                     REKISEYLKGHGICVSPDSILIVSGAIQALQLISMGLLPKGASILLEKPSYLYSLNVFQ
+                     SAGMRFIGIPMDENGLNTSYITKYKKQFNASILYTIPSFHNPTNFSMNAKKRIEVMEIC
+                     NEIGLPIIEDAVYQDLWFDSPCSKPLKAYDKNGIVLHIGSMSKVISPGLRIGWIVGPEP
+                     VIQRLSDIKMQTDYGSSTISQKIAAEWFTNGLYDEHLRFVRSELKKRRDFMLLMLDKYL
+                     REIATWHEPTGGFYIWVHIKVPISYRSLFDKALQEKVLLNPGTLYDRSANQFLRLSYSY
+                     ATLEEIEIGIKK"
+     PFAM_domain     complement(6617..7672)
+                     /aSDomain="Aminotran_1_2"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00155.24"
+                     /db_xref="GO:0009058"
+                     /db_xref="GO:0030170"
+                     /description="Aminotransferase class I and II"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20540_0010"
+                     /evalue="4.10E-30"
+                     /gene_ontologies="GO:0009058: biosynthetic process"
+                     /gene_ontologies="GO:0030170: pyridoxal phosphate binding"
+                     /label="CWB31_RS20540"
+                     /locus_tag="CWB31_RS20540"
+                     /protein_end="473"
+                     /protein_start="121"
+                     /score="105.3"
+                     /tool="antismash"
+                     /translation="HVIRLGTGELAPSLLPEKKMKEIMNKLLKSNVKLGYEEPKGNFYL
+                     REKISEYLKGHGICVSPDSILIVSGAIQALQLISMGLLPKGASILLEKPSYLYSLNVFQ
+                     SAGMRFIGIPMDENGLNTSYITKYKKQFNASILYTIPSFHNPTNFSMNAKKRIEVMEIC
+                     NEIGLPIIEDAVYQDLWFDSPCSKPLKAYDKNGIVLHIGSMSKVISPGLRIGWIVGPEP
+                     VIQRLSDIKMQTDYGSSTISQKIAAEWFTNGLYDEHLRFVRSELKKRRDFMLLMLDKYL
+                     REIATWHEPTGGFYIWVHIKVPISYRSLFDKALQEKVLLNPGTLYDRSANQFLRLSYSY
+                     ATLEEIEIGIKK"
+     PFAM_domain     complement(7799..7990)
+                     /aSDomain="GntR"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00392.24"
+                     /db_xref="GO:0003700"
+                     /db_xref="GO:0006355"
+                     /description="Bacterial regulatory proteins, gntR family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20540_0009"
+                     /evalue="1.40E-16"
+                     /gene_ontologies="GO:0003700: DNA-binding transcription
+                     factor activity"
+                     /gene_ontologies="GO:0006355: regulation of DNA-templated
+                     transcription"
+                     /label="CWB31_RS20540"
+                     /locus_tag="CWB31_RS20540"
+                     /protein_end="79"
+                     /protein_start="15"
+                     /score="60.0"
+                     /tool="antismash"
+                     /translation="LYKQIETYIKERIVNGEWTVGTKLPSQRDLAHTFGVNRSTIVMAF
+                     DELVAKGYIEGNGRKGTIV"
+     gene            8154..8768
+                     /ID="gene-CWB31_RS20545"
+                     /Name="CWB31_RS20545"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20545"
+                     /old_locus_tag="CWB31_21385"
+                     /source="RefSeq"
+     CDS             8154..8768
+                     /Dbxref="GenBank:WP_001287291.1"
+                     /ID="cds-WP_001287291.1"
+                     /Name="WP_001287291.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20545"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016136642.1"
+                     /locus_tag="CWB31_RS20545"
+                     /phase="0"
+                     /product="LysE/ArgO family amino acid transporter"
+                     /protein_id="WP_001287291.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MSEAIIHGIILAFGLIIPLGVQNVFVFNQGASQPNIWRAAPVILT
+                     ASICDTLLILIAVQGVSLVLLTFSWLTNSLYIVGFFFLLYMGFVIWRSNPSNDVKQEKS
+                     MPLKKQILFAASVSLLNPHAILDTIGVIGTNSIQYIGSEKWAFTLATIIVSWIWFISLA
+                     LAGKFLKRLDSTGKTILLLNKFSGLIIWGVALYMLKQVIYS"
+     PFAM_domain     8196..8747
+                     /aSDomain="LysE"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF01810.21"
+                     /db_xref="GO:0006865"
+                     /db_xref="GO:0016020"
+                     /description="LysE type translocator"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20545_0011"
+                     /evalue="6.10E-29"
+                     /gene_ontologies="GO:0006865: amino acid transport"
+                     /gene_ontologies="GO:0016020: membrane"
+                     /label="CWB31_RS20545"
+                     /locus_tag="CWB31_RS20545"
+                     /protein_end="198"
+                     /protein_start="14"
+                     /score="101.0"
+                     /tool="antismash"
+                     /translation="LIIPLGVQNVFVFNQGASQPNIWRAAPVILTASICDTLLILIAVQ
+                     GVSLVLLTFSWLTNSLYIVGFFFLLYMGFVIWRSNPSNDVKQEKSMPLKKQILFAASVS
+                     LLNPHAILDTIGVIGTNSIQYIGSEKWAFTLATIIVSWIWFISLALAGKFLKRLDSTGK
+                     TILLLNKFSGLIIWGVALYML"
+     gene            complement(8822..10051)
+                     /ID="gene-CWB31_RS20550"
+                     /Name="CWB31_RS20550"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20550"
+                     /old_locus_tag="CWB31_21390"
+                     /source="RefSeq"
+     CDS             complement(8822..10051)
+                     /Dbxref="GenBank:WP_025921900.1"
+                     /ID="cds-WP_025921900.1"
+                     /Name="WP_025921900.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20550"
+                     /gene_functions="transport (smcogs) SMCOG1005:Drug
+                     resistance transporter, EmrB/QacA (Score: 95.6; E-value:
+                     3.6e-29)"
+                     /gene_kind="transport"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000913346.1"
+                     /locus_tag="CWB31_RS20550"
+                     /phase="0"
+                     /product="MFS transporter"
+                     /protein_id="WP_025921900.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MLKKENCCLIALASVPLVMTLGNSMLIPILPTIEKKLHISSFQVS
+                     MIITIYSIVAILLIPIAGYLSDRWGRKMVMVPSLLIAAIGGAITGWVSWKIDNPYIWIL
+                     IGRAIQGIGAAGAMPVVIPCVGDLYKDEKQVSTGLGIIETSNTFGKVLSPILGSALAAI
+                     VWFLPFWAIPVLCVVSIVLLLVLVKAKKQEGEVPPLKEFIKSILSTFREKGRWLIAIFA
+                     LGAIIMLILFGILFYLSTILESKYDIHGIWKGCVLAIPLLVLSLSSYMAGKKIGDNQNV
+                     MKKCIYIGFLMAAASVIIPLFIKGIYLLLLCLVIMGIGIGMALPCLDALITQGIEKEQR
+                     GTVTSFYSSMRFIGVAAGPPLYSFFMKGADHEVFYLTSIFAAIGAVIAIIWIKPAKDAK
+                     TVKQKPEPTS"
+     PFAM_domain     complement(8846..9205)
+                     /aSDomain="MFS_1"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF07690.19"
+                     /db_xref="GO:0022857"
+                     /db_xref="GO:0055085"
+                     /description="Major Facilitator Superfamily"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20550_0013"
+                     /evalue="3.60E-15"
+                     /gene_ontologies="GO:0022857: transmembrane transporter
+                     activity"
+                     /gene_ontologies="GO:0055085: transmembrane transport"
+                     /label="CWB31_RS20550"
+                     /locus_tag="CWB31_RS20550"
+                     /protein_end="402"
+                     /protein_start="282"
+                     /score="55.9"
+                     /tool="antismash"
+                     /translation="KKCIYIGFLMAAASVIIPLFIKGIYLLLLCLVIMGIGIGMALPCL
+                     DALITQGIEKEQRGTVTSFYSSMRFIGVAAGPPLYSFFMKGADHEVFYLTSIFAAIGAV
+                     IAIIWIKPAKDAKTVK"
+     PFAM_domain     complement(9227..10003)
+                     /aSDomain="MFS_1"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF07690.19"
+                     /db_xref="GO:0022857"
+                     /db_xref="GO:0055085"
+                     /description="Major Facilitator Superfamily"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20550_0012"
+                     /evalue="1.00E-38"
+                     /gene_ontologies="GO:0022857: transmembrane transporter
+                     activity"
+                     /gene_ontologies="GO:0055085: transmembrane transport"
+                     /label="CWB31_RS20550"
+                     /locus_tag="CWB31_RS20550"
+                     /protein_end="275"
+                     /protein_start="16"
+                     /score="133.4"
+                     /tool="antismash"
+                     /translation="LVMTLGNSMLIPILPTIEKKLHISSFQVSMIITIYSIVAILLIPI
+                     AGYLSDRWGRKMVMVPSLLIAAIGGAITGWVSWKIDNPYIWILIGRAIQGIGAAGAMPV
+                     VIPCVGDLYKDEKQVSTGLGIIETSNTFGKVLSPILGSALAAIVWFLPFWAIPVLCVVS
+                     IVLLLVLVKAKKQEGEVPPLKEFIKSILSTFREKGRWLIAIFALGAIIMLILFGILFYL
+                     STILESKYDIHGIWKGCVLAIPLLVLSLSSYMAGKKI"
+     gene            complement(10287..10493)
+                     /ID="gene-CWB31_RS20555"
+                     /Name="CWB31_RS20555"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20555"
+                     /old_locus_tag="CWB31_21395"
+                     /source="RefSeq"
+     CDS             complement(10287..10493)
+                     /Dbxref="GenBank:WP_000113545.1"
+                     /ID="cds-WP_000113545.1"
+                     /Name="WP_000113545.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20555"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000113539.1"
+                     /locus_tag="CWB31_RS20555"
+                     /phase="0"
+                     /product="alpha/beta-type small acid-soluble spore protein"
+                     /protein_id="WP_000113545.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MARNRNSNQLASHGAQAALDQMKYEIAQEFGVQLGADTSSRANGS
+                     VGGEITKRLVAMAEQQLGGGYTR"
+     PFAM_domain     complement(10308..10472)
+                     /aSDomain="SASP"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00269.23"
+                     /db_xref="GO:0003690"
+                     /db_xref="GO:0006265"
+                     /description="Small, acid-soluble spore proteins,
+                     alpha/beta type"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20555_0014"
+                     /evalue="2.40E-21"
+                     /gene_ontologies="GO:0003690: double-stranded DNA binding"
+                     /gene_ontologies="GO:0006265: DNA topological change"
+                     /label="CWB31_RS20555"
+                     /locus_tag="CWB31_RS20555"
+                     /protein_end="62"
+                     /protein_start="7"
+                     /score="75.6"
+                     /tool="antismash"
+                     /translation="NQLASHGAQAALDQMKYEIAQEFGVQLGADTSSRANGSVGGEITK
+                     RLVAMAEQQL"
+     gene            complement(10617..11459)
+                     /ID="gene-CWB31_RS20560"
+                     /Name="CWB31_RS20560"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20560"
+                     /old_locus_tag="CWB31_21400"
+                     /source="RefSeq"
+     CDS             complement(10617..11459)
+                     /Dbxref="GenBank:WP_000877687.1"
+                     /ID="cds-WP_000877687.1"
+                     /Name="WP_000877687.1"
+                     /Ontology_term="GO:0003824"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20560"
+                     /go_function="catalytic activity|0003824||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016109781.1"
+                     /locus_tag="CWB31_RS20560"
+                     /phase="0"
+                     /product="sugar phosphate isomerase/epimerase family
+                     protein"
+                     /protein_id="WP_000877687.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MKYSLCTISFRHQLISFTDIVQFAYENGFEGIELWGTHAQNLYMQ
+                     ERETTERELNFLKDKNLEITMISDYLDISLSADFEKTIEKSEQLVVLANWFNTNKIRTF
+                     AGQKGSKDFSEQERKEYVKRIRKICDVFAQNNMYVLLETHPNTLTDTLPSTIELLEEVN
+                     HPNLKINLDFLHIWESGADPIDSFHRLKPWTLHYHFKNISSADYLHVFEPNNVYAAAGS
+                     RIGMVPLFEGIVNYDEIIQEVRNTDLFASLEWFGHNSKEILKEEMKVLINRKLEVVTS"
+     PFAM_domain     complement(10647..11396)
+                     /aSDomain="AP_endonuc_2"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF01261.27"
+                     /description="Xylose isomerase-like TIM barrel"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20560_0015"
+                     /evalue="1.10E-31"
+                     /label="CWB31_RS20560"
+                     /locus_tag="CWB31_RS20560"
+                     /protein_end="271"
+                     /protein_start="21"
+                     /score="110.6"
+                     /tool="antismash"
+                     /translation="QFAYENGFEGIELWGTHAQNLYMQERETTERELNFLKDKNLEITM
+                     ISDYLDISLSADFEKTIEKSEQLVVLANWFNTNKIRTFAGQKGSKDFSEQERKEYVKRI
+                     RKICDVFAQNNMYVLLETHPNTLTDTLPSTIELLEEVNHPNLKINLDFLHIWESGADPI
+                     DSFHRLKPWTLHYHFKNISSADYLHVFEPNNVYAAAGSRIGMVPLFEGIVNYDEIIQEV
+                     RNTDLFASLEWFGHNSKEILKEEMKVLI"
+     gene            complement(11497..12480)
+                     /ID="gene-CWB31_RS20565"
+                     /Name="CWB31_RS20565"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20565"
+                     /old_locus_tag="CWB31_21405"
+                     /source="RefSeq"
+     CDS             complement(11497..12480)
+                     /Dbxref="GenBank:WP_000200691.1"
+                     /ID="cds-WP_000200691.1"
+                     /Name="WP_000200691.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20565"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001979576.1"
+                     /locus_tag="CWB31_RS20565"
+                     /phase="0"
+                     /product="DUF6005 family protein"
+                     /protein_id="WP_000200691.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MTSIKVHCLVSCFCEIIKMRSDIDFRPFYFGLWDGDFDITQGGII
+                     SYHSENINHDHYLLWFEKLYGIKVNEWYDHAKDKDSNVETFLELVENKPENRYVIVMVD
+                     MSLLPERENKFHQKPFPHYLMISKTEKEEEWFMLDPDFRWEGNMEREKVLHSIQDNPFG
+                     GGYFIDIEGIGEPTQETVASYFTETFKKNDNELTMELKNLIVKMANEEEGYALSGLVAA
+                     VKQIPVLAIRKYSYEHAFAYFRETLQYSEQEFDYWCDRVEDIVQGFTNVQYRAIKMAMT
+                     NNKGMLVSIIEKLDEMNAIELQIKKELERQFLSWKGMKTNQSVATL"
+     PFAM_domain     complement(11515..12474)
+                     /aSDomain="DUF6005"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF19468.2"
+                     /description="Family of unknown function (DUF6005)"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20565_0016"
+                     /evalue="2.70E-142"
+                     /label="CWB31_RS20565"
+                     /locus_tag="CWB31_RS20565"
+                     /protein_end="322"
+                     /protein_start="2"
+                     /score="473.7"
+                     /tool="antismash"
+                     /translation="SIKVHCLVSCFCEIIKMRSDIDFRPFYFGLWDGDFDITQGGIISY
+                     HSENINHDHYLLWFEKLYGIKVNEWYDHAKDKDSNVETFLELVENKPENRYVIVMVDMS
+                     LLPERENKFHQKPFPHYLMISKTEKEEEWFMLDPDFRWEGNMEREKVLHSIQDNPFGGG
+                     YFIDIEGIGEPTQETVASYFTETFKKNDNELTMELKNLIVKMANEEEGYALSGLVAAVK
+                     QIPVLAIRKYSYEHAFAYFRETLQYSEQEFDYWCDRVEDIVQGFTNVQYRAIKMAMTNN
+                     KGMLVSIIEKLDEMNAIELQIKKELERQFLSWKGMKTNQ"
+     gene            complement(12504..12779)
+                     /ID="gene-CWB31_RS20570"
+                     /Name="asbD"
+                     /gbkey="Gene"
+                     /gene="asbD"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20570"
+                     /old_locus_tag="CWB31_21410"
+                     /source="RefSeq"
+     CDS             complement(12504..12779)
+                     /Dbxref="GenBank:WP_001250560.1"
+                     /ID="cds-WP_001250560.1"
+                     /Name="WP_001250560.1"
+                     /gbkey="CDS"
+                     /gene="asbD"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001250761.1"
+                     /locus_tag="CWB31_RS20570"
+                     /phase="0"
+                     /product="petrobactin biosynthesis protein AsbD"
+                     /protein_id="WP_001250560.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MRREALKNAVLKIMIEKMELKNVTHLEETMRLNQDLYIDSVMMLQ
+                     LIVYIEMDVKLCVPEDEVDPKAFLTVGSLLDFMEELEPLQEVNVNN"
+     gene            complement(12776..14014)
+                     /ID="gene-CWB31_RS20575"
+                     /Name="CWB31_RS20575"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20575"
+                     /old_locus_tag="CWB31_21415"
+                     /source="RefSeq"
+     CDS             complement(12776..14014)
+                     /Dbxref="GenBank:WP_000909573.1"
+                     /ID="cds-WP_000909573.1"
+                     /NRPS_PKS="Domain: AMP-binding (58-319). E-value: 2.4e-24.
+                     Score: 77.5. Matches aSDomain:
+                     nrpspksdomains_CWB31_RS20575_AMP-binding.1"
+                     /Name="WP_000909573.1"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20575"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) AMP-binding"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1002:AMP-dependent synthetase and ligase (Score: 75.7;
+                     E-value: 4.4e-23)"
+                     /gene_kind="biosynthetic-additional"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000909602.1"
+                     /locus_tag="CWB31_RS20575"
+                     /phase="0"
+                     /product="AMP-binding protein"
+                     /protein_id="WP_000909573.1"
+                     /sec_met_domain="AMP-binding (E-value: 3.2e-16, bitscore:
+                     52.8, seeds: 400, tool: rule-based-clusters)"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MLIVNKQEYSKSDFELRLQVYEEMEQFQKAEGNRFALCLKDPFDI
+                     ITLVFFLKEKKSSVLLIHEDTPKETAIEMAKRANCVGILYGEYGDFTKLEVGNFLLEEP
+                     SLLQYSSGTTGEPKLIRRAWTEVDTEITAYNEALNCEVDEVPIVMAPVSHSYGLICGTL
+                     SAITRGSKPVIITNKNPKFALNIVRNTEKHIIYAVPLMLHIMGSFPLGTFQFHKIMTSG
+                     SPLPEALFYKLKKMTTYMMQQYGCSEAGCISICHDMKSHLDLGNPLPHASISIGSDENA
+                     PEEIVVKMNDKEIFTKDLGYKSERGIHFMGRMDDVINVSGLKVFPIEVEETMLRLEGVQ
+                     EAIVYRGKHPVMGEIVKAKVISHVDPVKIREWCIQHLPSYKVPHEIESVNEIPKNKTGK
+                     VSRKLLEMGEVTT"
+     PFAM_domain     complement(12818..13033)
+                     /aSDomain="AMP-binding_C"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF13193.9"
+                     /description="AMP-binding enzyme C-terminal domain"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20575_0018"
+                     /evalue="2.60E-11"
+                     /label="CWB31_RS20575"
+                     /locus_tag="CWB31_RS20575"
+                     /protein_end="399"
+                     /protein_start="327"
+                     /score="44.5"
+                     /tool="antismash"
+                     /translation="EVEETMLRLEGVQEAIVYRGKHPVMGEIVKAKVISHVDPVKIREW
+                     CIQHLPSYKVPHEIESVNEIPKNKTGK"
+     CDS_motif       complement(13025..13090)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_CWB31_RS20575_0002"
+                     /evalue="2.10E-03"
+                     /label="NRPS-A_a8"
+                     /locus_tag="CWB31_RS20575"
+                     /protein_end="330"
+                     /protein_start="308"
+                     /score="10.9"
+                     /tool="antismash"
+                     /translation="FMGRMDDVINVSGLKVFPIEVE"
+     aSDomain        complement(13058..13840)
+                     /aSDomain="AMP-binding"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_CWB31_RS20575_AMP-binding.1"
+                     /evalue="2.40E-24"
+                     /label="CWB31_RS20575_AMP-binding.1"
+                     /locus_tag="CWB31_RS20575"
+                     /protein_end="319"
+                     /protein_start="58"
+                     /score="77.5"
+                     /specificity="substrate consensus: X"
+                     /tool="antismash"
+                     /translation="VLLIHEDTPKETAIEMAKRANCVGILYGEYGDFTKLEVGNFLLEE
+                     PSLLQYSSGTTGEPKLIRRAWTEVDTEITAYNEALNCEVDEVPIVMAPVSHSYGLICGT
+                     LSAITRGSKPVIITNKNPKFALNIVRNTEKHIIYAVPLMLHIMGSFPLGTFQFHKIMTS
+                     GSPLPEALFYKLKKMTTYMMQQYGCSEAGCISICHDMKSHLDLGNPLPHASISIGSDEN
+                     APEEIVVKMNDKEIFTKDLGYKSERGIHFMGRMDDVINV"
+     PFAM_domain     complement(13178..13771)
+                     /aSDomain="AMP-binding"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00501.31"
+                     /description="AMP-binding enzyme"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20575_0017"
+                     /evalue="1.50E-20"
+                     /label="CWB31_RS20575"
+                     /locus_tag="CWB31_RS20575"
+                     /protein_end="279"
+                     /protein_start="81"
+                     /score="73.4"
+                     /tool="antismash"
+                     /translation="GILYGEYGDFTKLEVGNFLLEEPSLLQYSSGTTGEPKLIRRAWTE
+                     VDTEITAYNEALNCEVDEVPIVMAPVSHSYGLICGTLSAITRGSKPVIITNKNPKFALN
+                     IVRNTEKHIIYAVPLMLHIMGSFPLGTFQFHKIMTSGSPLPEALFYKLKKMTTYMMQQY
+                     GCSEAGCISICHDMKSHLDLGNPLPHASISIGSDE"
+     CDS_motif       complement(13655..13696)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_CWB31_RS20575_0001"
+                     /evalue="2.60E-03"
+                     /label="NRPS-A_a3"
+                     /locus_tag="CWB31_RS20575"
+                     /protein_end="120"
+                     /protein_start="106"
+                     /score="10.9"
+                     /tool="antismash"
+                     /translation="LQYSSGTTGEPKLI"
+     gene            complement(14001..15839)
+                     /ID="gene-CWB31_RS20580"
+                     /Name="CWB31_RS20580"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20580"
+                     /old_locus_tag="CWB31_21420"
+                     /source="RefSeq"
+     CDS             complement(14001..15839)
+                     /Dbxref="GenBank:WP_001261824.1"
+                     /ID="cds-WP_001261824.1"
+                     /Name="WP_001261824.1"
+                     /Ontology_term="GO:0019290"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20580"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     NI-siderophore: IucA_IucC"
+                     /gene_kind="biosynthetic"
+                     /go_process="siderophore biosynthetic process|0019290||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001261821.1"
+                     /locus_tag="CWB31_RS20580"
+                     /phase="0"
+                     /product="IucA/IucC family protein"
+                     /protein_id="WP_001261824.1"
+                     /sec_met_domain="IucA_IucC (E-value: 8.7e-76, bitscore:
+                     248.6, seeds: 168, tool: rule-based-clusters)"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MRVDMYHTKVLKALESEDYISVRRRVLRQLVESLIYEGIITPVRI
+                     EKEEQILFLIQGLDEEDKSVTYKCYGRERMTFGRISLDSLIVRVQDEQQEIQSVSQFLE
+                     EVFRVTSVEQAKLDSFMHELEQTIFKDTIAQYERNNKREYTQKSYDEFESQLIDGHPYH
+                     PSYKARVGFQYRDNFQYGYEFMQPIKLIWIAAHKNYATVGYENEVMYNNILKEEIGDRK
+                     LEEFMERIRNKGCNPKQYVFIPVHPWQWENFIISNYADHIQGKFIIYLGTSEDDYCAQQ
+                     SMRTLRNITSPKKPYVKLSMNLLNTSTLRTLKPYSVVSAPVISNWLNDVVSNDAYLMDE
+                     ARLILLSEFSSVTYDTNKKAIYGSLGCIWRESVHKYLDAQEDAIPFNGLYAKEKDGTPI
+                     IDAWLNKYGMKDWLQLLIQKAIIPVIHLVVEHGIALESHGQNMILVHKEGVPVRIALKD
+                     FHEGLEFYRPYLKEVDKCPDFTKMHKTYANGKMNDFFEMDRIECLQEMVLDALFLFNLG
+                     ELAFVLADEYGLKEEHFWMMVVEEIENHLRIYPHLKGRFENIQLYAPTFYAEQLTKRRL
+                     YMDVESLVHEVPNPLYRVRQLMKQKSAVTGGNYANR"
+     PFAM_domain     complement(14097..14609)
+                     /aSDomain="FhuF"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF06276.15"
+                     /description="Ferric iron reductase FhuF-like transporter"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20580_0020"
+                     /evalue="1.60E-32"
+                     /label="CWB31_RS20580"
+                     /locus_tag="CWB31_RS20580"
+                     /protein_end="581"
+                     /protein_start="410"
+                     /score="113.3"
+                     /tool="antismash"
+                     /translation="DWLQLLIQKAIIPVIHLVVEHGIALESHGQNMILVHKEGVPVRIA
+                     LKDFHEGLEFYRPYLKEVDKCPDFTKMHKTYANGKMNDFFEMDRIECLQEMVLDALFLF
+                     NLGELAFVLADEYGLKEEHFWMMVVEEIENHLRIYPHLKGRFENIQLYAPTFYAEQLTK
+                     RRLYMDVE"
+     PFAM_domain     complement(14670..15395)
+                     /aSDomain="IucA_IucC"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF04183.15"
+                     /db_xref="GO:0019290"
+                     /description="IucA / IucC family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20580_0019"
+                     /evalue="1.50E-72"
+                     /gene_ontologies="GO:0019290: siderophore biosynthetic
+                     process"
+                     /label="CWB31_RS20580"
+                     /locus_tag="CWB31_RS20580"
+                     /protein_end="390"
+                     /protein_start="148"
+                     /score="244.2"
+                     /tool="antismash"
+                     /translation="YDEFESQLIDGHPYHPSYKARVGFQYRDNFQYGYEFMQPIKLIWI
+                     AAHKNYATVGYENEVMYNNILKEEIGDRKLEEFMERIRNKGCNPKQYVFIPVHPWQWEN
+                     FIISNYADHIQGKFIIYLGTSEDDYCAQQSMRTLRNITSPKKPYVKLSMNLLNTSTLRT
+                     LKPYSVVSAPVISNWLNDVVSNDAYLMDEARLILLSEFSSVTYDTNKKAIYGSLGCIWR
+                     ESVHKYLDAQEDAIPFNGLY"
+     gene            complement(15900..17708)
+                     /ID="gene-CWB31_RS20585"
+                     /Name="CWB31_RS20585"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20585"
+                     /old_locus_tag="CWB31_21425"
+                     /source="RefSeq"
+     CDS             complement(15900..17708)
+                     /Dbxref="GenBank:WP_001163348.1"
+                     /ID="cds-WP_001163348.1"
+                     /Name="WP_001163348.1"
+                     /Ontology_term="GO:0019290"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20585"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     NI-siderophore: IucA_IucC"
+                     /gene_kind="biosynthetic"
+                     /go_process="siderophore biosynthetic process|0019290||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001163328.1"
+                     /locus_tag="CWB31_RS20585"
+                     /phase="0"
+                     /product="IucA/IucC family protein"
+                     /protein_id="WP_001163348.1"
+                     /sec_met_domain="IucA_IucC (E-value: 2.5e-67, bitscore:
+                     220.9, seeds: 168, tool: rule-based-clusters)"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MQHAKQIAEHATLQSFLNCYLRETGSGEWITEDERMKSIFSNTLN
+                     RDTVPTYLCCRLSAQNVTLYGEVIYKSSTDRHLFGEQFYYQIGDSNSVITADYVTVITF
+                     LIKEMSINYGEGTNPAELMLRVIRSCQNIEEFTKERIEDKSALYGFHTTFIEAEQSLLF
+                     GHLTHPTPKSRQGILDWKSAMYSPELKGECQLHYFRAHKSIVNEKSLLSDSTTMIIKEE
+                     LSNDETVSKEFIAKYCKEDQYALIPIHPLQAEWLLHQAYVQDWIVQELLEYIGPIGKYY
+                     MATSSLRTLYHPDSKYMLKFSFPVKVTNSMRINKLKELESGLEGKEMLNTAIGEVRERF
+                     PGFDFICDPAFITLNYGTQESGFEVIIRENPFYSEHANDATLIAGLVQDAIPGERTRLS
+                     NIIHRLADLESKSCEEVSLEWFRRYMNISLKPMVWMYLQYGVALEAHQQNSVVQLKDGY
+                     PVKYYFRDNQGFYFCNSMKEKLNNELAGIGERTGNLYDDYIVDERFRYYLIFNHMFGLI
+                     NGFGTAGLIKEEILLSELRSVLESFLPYNREPSTFLRELLDEDKLACKANLLTRFFDVD
+                     ELSNPLEQAIYVQVHNPLVREVAVRS"
+     PFAM_domain     complement(15975..16454)
+                     /aSDomain="FhuF"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF06276.15"
+                     /description="Ferric iron reductase FhuF-like transporter"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20585_0022"
+                     /evalue="9.90E-40"
+                     /label="CWB31_RS20585"
+                     /locus_tag="CWB31_RS20585"
+                     /protein_end="578"
+                     /protein_start="418"
+                     /score="136.7"
+                     /tool="antismash"
+                     /translation="EWFRRYMNISLKPMVWMYLQYGVALEAHQQNSVVQLKDGYPVKYY
+                     FRDNQGFYFCNSMKEKLNNELAGIGERTGNLYDDYIVDERFRYYLIFNHMFGLINGFGT
+                     AGLIKEEILLSELRSVLESFLPYNREPSTFLRELLDEDKLACKANLLTRFFDVDEL"
+     PFAM_domain     complement(16548..17252)
+                     /aSDomain="IucA_IucC"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF04183.15"
+                     /db_xref="GO:0019290"
+                     /description="IucA / IucC family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20585_0021"
+                     /evalue="9.20E-54"
+                     /gene_ontologies="GO:0019290: siderophore biosynthetic
+                     process"
+                     /label="CWB31_RS20585"
+                     /locus_tag="CWB31_RS20585"
+                     /protein_end="387"
+                     /protein_start="152"
+                     /score="182.7"
+                     /tool="antismash"
+                     /translation="TFIEAEQSLLFGHLTHPTPKSRQGILDWKSAMYSPELKGECQLHY
+                     FRAHKSIVNEKSLLSDSTTMIIKEELSNDETVSKEFIAKYCKEDQYALIPIHPLQAEWL
+                     LHQAYVQDWIVQELLEYIGPIGKYYMATSSLRTLYHPDSKYMLKFSFPVKVTNSMRINK
+                     LKELESGLEGKEMLNTAIGEVRERFPGFDFICDPAFITLNYGTQESGFEVIIRENPFYS
+                     EHANDATLIAGLV"
+     misc_feature    17764..17778
+                     /note="TFBS match to ZuR, Zinc-responsive repressor,
+                     confidence: medium, score: 22.85"
+                     /tool="antismash"
+     misc_feature    complement(17793..17807)
+                     /note="TFBS match to ZuR, Zinc-responsive repressor,
+                     confidence: medium, score: 23.93"
+                     /tool="antismash"
+     gene            complement(18006..18527)
+                     /ID="gene-CWB31_RS20590"
+                     /Name="CWB31_RS20590"
+                     /gbkey="Gene"
+                     /gene_biotype="protein_coding"
+                     /locus_tag="CWB31_RS20590"
+                     /old_locus_tag="CWB31_21430"
+                     /source="RefSeq"
+     CDS             complement(18006..18527)
+                     /Dbxref="GenBank:WP_000511208.1"
+                     /ID="cds-WP_000511208.1"
+                     /Name="WP_000511208.1"
+                     /Ontology_term="GO:0008080"
+                     /gbkey="CDS"
+                     /gene="CWB31_RS20590"
+                     /go_function="N-acetyltransferase activity|0008080||IEA"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000511208.1"
+                     /locus_tag="CWB31_RS20590"
+                     /phase="0"
+                     /product="GNAT family N-acetyltransferase"
+                     /protein_id="WP_000511208.1"
+                     /source="Protein Homology"
+                     /transl_table=11
+                     /translation="MGIHIRRAIKDDIQGIAKVHVDSWKATYKGIFADEILDNIAYEKR
+                     EKQWEDIFQKEGNHQFRFVAENLNGEIVGFIDGGVERTGTYNCDGELYAIYLLQEYQGM
+                     KIGQKLFQALLSDCINNDMQSLLVWVVTNNPSKKFYEKFNPEKIDTKFLERLQVEETAY
+                     CWRDINNIIM"
+     PFAM_domain     complement(18099..18407)
+                     /aSDomain="Acetyltransf_1"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF00583.28"
+                     /db_xref="GO:0016747"
+                     /description="Acetyltransferase (GNAT) family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CWB31_RS20590_0023"
+                     /evalue="4.60E-11"
+                     /gene_ontologies="GO:0016747: acyltransferase activity,
+                     transferring groups other than amino-acyl groups"
+                     /label="CWB31_RS20590"
+                     /locus_tag="CWB31_RS20590"
+                     /protein_end="143"
+                     /protein_start="40"
+                     /score="43.1"
+                     /tool="antismash"
+                     /translation="AYEKREKQWEDIFQKEGNHQFRFVAENLNGEIVGFIDGGVERTGT
+                     YNCDGELYAIYLLQEYQGMKIGQKLFQALLSDCINNDMQSLLVWVVTNNPSKKFYEKF"
+ORIGIN
+        1 ttgcggaaaa tgctacagta gaaataatgg ttacaataaa gaacattctt gcgttatctc
+       61 tcatacgata cgctaaatct gataacgtaa taatattagt ctgtgtccaa tagaaacgtt
+      121 tacttttttt acataatcga ataataaaga cactcagctg cttgtacaac aaatacgtcc
+      181 caataataac taccgttgta acaggaatca tcataataaa taccattgct ccatgtgata
+      241 gaagagctcc tacatagcca gcactaagca atactactgc taatattgaa gaaatgattg
+      301 atgctttcgg ttccggtttc gcctctgctg atcctctaaa caacttcata atcttatttt
+      361 tacgaatcat tcctgcacta aacaatgata tgatcataaa taaaataaaa aacataatac
+      421 ccgttacaac aattgctttc atcggtatgt aataggataa ggagatatct agtttcaata
+      481 tcatcggagc gacaaatagt aatacccctg aaaataacat acctgaaaga ataccaaaaa
+      541 taattgcccc tattccaatc ataatatttt caaaaaagat aagacgcttt aattgatatt
+      601 tcgtcatacc tagcatcatt aaaattccta gttcacgctt tctcgttttt aaaaacattc
+      661 ccatagaata taaaataaag aagaatgtaa ataagtaaat aatagactgt gcaaaagaca
+      721 tacttacgaa tacgtactga cctaattctc ctgcacttaa tgccggatga aacgcaaaaa
+      781 atgaatacac aaaaaaggcc ataattgcaa atgcactact caaaaaatag gctgagtatg
+      841 tccgtctatt tcgggttaca ttccgatatg ctagttctct aatgttcata ttacttctcc
+      901 gcccttctac tatctatgtt tttatattag taaagtgcgg aaataccttc catcgattca
+      961 aatgacaaaa accttacatt tttgaaaggt ttaaaaaatt gcttatacgt agtactttat
+     1021 ttataatgac tacattcata ttcatacaca catcctattg tatattcgtt agttttgcga
+     1081 aataataaag gatagaagta tgtaccatta tacatataaa cttatttacc gctttaatat
+     1141 gaataggagg aaaacataat gacattacaa gaacaaatta tgaaagcatt acatgttcag
+     1201 cctgtaattg atccaaaagt tgaaattcgt aaacgagttg atttcttaaa ggattatgta
+     1261 aaaaaaacag gcgcaaaagg atttgtactt ggtattagcg gcggccaaga ctctacatta
+     1321 gcaggacgct tagcacaact tgcagttgaa gaaattcgta acgaaggtgg taatgtaacg
+     1381 tttatcgccg tgcgtcttcc ttataaagta caaaaagatg aagatgatgc acaattagca
+     1441 ttacaattca ttcaagcaga tcaatctgtt gcatttgata ttgcttcaac tgttgatgct
+     1501 ttttcaaatc aatatgaaaa cttattgggt gaatcattaa cagatttcaa taaaggtaac
+     1561 gtgaaagcac gtatccgtat ggttactcaa tatgcaattg gtggacaaaa agggttactt
+     1621 gttatcggaa cagatcacgc tgcagaagct gtaacagggt tctttacaaa attcggagat
+     1681 ggtggtgcag atttattacc attaacggga ttaacgaagc gccaaggacg tgcattatta
+     1741 caagagttag gtgcagacga gcgactttac ttaaaaatgc caacagctga tttattagat
+     1801 gaaaaaccag gtcaagctga cgaaacagag ttaggtatta cttatgatca attagatgat
+     1861 tatttagaag gtaaagcagt tccagctgac gttgcagaga aaattgaaaa acgttacaca
+     1921 gtgagtgagc ataaaagaca agtaccagcg tcaatgtttg atgattggtg gaaataaata
+     1981 aaacataaaa aagaagctaa tcttcattta gcttcttttt tatatgttaa cgatataccc
+     2041 ctactctttt ctccaataaa tcttgcaagc aatcttcatg ttgtttacaa aataacggtg
+     2101 gcatgtcgtc taacgggaaa aacttcaaat ccaacgtttc atcaccatct acttttttgt
+     2161 cacctccaac tattgagaat gaaaagaaca tcacaattga ctgggccttg tctccatttg
+     2221 gatatgattg aaaatatttt gtatacactc caataagctc atttatttct acatcatacc
+     2281 cggtttcttc ttttatttcc cggattgcag tttccgcagc tgattctcct atctccattg
+     2341 caccacctgg aaatccccaa gcgttaaagt ctcctctttt ttgcagtaat acttctccat
+     2401 ctttattaaa tacacaacca ccggcaaagt ttaagaaaac ataatcatgt cctacttttt
+     2461 cacgtaattc ttttatataa ttcgccattc tctttcccct tttcatactt cttctatcgc
+     2521 tattttttat ctttttcaag caattcaatg attcgatcta gcttctggtt catattaatc
+     2581 acgtggtgtt tctttgcaac gctgctttgt aatactcttc taataaacaa agtaaatgat
+     2641 atgaaaaaca aaacgataag tccgattact aaacaagtat atatcaatgt gaaaatatta
+     2701 ctttcgaaca agttcattca gcattcacat cctctccttt ttattttatc acataattcc
+     2761 caatatttta aagtgatcaa caaatataaa aagagcatct tttacagatg ctctttctca
+     2821 ttgcttaata cgtaaatgta attgtcgcca atgaataacc agccaatgca ctataaggcg
+     2881 ctacttgata agacacacgc tttgcacctt ttggccaatt tatttcattt aatactttct
+     2941 ttatatcttg catcgtccca tccatggact gcttatatcg cacttctact ttttctggtt
+     3001 tggctgcaaa ctgttgctgc aacttttgtt taaattcatt ataattttct gctccgtatt
+     3061 ctgcagataa gtattgtaaa tttgtttctt ttaacatctg ctcatatacg acagtttttg
+     3121 agctaccagc ttttattttg tttgttaatt caccaaaata acttgtagtt gctgctagat
+     3181 atttactacg atcccagtcg tgatctttac ttaactgttc gtcagacata ttaaaatatg
+     3241 agtaagttac acgccctgct ttatctggta ctggatcatc aaatgtagta tctaggtgat
+     3301 accatttgtt ttcaatgttc actaaattcc acgcgtgagc ttgtccgttt cctgtgcctg
+     3361 ttacaatatg gttttgaata cctgcctctt ttaacaactc atacgttaat aatgtatatc
+     3421 cttggcaaac ggcagaacga ttcgctaatg cttcatatgc tgtatacgct tgataagacg
+     3481 tatcataaga cacatgctta acaacgtaat cgtgaatagc ttttactttc tcatgctcat
+     3541 ccatccctgg ttttacaatt gatccaacaa ttgatttcac ctgagctttt acatattgag
+     3601 tttgttcttt tgattcacgg tattttactt gcagtgtaaa cgtatagtcc cctggcattc
+     3661 ctttaataga atatctagta gacgctacat tatattttac atactcatca gcatctacaa
+     3721 ttttattaaa ctcaccatac aattgatcca taatatttct agcatttcta tcttttgttt
+     3781 tatatgtgat tgtaatattt tcttctcgat tatcaatctg tttttttaat tcttttctga
+     3841 aatcatctaa taactttaca tctgattgta ctgtcactgt agtcggattt gtagctgcat
+     3901 aagatacaga tgatgcttgt aagcctccca ttactatagt tgaacaaagt gcggcagctg
+     3961 tcacatactt acttgtcttt cccatcttgt cactccttat attctataac tatacgaaaa
+     4021 agtatcgtat agtttcagag tatacaatac tttttcgtat aggtcatatg agattatgca
+     4081 tattaactaa ttcacataaa aaggttgttc tttttaaaag aacaaccttt tttcattagc
+     4141 atgtttgtaa tacacagcat gtattttcaa aacgttgatt tttcaaatct tcattattaa
+     4201 tacagaaata tagcatccct agttctcccc aaaccatatt acaattttta tgatctgaat
+     4261 caatttggaa taaaagagtc atttgctgcg ggtctactcc catatattct cctgtctcat
+     4321 ataacacttc ttcttgtaca gagaatggct caccaaacat ttgatggtta tcgtagttat
+     4381 ctggaattag ctcttcaagt aattgcaaga aacgatctga atcagcctca tcttcaatga
+     4441 aaagttctgg taatttgtat gtcagttcaa aagtaattgc acactggtta tatttcgctt
+     4501 gtatttcatt ttctcttcgt aattgctcta caggaacatc ataataaagt acacgcccag
+     4561 cttctgttag attcacattt tcttcaaaat aattttcaat gcaaaagaaa tacagcatcc
+     4621 ccgtcttagg aagattgtga tccataccaa cgttttgtaa atcacttaag ttaaattgcg
+     4681 cgataaattg tagtggattt cctttatgct ttggatattc aaataaagct ggtagatcag
+     4741 gaactcctcc cattttcgaa ctacctatcg caacagttcc ctgctgcttt ggcacaactt
+     4801 ttatacaagg aaatacagta ttaataagtt cttctttcaa gtgtgttagt tcatatttat
+     4861 caattaatac ttcaattttt ttattcataa attctcctta catttacata cttatttata
+     4921 tcatagtaca aagattatac ttcattcttt acaaaatcaa caagcctccc aaaaacgggc
+     4981 ttatccttcg tacgcgaaca agtttaaaaa agcatactat acattgttcc tacaaacatg
+     5041 ataattcttt agttcttcca gtacattttc ccctcgttca tttttaaata taaggaggaa
+     5101 ttccacatgg gttacggata tagttgctgt ggttacggat acggtggcgg cggttgtggt
+     5161 tacggaggtt tcgctttatt aatcgtttta tttatccttc taatcatcat cggagctagc
+     5221 tgttggggcg gctttatagg ctgctagtaa actaaaaaac tattgtaaaa aagcacgtac
+     5281 aatacgtgct tttttgccat ttctaaatct ttcattcgaa aggaagtatg tttaatgaag
+     5341 attgatggtg tttttgaagg aggcggtgtg cgcggtattg cgcatgtcgg ggcaatttgt
+     5401 gcgttagccg aaaaaggtta tgaatgggaa cgtgtagctg gtacatcggc tggttcgatt
+     5461 attgcagcgc tcctagcggc aggatattct tgttcagagt taaaaacgat tataactgat
+     5521 attgattata ataaatttac gaaaagaact tttattgata gaattccttt tatcggcaag
+     5581 ggactcagtg catggactac tctaggtata tattctaatg tatttataga agaatggatt
+     5641 gaagagttac ttcgaaaaaa aggtgttcat ttatttactg atttaccgga tctaaacaaa
+     5701 ctcaaaatca tcgcctctga tattagtaat ggtaaaatgg ttgtctttcc tgacgactta
+     5761 ccaaactacg gatttttaaa ttatcgcttc tctatcgcta aagcggtaag aatgagtagt
+     5821 acaatcccct tcttctttga accggtaaaa tggagaactc caaaatggaa gcagccttgt
+     5881 tatatggttg atggaggaat tctaagtaat tatccaattt ggatcttcga ttcacctacc
+     5941 gctcctcgct ggccgacttt cggatttcat tttgtaaaag atgagattca agctgatcct
+     6001 gctcactata acgagcctat ttccatgttc aaaggactat ttaaaacaat gatgcaagct
+     6061 catgatttac gtcatttaga taaggaatca aaagcaagaa cgattacaat tccaacagga
+     6121 acgattacaa gtactaattt tgaactgaca aaggaagaaa aagaatggct ttacaattct
+     6181 ggttataact ctgctaataa atttttacaa gcttggaact ttaggcaata tatcgatgaa
+     6241 tatagaaaag gaaatcaaga ccgaaagaca aatcgatttt ttcgtcaact tgactcataa
+     6301 tattattact ttgcgtataa atacgagaac gtttaacaac ttaataataa ataagcctag
+     6361 taatttctta tattactaga cttatttatt attatataat ctcgtacatt gtttaaggat
+     6421 acgttaaccc ttcggcttcc tctgcagtaa taactatgta acgatttccc gttcttaatc
+     6481 ctaacagttc tgctttttca atcgcttctt gcttcgtctc tgcataagca gctaaatatt
+     6541 tttctccatt gatcatttgg caaattacat attggttcat tactttctcc tcttactttt
+     6601 tcattagttg tgcaagtttt tttataccta tttcaatttc ttctaacgtt gcgtatgaat
+     6661 acgataggcg caaaaattga tttgcacttc tatcatataa agtacctggg tttaataaaa
+     6721 ccttttcttg cagagcttta tcaaataaac tgcgatatga aatgggtact tttatatgta
+     6781 cccatatata aaatccccct gttggttcat gccaagttgc tatttcacga agatatttat
+     6841 ctaacattag taacataaaa tctcttcgtt ttttcaattc acttcttaca aagcgcaaat
+     6901 gctcatcata tagaccattt gtaaaccact ctgctgcaat tttctgagat atagtgcttg
+     6961 aaccataatc tgtttgcatt tttatgtctg acaatctttg aattactggc tcaggtccaa
+     7021 caatccatcc aattcttaac cctggactaa ttactttgga catgcttcca atatgtagta
+     7081 cgattccatt tttatcatag gcttttaaag gtttcgaaca aggtgaatca aaccataagt
+     7141 cttgatacac tgcgtcctct ataataggta atccaatttc attacatatt tccatcactt
+     7201 ctattcgttt cttcgcattc atactaaagt tcgttggatt atgaaaagac gggattgtat
+     7261 ataaaataga tgcattaaat tgcttcttat attttgtaat atatgatgta tttaaaccgt
+     7321 tctcatccat tggtattcca atgaaacgca ttcctgcgga ttgaaaaaca ttaagcgagt
+     7381 ataaatagga tggtttctct aataagatgg atgccccttt tggaagaagc cccatagaga
+     7441 taagttgcag cgcttgaatt gctcctgaaa caattaatat agagtcagga gatacacata
+     7501 taccatgccc ctttaagtat tcggaaatct tttcccttaa ataaaaattt cctttcggct
+     7561 cttcataccc aagcttcaca tttgacttta aaagcttatt cataatttct ttcatctttt
+     7621 tctcaggtaa gagactcggc gcgagctcac ctgttcctaa tcgaattaca tgtggataaa
+     7681 attcagcttg attaatctcc tgaatagctg ggagattcgg ataatgaagt cctgtttcta
+     7741 cataagactg ccaattaggc gggggtgcgt aagttgaagc attctcatta ttatttacaa
+     7801 caattgttcc tttcctgcca ttcccttcaa tgtatccctt tgcaactagt tcatcgaaag
+     7861 ccattacaat tgtgcttcga ttcacaccaa atgtatgggc caaatctctt tgtgaaggta
+     7921 atttcgttcc aacggtccat tctccattaa cgatcctttc ttttatatac gtttctattt
+     7981 gtttatacag aggagtcgct agagacatat tcggtttcca aacgaatctt tccattatat
+     8041 caccttatat tctttttggt tggtaacctc cccaaccata tggatggata caaattttca
+     8101 tttcttctat acaatataca ctatcataat gaattaaaat aggaggtaat atgatgagtg
+     8161 aagcaattat tcatggtatc attcttgcat ttggacttat cattccatta ggtgtacaaa
+     8221 atgtttttgt ctttaaccaa ggtgcgagcc aaccaaacat ttggagggca gcccccgtaa
+     8281 tattaactgc ctctatatgt gatacgttac tcatattgat tgcagtgcaa ggtgtctccc
+     8341 ttgtactcct tactttttct tggctaacta actcgttata tatagttgga tttttctttc
+     8401 tcctatacat gggctttgtt atttggagaa gtaacccttc caacgatgta aaacaagaaa
+     8461 aaagtatgcc cttaaaaaag caaatccttt tcgcagcatc cgtttcgtta ttaaatccac
+     8521 atgctatttt agacacaatc ggtgtaattg gaacaaattc tattcaatac ataggaagtg
+     8581 aaaaatgggc tttcacactt gcaactatta tcgtttcttg gatttggttt ataagcttag
+     8641 cgttagcggg gaaatttcta aaaagactag actcaaccgg aaagacaatt ttattattaa
+     8701 ataaattttc tggtctcatc atatggggtg tcgcgcttta tatgttaaaa caagttattt
+     8761 attcttaatg aacgaaagag aattgcatgt tactcaaaac atcatgcaat tctcttacaa
+     8821 attatgaagt aggctctggt ttctgtttta ccgtctttgc atcctttgct ggtttaatcc
+     8881 aaatgattgc tatgacagca ccaatggcag cgaaaatact tgtcaaataa aacacttcat
+     8941 ggtccgcccc tttcatgaaa aaagaatata aaggtggtcc agctgctaca ccgataaatc
+     9001 gcattgaact ataaaatgac gtaaccgttc ccctttgctc cttttcaatt ccttgtgtaa
+     9061 tgagggcatc taaacatggg agtgccatac caatccctat ccccataata acgagacaaa
+     9121 gaagtagtaa ataaatccct tttataaata aaggaatgat gactgatgca gctgccatta
+     9181 aaaaaccaat ataaatacac ttcttcataa cattttgatt atctccaatt tttttaccgg
+     9241 ccatatagga actaagtgac agtacaagta acgggatagc aagcacacac cctttccata
+     9301 taccatgaat gtcatacttt gattccagta tagtcgacaa ataaaagaga attccgaata
+     9361 aaataagcat aataattgca cctaatgcaa aaatggcaat taaccatctt cctttttctc
+     9421 gaaacgtaga cagaatagat tttataaact ctttaagtgg tggtacttct ccttcttgtt
+     9481 tctttgcctt tactagaaca agtaacaaaa caattgatac gacacataaa actggaatcg
+     9541 cccaaaatgg taagaaccat acaatggcag caagagcaga tcctaaaata gggctcagca
+     9601 cttttccaaa tgtattggat gtctcaatga ttcccaaccc tgtactaact tgtttttcat
+     9661 ctttgtataa atcaccaaca cacggtataa caaccggcat tgcaccagca gcaccaatac
+     9721 cttgaatcgc tctaccgatt agtatccaaa tgtagggatt atcaattttc catgataccc
+     9781 aaccagttat cgctcctcct atagccgcaa tcagcaaact cggaaccatt accatctttc
+     9841 gtccccatct atctgataaa taaccagcaa tcggtataag taaaatggct acgatagagt
+     9901 aaattgtaat aatcatggat acttgaaacg atgaaatatg taatttcttt tcaattgtcg
+     9961 gcaagattgg aatgagcatt gaattcccta atgtcatgac aagtggaact gatgcaagcg
+    10021 caattaaaca acagttttct ttttttaaca tgttgatttc ggaacctttc atcatatatt
+    10081 tcttaccata taatagccct gttggaacat aattttcatt ccaccagggc tattacatct
+    10141 ttaatacttc ccattcacaa caaaagaaat tgggtaaaat atagtattac ttctattctt
+    10201 tgaattctgt tcactatata tccataccaa ttaattgaaa aaaaaagaaa ggaagaatcc
+    10261 ttcctttctc ctataacctt atacatttag cgagtatatc cgccaccaag ctgttgttct
+    10321 gccatcgcta ctaggcgttt tgtgatttca ccgcctacag aaccgtttgc acgtgaagaa
+    10381 gtatcagctc caagttgtac accgaactct tgtgcaattt catacttcat ttgatctaaa
+    10441 gctgcttgtg ctccatgtga tgctaattga ttagaattac gatttctagc cattaccaat
+    10501 cacctcctta tttatatata aattgtgtta aattcaaatt aaaatacatg gaaatttttg
+    10561 gttatttttt accataaaaa aagagcctct aaacgagact ctcacatcat ttcacattac
+    10621 gaagttacta cttctaattt tctatttatt aatactttca tttcttcttt taatatctct
+    10681 tttgaattat gtccaaacca ttctaaggaa gcaaaaagat ccgtatttct cacttcctga
+    10741 ataatctcat cataatttac aataccttca aataacggaa ccatacctat acgacttcct
+    10801 gctgcagcat atacattatt aggttcaaac acatgcaaat aatccgctga agatatattc
+    10861 ttaaaatggt aatgtagtgt ccacggcttt aatcgatgga aactgtctat tggatctgcg
+    10921 ccagactccc atatatgaag aaaatcaaga tttattttta aattcggatg gtttacttct
+    10981 tctaataact ctatagtaga aggcaatgtg tccgttagtg tattgggatg tgtttctaac
+    11041 agcacataca tattgttctg agcaaacaca tcacaaatct tacgtattcg cttcacatac
+    11101 tcttttctct cttgttccga gaagtccttg ctcccttttt gcccagcaaa cgtgcgaatt
+    11161 ttattcgtat taaaccaatt agctagtact acaagttgtt cacttttctc tatcgttttt
+    11221 tcaaaatctg ctgataatga tatatctaag taatcactta tcatcgtaat ttctaagttt
+    11281 ttatccttta gaaaattcaa ttctcgttct gtcgtttcac gttcttgcat gtacaaattt
+    11341 tgtgcatgcg tcccccataa ttcaattcct tcaaaaccgt tttcatatgc aaattgaaca
+    11401 atatcagtaa atgaaattaa ttgatgacga aatgaaatgg tacatagcga atatttcata
+    11461 gtattaaact cccctatctt aaattcagtt agcttattaa agagttgcga cagattgatt
+    11521 tgttttcata cctttccatg atagaaactg tctctctaat tccttcttaa tttgcagttc
+    11581 aattgcattc atttcatcca gtttttcaat aatcgatact agcatacctt tattattcgt
+    11641 cattgccatt ttaattgcac gatactgtac atttgtaaat ccttgtacaa tatcctctac
+    11701 ccgatcacac caataatcaa attcttgctc cgaatattgc aacgtttcac ggaagtatgc
+    11761 aaaggcatgc tcataactat atttacgaat tgcaagtact ggtatttgtt ttactgctgc
+    11821 tacaagtcca gaaagcgcat atccttcttc ctcatttgcc atttttacaa ttaaattttt
+    11881 cagttccata gtcagttcat tgtcgttctt tttgaatgtt tctgtgaaat aactagctac
+    11941 tgtttcttgc gttggctccc caattccttc tatatcaatg aaataacctc caccaaatgg
+    12001 gttatcttga atagagtgaa gtactttttc tctttccata tttccttccc aacgaaaatc
+    12061 aggatctagc atgaaccact cttcttcttt ctctgttttt gatatcatta aataatgtgg
+    12121 aaacggtttt tgatgaaatt tattttccct ctctggtaat agagacatat caaccattac
+    12181 aatgacataa cgattttccg gcttgttttc tactaattct aaaaacgttt ctacattgct
+    12241 atctttatct tttgcatgat cataccattc gtttacttta ataccgtaca atttttcaaa
+    12301 ccaaagtaaa taatgatcat ggttaatgtt ttcagagtga tatgaaataa ttccgccttg
+    12361 tgttatatca aaatctccat cccatagtcc aaaataaaat ggacgaaaat caatgtcgct
+    12421 acgcattttt ataatttcac aaaaacaact cactaaacag tgcactttaa ttgaagtcat
+    12481 actctcatcc actttcctaa aggttagtta ttcacattta cttcctgtaa cggctctaac
+    12541 tcttccataa aatcaagcaa agatcctaca gtaagaaatg cctttgggtc tacctcatcc
+    12601 tctggaacgc atagctttac atccatttct atgtatacaa taagctgtaa catcattacc
+    12661 gaatctatat ataaatcttg atttaagcgc atcgtttctt ctaaatgcgt tacatttttc
+    12721 agttccattt tttctatcat aatttttaac acggcattct ttaacgcttc ccgtctcatg
+    12781 ttgtaacctc tcccatctct agtaactttc tacttacttt tccagtttta tttttaggaa
+    12841 tttcatttac actttcaatt tcatgcggaa ctttataaga aggtaagtgc tgaatacacc
+    12901 attctcttat tttcactgga tcaacatgag agatcacttt cgctttaact atttcgccca
+    12961 tcacaggatg tttcccccga tatacaattg cctcttgcac accttccaat cgaagcatcg
+    13021 tttcttctac ctctatagga aagactttta atcctgagac attaattaca tcgtccatac
+    13081 gccccataaa atgaatgcca cgctcagatt tataccctaa atccttcgtg aaaatttcct
+    13141 tatcattcat tttcacgacg atttcttccg gtgcattttc atctgaacct atgcttatac
+    13201 ttgcatgagg tagagggttt cctaaatcta aatggctttt catatcatga catatactaa
+    13261 tacaacctgc ttcagaacaa ccgtattgct gcatcatata tgttgtcatt ttttttagtt
+    13321 tataaaatag tgcttctggc aaaggcgatc ctgatgtcat aattttatga aactggaacg
+    13381 ttcctaatgg aaaactcccc ataatgtgta acataagtgg tactgcatat ataatatgtt
+    13441 tttctgtatt gcgaactata tttaatgcga atttaggatt tttgttcgta atgattacag
+    13501 gcttgctccc cctcgtaatt gctgataacg taccacatat tagtccgtat gaatgtgaaa
+    13561 caggagccat aacgattggc acttcatcta cttcacagtt taaagcttca ttataggcag
+    13621 taatttctgt atcaacttcc gtccatgctc tacgaatcag tttcggttct cccgtagttc
+    13681 ccgaactata ttgcaataaa gaaggctctt ctagtaaaaa gttccctact tctaattttg
+    13741 taaaatcgcc atattctcca tataaaatcc ctacacaatt cgcacgcttt gccatttcaa
+    13801 tagccgtttc ttttggcgta tcttcatgta taagtaatac tgatgatttc ttttctttta
+    13861 agaaaaacac aagcgtaata atatcgaatg gatctttcag acaaagtgca aatctatttc
+    13921 cttctgcttt ttgaaattgt tccatttcct cataaacttg taatctcaat tcaaaatcac
+    13981 ttttgctata ctcttgttta ttaacgatta gcataatttc cccctgtaac agctgatttt
+    14041 tgtttcataa gttgtcttac tctatacaat ggatttggaa cttcatgaac aagcgattcc
+    14101 acatccatat ataatcgacg tttcgttaat tgttcagcat agaatgtagg tgcatataat
+    14161 tgaatatttt caaatctacc tttcaaatgt ggatatattc ttaaatgatt ttcaatttct
+    14221 tcaacaacca tcatccaaaa atgttcttct ttcaatccat actcatccgc aagtacgaat
+    14281 gctaattctc ctaaattaaa cagaaatagt gcatctaaca ccatctcttg caaacattca
+    14341 atgcgatcca tttcaaagaa atcattcatt tttccattcg catatgtttt atgcatttta
+    14401 gtaaagtcgg gacatttgtc aacttctttc aaatatggac gataaaactc aagcccttca
+    14461 tgaaaatcct ttaacgcaat acgaacaggc accccttctt tatggactag aatcatattt
+    14521 tgtccatgtg attccagtgc gatgccatgc tctacaacaa gatgtataac tggtattatc
+    14581 gctttttgaa taagtaattg tagccaatcc ttcattccat atttattcaa ccacgcatca
+    14641 ataattggtg taccatcttt ctctttagcg tataaaccat taaaaggaat tgcatcctct
+    14701 tgtgcatcta aatacttgtg aacgctttcg cgccaaatac atcctaatga accatatata
+    14761 gctttcttat tcgtgtcata cgttacactt gaaaactcac ttaacaagat taaacgtgct
+    14821 tcatccatta aataggcgtc attacttaca acatcattta accaatttga tattactggt
+    14881 gcacttacaa cagagtatgg tttcagcgta cgaagtgttg aagtgttgag taaattcatc
+    14941 gataatttaa cgtacggttt ctttggactc gtaatatttc ttaacgttct cattgactgt
+    15001 tgcgcgcaat aatcgtcctc tgatgttcct aaataaataa taaatttacc ctgtatatga
+    15061 tccgcataat ttgaaatgat gaaattctcc cactgccatg ggtgaacagg tataaacacg
+    15121 tactgttttg gattacatcc cttattacga attcgttcca taaactcttc taatttacga
+    15181 tcgccaatct cctcttttaa aatgttgtta tacatcactt cattctcata acctacagtc
+    15241 gcataattct tatgtgctgc aatccatatg agttttattg gctgcataaa ttcataacca
+    15301 tattgaaaat tgtcacgata ttgaaatcca acacgtgctt tataactagg atgatatgga
+    15361 tggccatcta ttaattggct ttcaaactca tcgtaagatt tttgagtata ttctctctta
+    15421 ttatttcttt catattgtgc aatcgtgtct ttaaatattg tttgttctaa ttcgtgcata
+    15481 aaagaatcta atttagcttg ttctacacta gtaacccgaa aaacttcttc tagaaattgc
+    15541 gagacagact gtatttcttg ctgttcatct tggactctta ctattaatga gtctaaagaa
+    15601 atacgtccaa atgtcatccg ttccctgcca tagcatttgt acgtgacact tttgtcttct
+    15661 tcatccagtc cttgtattag aaaaagaatt tgttcttctt tttctatgcg aaccggtgta
+    15721 ataatcccct cataaattaa cgattctact aattgacgta gcactcttct tcttactgaa
+    15781 atgtaatctt ctgattcgag cgccttcaat actttcgtat gatacatgtc cactctcata
+    15841 aaaccctcca ccttatgaca aaataccatt atttgtatta cgtgaaattt taacgctatt
+    15901 tatgaacgaa cagccacttc tctaacgagc ggattatgta cttgcacata aattgcttgc
+    15961 tctaatggat tacttaactc atcgacatcg aaaaatctcg ttagtaaatt tgctttacac
+    16021 gctaacttat cttcgtccaa taattctctt aaaaatgttg aaggttcccg gttatacgga
+    16081 aggaatgatt caagtacaga ccttaattcc gagagaagaa tttcctcctt aattaatcct
+    16141 gctgtgccaa aaccattaat gaggccaaac atatgattga aaattaagta gtaacgaaat
+    16201 ctctcatcca caatatagtc gtcatataaa tttccagtac gttctccaat accagctaat
+    16261 tcattattaa gcttttcttt cattgaatta cagaaataaa atccttgatt atcacggaaa
+    16321 taatatttga ccggataacc gtcttttagc tgaacaacgc tattttgctg atgagcttct
+    16381 aatgcaacac catactgtaa atacatccat accattggct ttaaagaaat attcatatat
+    16441 cgtctaaacc actctaagct tacttcttca cagcttttac tttctaaatc tgctagacga
+    16501 tgaataatat tcgataaccg cgtacgctct ccaggtatag cgtcttgaac tagcccagca
+    16561 attaatgttg cgtcgtttgc atgttcacta taaaaaggat tctcacgaat aattacttca
+    16621 aatccagatt cttgtgttcc ataatttaat gtaataaagg ctggatcaca aataaaatca
+    16681 aatcctggaa atctttctcg tacttcacca atagccgtat ttaacatttc cttcccttca
+    16741 agaccactct caagttcttt cagtttatta atacgcattg aattcgttac tttcaccgga
+    16801 aatgaaaact taagcatata cttcgaatcg ggatgataca gtgtccttag tgatgatgtt
+    16861 gccatataat acttacctat aggtccaata tactcaagca attcttgaac tatccaatct
+    16921 tgtacgtaag cttgatgcaa gagccattct gcctgaagcg gatgaattgg aattaatgca
+    16981 tattgatctt ccttacagta cttcgctata aattccttac taaccgtctc atcattgctt
+    17041 aattcttctt ttataatcat tgttgtagaa tctgataata atgatttttc atttactata
+    17101 cttttatgtg cccgaaaata atgaagctga cattctcctt ttaattctgg agaatacatt
+    17161 gcacttttcc aatccaatat cccctgtcta ctctttggtg taggatgagt taaatgccca
+    17221 aataataaag actgctccgc ttctataaaa gttgtatgga aaccgtataa tgcggattta
+    17281 tcttctattc tctcttttgt aaattcctca atattttgac aactacgaat gactcgaagc
+    17341 ataagttccg caggattcgt tccttctccg tagttgatag acatctcttt tattaaaaat
+    17401 gtaataactg taacgtaatc tgctgtaata acagaattac tatctccaat ttgataataa
+    17461 aattgttctc caaacaaatg gcgatctgtt gatgatttat atataacttc tccatacaaa
+    17521 gtaacgttct gtgccgatag ccgacaacat aaatatgtgg ggactgtatc tctattcaac
+    17581 gtattactga agatactctt cattctttca tcctctgtaa tccattctcc actccctgtt
+    17641 tctcttaaat aacagtttaa aaagctttgt aatgttgcat gttctgcgat ttgtttcgca
+    17701 tgctgcatgt tggtcctcct ctttatatta acgctatgag aatttcatat tacaattgat
+    17761 aattgaatat cgttatcaac tatgattcta attgataatg atattcaatt caatagtata
+    17821 tttcagaatt tttttatctg ctttaatttt tattgttttc cctcttttct ttgatctagt
+    17881 taaaaataca caaaaaaata ctcagtttca aactacatac ttactatttt tcattagtaa
+    17941 tctatccaaa atgtttaaac aaaagaggta taccttaatt ggtatacctc tttcaaacat
+    18001 aaaatttaca taataatatt atttatatct ctccagcaat atgctgtctc ttctacctgt
+    18061 aatcgctcta aaaattttgt atcaattttt tctgggttaa atttttcata aaacttttta
+    18121 gaaggattat tcgtaacaac ccaaactaaa agtgattgca tatcattatt tatacaatcc
+    18181 gataataaag cttgaaataa cttttgtcct attttcattc cttgatactc ttgtaaaagg
+    18241 tagattgcat ataattctcc atcacaatta taagtaccag ttctttctac tcccccatcg
+    18301 atgaatccaa ctatttctcc atttaaattc tctgctacaa atctaaattg atgattaccc
+    18361 tctttttgaa aaatatcttc ccattgtttt tctcgtttct catatgctat attatctaga
+    18421 atttcgtcag caaatatccc tttatacgtt gctttccaac tatcgacatg cacctttgct
+    18481 ataccttgta tatcatcctt tattgctctt ctaatatgta ttcccatcat ttctccccct
+    18541 ttattactca tcattatatc aatttcattc cttaaaaatc caaataaaaa agagtgaatt
+    18601 cacttgaact gcaccccaat tgttagacac agcctaacaa ttgggggtgc agtttttcta
+    18661 tggctaaatt tacagctgat gaaaaaatac aaatcgttct acgttatttg aacggaaatg
+    18721 aaagttatcg agaaatgggt agatcgctcg gta
+//
